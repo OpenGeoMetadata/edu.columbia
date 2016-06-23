@@ -1,0 +1,41 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri_2008_europe_cities",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_europe_cities",
+  "dc_title_s": "Europe Cities, 2008",
+  "dc_description_s": "Europe Cities is a point theme representing national capitals, major population centers, and landmark cities throughout Europe.  Attribute information indicates the name of the city, the population class, the country and province the city is located in, and whether the city is a capital.\n\nThis dataset is a part of the 2008 ESRI Data & Maps collection.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_europe_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_europe_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_europe_cities.xml\"}",
+  "georss_box_s": "27.9956 -21.9614 78.2079 64.0749",
+  "layer_id_s": "sde:columbia.esri_2008_europe_cities",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2009-07-08T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri_2008_europe_cities",
+  "solr_geom": "ENVELOPE(-21.9614, 64.0749, 78.2079, 27.9956)",
+  "solr_year_i": "2008",
+  "dc_creator_sm": [
+    "AND International Publishers N.V.",
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "society"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Europe"
+  ],
+  "dct_temporal_sm": [
+    "2008",
+    "2006"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "ESRI Data & Maps"
+  ],
+  "georss_polygon_s": "78.2079 -21.9614 78.2079 64.0749 27.9956 64.0749 27.9956 -21.9614 78.2079 -21.9614"
+}

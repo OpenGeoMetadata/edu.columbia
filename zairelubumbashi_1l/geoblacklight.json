@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.zairelubumbashi_1l",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.zairelubumbashi_1l",
+  "dc_title_s": "Lubumbashi, 2000 (Scanned Map)",
+  "dc_description_s": "Lubumbashi is a scanned, georeferenced map of the city of Lubumbashi, Zaire at a scale of 1:10,000.  This map is in six sheets.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ZaireLubumbashi_1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/zairelubumbashi_1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/zairelubumbashi_1l.xml\"}",
+  "georss_box_s": "-11.628924 27.448248 -11.55754 27.506351",
+  "layer_id_s": "sde:columbia.zairelubumbashi_1l",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-05-04T00:00:00Z",
+  "layer_slug_s": "sde-columbia-zairelubumbashi_1l",
+  "solr_geom": "ENVELOPE(27.448248, 27.506351, -11.55754, -11.628924)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "United States. Defense Mapping Agency",
+    "East View Cartographic, Inc."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "Defense Mapping Agency,"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Lubumbashi (Congo)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "-11.55754 27.448248 -11.55754 27.506351 -11.628924 27.506351 -11.628924 27.448248 -11.55754 27.448248"
+}

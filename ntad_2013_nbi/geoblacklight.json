@@ -1,0 +1,43 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.ntad_2013_nbi",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_nbi",
+  "dc_title_s": "United States National Bridge Inventory, 2013",
+  "dc_description_s": "The NBI is a collection of information (database) describing the more than 600,000 of the Nation's bridges located on public roads, including Interstate Highways, U.S. highways, State and county roads, as well as publicly-accessible bridges on Federal lands. It presents a State by State summary analysis of the number, location, and general condition of highway bridges within each State.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_nbi\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2013_nbi.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2013_nbi.xml\"}",
+  "georss_box_s": "0.0 -174.14 69.150556 0.0",
+  "layer_id_s": "sde:columbia.ntad_2013_nbi",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_nbi",
+  "solr_geom": "ENVELOPE(-174.14, 0.0, 69.150556, 0.0)",
+  "solr_year_i": "2011",
+  "dc_creator_sm": [
+    "United States. Bureau of Transportation Statistics",
+    "United States. Federal Highway Administration."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "Federal Highway Administration (FHWA)"
+  ],
+  "dc_subject_sm": [
+    "inlandWaters",
+    "location",
+    "structure",
+    "transportation"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "National Transportation Atlas Databases (NTAD) 2013"
+  ],
+  "georss_polygon_s": "69.150556 -174.14 69.150556 0.0 0.0 0.0 0.0 -174.14 69.150556 -174.14"
+}

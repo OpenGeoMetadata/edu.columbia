@@ -1,0 +1,40 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_streets",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_streets",
+  "dc_title_s": "Venice Streets",
+  "dc_description_s": "Venice Streets is a line theme representing all roads plus all Road Network features such as direction of travel, dividers, speed category, and access restrictions in Venice, Italy.\n\nThis layer is suitable for routing applications, as it represents the complete navigable road network. For intersection-driven routing applications, the Z Levels layer can also be used to establish roadway connectivity. This layer contains address ranges for all addressable lines and polylines in the Streets layer, and is used primarily for geocoding. NAVSTREETS provides Addresses for each end and each side of a line or polyline. \"From\" addresses correspond to the \"Reference\" end of the line or polyline, and \"To\" addresses correspond to the \"Non-Reference\" end of the line or polyline.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_streets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_streets.xml\"}",
+  "georss_box_s": "44.79558 10.62397 46.65588 13.0971",
+  "layer_id_s": "sde:columbia.leaddog_venice2008_streets",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2009-05-29T00:00:00Z",
+  "layer_slug_s": "sde-columbia-leaddog_venice2008_streets",
+  "solr_geom": "ENVELOPE(10.62397, 13.0971, 46.65588, 44.79558)",
+  "solr_year_i": "2008",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC",
+    "NAVTEQ (Firm)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": [
+    "transportation"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Venice (Italy)"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "46.65588 10.62397 46.65588 13.0971 44.79558 13.0971 44.79558 10.62397 46.65588 10.62397"
+}

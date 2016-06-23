@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.mapofleasedoysterground1907",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.mapofleasedoysterground1907",
+  "dc_title_s": "Map of Leased Oyster Ground, 1907",
+  "dc_description_s": "This is a scanned version of the 1907 paper map entitled: Map of Leased Oyster Ground .  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/mapofleasedoysterground1907.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/mapofleasedoysterground1907.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/mapofleasedoysterground1907.xml\"}",
+  "georss_box_s": "41.4434 -71.4862 41.8163 -71.1647",
+  "layer_id_s": "sde:columbia.mapofleasedoysterground1907",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-08-15T00:00:00Z",
+  "layer_slug_s": "sde-columbia-mapofleasedoysterground1907",
+  "solr_geom": "ENVELOPE(-71.4862, -71.1647, 41.8163, 41.4434)",
+  "solr_year_i": "1907",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Searle, O. Perry."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Rhode Island"
+  ],
+  "dct_temporal_sm": [
+    "1907"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "41.8163 -71.4862 41.8163 -71.1647 41.4434 -71.1647 41.4434 -71.4862 41.8163 -71.4862"
+}

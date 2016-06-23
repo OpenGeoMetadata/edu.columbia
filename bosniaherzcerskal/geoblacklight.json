@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.bosniaherzcerskal",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.bosniaherzcerskal",
+  "dc_title_s": "Cerska, 1995 (Scanned Map)",
+  "dc_description_s": "Cerska is a scanned, georeferenced map of the city of Cerska, Bosnia and Herzegovina at a scale of 1:10,000",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzCerskal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bosniaherzcerskal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bosniaherzcerskal.xml\"}",
+  "georss_box_s": "44.234775 19.011811 44.302843 19.0795",
+  "layer_id_s": "sde:columbia.bosniaherzcerskal",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2011-05-04T00:00:00Z",
+  "layer_slug_s": "sde-columbia-bosniaherzcerskal",
+  "solr_geom": "ENVELOPE(19.011811, 19.0795, 44.302843, 44.234775)",
+  "solr_year_i": "1995",
+  "dc_creator_sm": [
+    "United States. Defense Mapping Agency",
+    "East View Cartographic, Inc."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "The Agency,"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Cerska Region (Bosnia and Hercegovina)"
+  ],
+  "dct_temporal_sm": [
+    "1995"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "44.302843 19.011811 44.302843 19.0795 44.234775 19.0795 44.234775 19.011811 44.302843 19.011811"
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.landinfo_vmap0_cityareas",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_vmap0_cityareas",
+  "dc_title_s": "World Built Up Areas (VMAP0)",
+  "dc_description_s": "World Built Up Areas is a polygon theme representing built-up areas worldwide; objects in this layer have a FACC (Feature and Attribute Coding Catalogue) Code of AL020, defined as, \"Built-Up Area\".  This dataset is part of the Vector Map Level 0 database. The Vector Map (VMap) Level 0 database represents the third edition of the Digital Chart of the World. VMap Level 0 is a comprehensive 1:1,000,000 scale vector of the world. It consists of cartographic, attribute, and textual data stored on compact disc read only memory (CD-ROM). The primary source for the database is the National Imagery and Mapping Agency's (NIMA) Operational Navigation Chart (ONC) series. This is the largest scale unclassified map series in existence that provides consistent, continuous global coverage of essential basemap features. The data includes major road and rail networks, major hydrologic drainage systems, major utility networks (cross-country pipelines and communication lines), all major airports, elevation contours (1000 foot(ft), with 500ft and 250ft supplemental contours), coastlines, international boundaries and populated places.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/World_CityAreas_AREAS.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_vmap0_cityareas.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_vmap0_cityareas.xml\"}",
+  "georss_box_s": "-53.167423 -179.129608 70.992729 178.443253",
+  "layer_id_s": "sde:columbia.landinfo_vmap0_cityareas",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2008-11-13T00:00:00Z",
+  "layer_slug_s": "sde-columbia-landinfo_vmap0_cityareas",
+  "solr_geom": "ENVELOPE(-179.129608, 178.443253, 70.992729, -53.167423)",
+  "solr_year_i": "1997",
+  "dc_creator_sm": [
+    "National Imagery and Mapping Agency"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "National Imagery and Mapping Agency"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "1997"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "70.992729 -179.129608 70.992729 178.443253 -53.167423 178.443253 -53.167423 -179.129608 70.992729 -179.129608"
+}

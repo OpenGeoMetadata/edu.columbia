@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_anhuidriver",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_anhuidriver",
+  "dc_title_s": "China Anhui Main Rivers, Census 2000",
+  "dc_description_s": "Anhui Main Rivers (China 2000 Census) is a polygon theme representing major rivers in Anhui Province in China in 2000. It also includes some lake, dam, and reservoir features. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_anhuidriver.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_anhuidriver.xml\"}",
+  "georss_box_s": "29.4 114.872 34.65 119.651",
+  "layer_id_s": "sde:columbia.cdc_census2000_anhuidriver",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2011-08-23T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_anhuidriver",
+  "solr_geom": "ENVELOPE(114.872, 119.651, 34.65, 29.4)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "University of Michigan. China Data Center.",
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "All China Marketing Research Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "China",
+    "Anhui Sheng (China)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "34.65 114.872 34.65 119.651 29.4 119.651 29.4 114.872 34.65 114.872"
+}

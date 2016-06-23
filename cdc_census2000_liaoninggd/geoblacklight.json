@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_liaoninggd",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_liaoninggd",
+  "dc_title_s": "China Liaoning State Roads, Census 2000",
+  "dc_description_s": "Liaoning State Roads (China 2000 Census) is a polyline theme representing state roads in Liaoning Province in China for 2000. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_liaoninggd.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_liaoninggd.xml\"}",
+  "georss_box_s": "38.803024 118.998772 43.43808 125.485497",
+  "layer_id_s": "sde:columbia.cdc_census2000_liaoninggd",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2011-08-23T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_liaoninggd",
+  "solr_geom": "ENVELOPE(118.998772, 125.485497, 43.43808, 38.803024)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "University of Michigan. China Data Center.",
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "All China Marketing Research Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "China",
+    "Liaoning SHeng (China)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "43.43808 118.998772 43.43808 125.485497 38.803024 125.485497 38.803024 118.998772 43.43808 118.998772"
+}

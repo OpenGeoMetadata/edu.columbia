@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cartedelatartairechinoise",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cartedelatartairechinoise",
+  "dc_title_s": "Carte De La Tartaire Chinoise, 1780 ",
+  "dc_description_s": "This is a scanned version of the 1780 paper map entitled: Carte De La Tartaire Chinoise. The map was scanned at 300 dots per inch and is in the TIFF format. This map was originally published in the 1780 Atlas Histoire universelle, depuis le commencement du monde",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cartedelatartairechinoise.zip \",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cartedelatartairechinoise.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cartedelatartairechinoise.xml\"}",
+  "georss_box_s": "35.0 80.0 60.0 145.0",
+  "layer_id_s": "sde:columbia.cartedelatartairechinoise",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-05-13T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cartedelatartairechinoise",
+  "solr_geom": "ENVELOPE(80.0, 145.0, 60.0, 35.0)",
+  "solr_year_i": "1780",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Brion de la Tour, Louis"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "60.0 80.0 60.0 145.0 35.0 145.0 35.0 80.0 60.0 80.0"
+}

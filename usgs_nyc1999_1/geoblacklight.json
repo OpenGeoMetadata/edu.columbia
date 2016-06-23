@@ -1,0 +1,43 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.usgs_nyc1999_1",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.usgs_nyc1999_1",
+  "dc_title_s": "New York City Area Digital Elevation Model, 1 Arc Second  (feet)",
+  "dc_description_s": "New York City Area Digital Elevation Model, 1 Arc Second  (feet) is a raster dataset representing elevations in the New York City area.  This layer was clipped from the USGS NED to New York City and its immediate surrounding environment showing elevation (in feet), and ground units in decimal degrees. The resolution is 1 arc second.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyc_1.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/usgs_nyc1999_1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/usgs_nyc1999_1.xml\"}",
+  "georss_box_s": "40.488331 -74.267048 40.932635 -73.689129",
+  "layer_id_s": "sde:columbia.usgs_nyc1999_1",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2009-08-11T00:00:00Z",
+  "layer_slug_s": "sde-columbia-usgs_nyc1999_1",
+  "solr_geom": "ENVELOPE(-74.267048, -73.689129, 40.932635, 40.488331)",
+  "solr_year_i": "1999",
+  "dc_creator_sm": [
+    "U.S. Geological Survey (USGS), EROS Data Center"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "U.S. Geological Survey"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Bronx (New York, N.Y.)",
+    "Queens (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)",
+    "Staten Island (New York, N.Y.)",
+    "NYC"
+  ],
+  "dct_temporal_sm": [
+    "1999"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "40.932635 -74.267048 40.932635 -73.689129 40.488331 -73.689129 40.488331 -74.267048 40.932635 -74.267048"
+}

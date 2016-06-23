@@ -1,0 +1,37 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.halcrow-2012njtransitsta",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.halcrow-2012njtransitsta",
+  "dc_title_s": "New Jersey Transit Rail Stations, 2012",
+  "dc_description_s": "New Jersey Transit Rail Stations 2012 is a point theme representing New Jersey Transit rail stations.  Attribute information includes the name of the station, the name of the line, the name of the operator, the county the station is located in and an indicator of handicap accessibility.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nj_transit_station2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/halcrow-2012njtransitsta.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/halcrow-2012njtransitsta.xml\"}",
+  "georss_box_s": "39.361494 -75.19797 41.473796 -73.979195",
+  "layer_id_s": "sde:columbia.halcrow-2012njtransitsta",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2014-03-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-halcrow-2012njtransitsta",
+  "solr_geom": "ENVELOPE(-75.19797, -73.979195, 41.473796, 39.361494)",
+  "solr_year_i": "2012",
+  "dc_creator_sm": [
+    "Halcrow Group Limited"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "New Jersey"
+  ],
+  "dct_temporal_sm": [
+    "2012"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "NJ Transportation Maps and Tables"
+  ],
+  "georss_polygon_s": "41.473796 -75.19797 41.473796 -73.979195 39.361494 -73.979195 39.361494 -75.19797 41.473796 -75.19797"
+}

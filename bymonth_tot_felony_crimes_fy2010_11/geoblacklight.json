@@ -1,0 +1,45 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.bymonth_tot_felony_crimes_fy2010_11",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.bymonth_tot_felony_crimes_fy2010_11",
+  "dc_title_s": "New York City Crimes, Total Felonies, 2010-2011",
+  "dc_description_s": "New York City Crimes, Total Felonies, 2010-2011 is a polygon themem representing the number of felony crimes by police precinct in New York City for the fiscal year 2010-2011 (July 2010 - June 2011).  Attribute information reports the number of crimes by month for each precinct.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.bymonth_tot_felony_crimes_fy2010_11\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bymonth_tot_felony_crimes_fy2010_11.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bymonth_tot_felony_crimes_fy2010_11.xml\"}",
+  "georss_box_s": "40.495805 -74.257465 40.915808 -73.69921",
+  "layer_id_s": "sde:columbia.bymonth_tot_felony_crimes_fy2010_11",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-bymonth_tot_felony_crimes_fy2010_11",
+  "solr_geom": "ENVELOPE(-74.257465, -73.69921, 40.915808, 40.495805)",
+  "solr_year_i": "2010",
+  "dc_creator_sm": [
+    "New York City Department of City Planning",
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "New York (N.Y.). Police Department"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Staten Island (New York, N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)",
+    "Queens (New York, N.Y.)",
+    "Bronx (New York, N.Y.)",
+    "NYC"
+  ],
+  "dct_temporal_sm": [
+    "2010"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "40.915808 -74.257465 40.915808 -73.69921 40.495805 -73.69921 40.495805 -74.257465 40.915808 -74.257465"
+}

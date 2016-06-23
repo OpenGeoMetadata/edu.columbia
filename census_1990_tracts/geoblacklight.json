@@ -1,0 +1,44 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.census_1990_tracts",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.census_1990_tracts",
+  "dc_title_s": "New York City Census Tracts, 1990",
+  "dc_description_s": "New York City 1990 Tracts is a polygon theme representing tracts used for the 1990 US Census in New York City.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/tracts1990.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/census_1990_tracts.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/census_1990_tracts.xml\"}",
+  "georss_box_s": "40.495977 -74.257657 40.915313 -73.698613",
+  "layer_id_s": "sde:columbia.census_1990_tracts",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2007-03-27T00:00:00Z",
+  "layer_slug_s": "sde-columbia-census_1990_tracts",
+  "solr_geom": "ENVELOPE(-74.257657, -73.698613, 40.915313, 40.495977)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "U.S. Department of Commerce\nBureau of the Census\nGeography Division"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "U.S. Department of Commerce\nBureau of the Census\nGeography Division"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Bronx (New York, N.Y.)",
+    "Queens (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)",
+    "Staten Manhattan (New York, N.Y.),",
+    "NYC"
+  ],
+  "dct_temporal_sm": [
+    "2000",
+    "1990"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "TIGER/Line Files"
+  ],
+  "georss_polygon_s": "40.915313 -74.257657 40.915313 -73.698613 40.495977 -73.698613 40.495977 -74.257657 40.915313 -74.257657"
+}

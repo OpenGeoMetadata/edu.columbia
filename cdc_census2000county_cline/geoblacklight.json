@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cdc_census2000county_cline",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000county_cline",
+  "dc_title_s": "China County Boundaries, Census 2000",
+  "dc_description_s": "China County Boundaries is a polyline theme representing county boundaries in China for 2000. County boundaries include national level boundaries with generalized coastlines corresponding to 2000 year GB (Guo Biao -- National Standard) administrative geography used for statistical reporting and population census. This data layer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000county_cline.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000county_cline.xml\"}",
+  "georss_box_s": "6.318641 73.44696 53.557926 135.085831",
+  "layer_id_s": "sde:columbia.cdc_census2000county_cline",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2009-02-03T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000county_cline",
+  "solr_geom": "ENVELOPE(73.44696, 135.085831, 53.557926, 6.318641)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "University of Michigan. China Data Center.",
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "All China Marketing Research Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "Zhongguo 2000 nian xiang zhen ren kou pu cha zi liao yu di tu [electronic resource] = China 2000 township population census data with maps."
+  ],
+  "georss_polygon_s": "53.557926 73.44696 53.557926 135.085831 6.318641 135.085831 6.318641 73.44696 53.557926 73.44696"
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.ntad_2013_ports",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_ports",
+  "dc_title_s": "United States Ports, 2013",
+  "dc_description_s": "Contains physical information on commercial facilities at the principal U.S. Coastal, Great Lakes and Inland Ports. The data consists of listings of port area's waterfront facilities, including information on berthing, cranes, transit sheds, grain elevators, marine repair plants, fleeting areas, and docking and storage facilities. Collection of data is performed on a rotational basis to ensure on-site accuracy at each facility.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_ports\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2013_ports.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2013_ports.xml\"}",
+  "georss_box_s": "-14.5 -178.319529 71.292642 179.13245",
+  "layer_id_s": "sde:columbia.ntad_2013_ports",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_ports",
+  "solr_geom": "ENVELOPE(-178.319529, 179.13245, 71.292642, -14.5)",
+  "solr_year_i": "2011",
+  "dc_creator_sm": [
+    "United States. Bureau of Transportation Statistics",
+    "United States. Army. Corps of Engineers."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS)"
+  ],
+  "dc_subject_sm": [
+    "transportation",
+    "economy",
+    "inlandWaters",
+    "location",
+    "structure"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "National Transportation Atlas Databases (NTAD) 2013"
+  ],
+  "georss_polygon_s": "71.292642 -178.319529 71.292642 179.13245 -14.5 179.13245 -14.5 -178.319529 71.292642 -178.319529"
+}

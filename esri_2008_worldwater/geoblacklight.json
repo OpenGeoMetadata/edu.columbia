@@ -1,0 +1,41 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri_2008_worldwater",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_worldwater",
+  "dc_title_s": "World Water Bodies, 2008",
+  "dc_description_s": "Water Bodies is a polygon theme representing lakes, rivers, and ocean areas of the world. The dataset is comprised of 12 tiles; 6 of the tiles were originally produced as a companion to the Shuttle Radar Topography Mission (SRTM) digital elevation model.  The extent of these 6 tiles cover the SRTM coverage area (between 60 degrees North and 56 degrees South latitude) and their primary source for was a Landsat 5-based landcover water layer supplemented with medium-scale maps and charts.  The more northerly and southerly latitudes were derived from the GTOPO30 DEM at a resolution of 1 kilometer.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_worldwater.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_worldwater.xml\"}",
+  "georss_box_s": "-85.0 -180.0 85.0 180.0",
+  "layer_id_s": "sde:columbia.esri_2008_worldwater",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2007-09-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri_2008_worldwater",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 85.0, -85.0)",
+  "solr_year_i": "2008",
+  "dc_creator_sm": [
+    "EROS Data Center",
+    "United States. National Aeronautics and Space Administration",
+    "United States. National Geospatial-Intelligence Agency",
+    "Economic and Social Research Institute"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2008",
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "ESRI Data & Maps"
+  ],
+  "georss_polygon_s": "85.0 -180.0 85.0 180.0 -85.0 180.0 -85.0 -180.0 85.0 -180.0"
+}

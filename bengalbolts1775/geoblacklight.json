@@ -1,0 +1,37 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.bengalbolts1775",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.bengalbolts1775",
+  "dc_title_s": "Carte du Bengale et de ses Dependances, 1775",
+  "dc_description_s": "This is a scanned version of the 1775 paper map entitled: Carte du Bengale et de ses dependances.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/bengalbolts1775.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bengalbolts1775.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bengalbolts1775.xml\"}",
+  "georss_box_s": "20.3773953826499 82.6909939324945 27.7368310585907 94.0480019706835",
+  "layer_id_s": "sde:columbia.bengalbolts1775",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-05-13T00:00:00Z",
+  "layer_slug_s": "sde-columbia-bengalbolts1775",
+  "solr_geom": "ENVELOPE(82.6909939324945, 94.0480019706835, 27.7368310585907, 20.3773953826499)",
+  "solr_year_i": "1775",
+  "dc_creator_sm": [
+    "Electronic Data Service, Columbia University Libraries"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Bengal (India)"
+  ],
+  "dct_temporal_sm": [
+    "1775"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "27.7368310585907 82.6909939324945 27.7368310585907 94.0480019706835 20.3773953826499 94.0480019706835 20.3773953826499 82.6909939324945 27.7368310585907 82.6909939324945"
+}

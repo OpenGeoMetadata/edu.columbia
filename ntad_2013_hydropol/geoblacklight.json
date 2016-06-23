@@ -1,0 +1,44 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.ntad_2013_hydropol",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_hydropol",
+  "dc_title_s": "United States Hydrographic Polygons, 2013",
+  "dc_description_s": "The hydro polygon/arc coverages were created using TIGER/LINE 2000 shapefile data gathered from ESRI's Geography Network. The individual county hydrography line shapefiles were processed into Arc/Info coverages and then appended together to create complete state coverages. They were then edited to remove unwanted features, leaving a state-by-state database of both important and navigable water features. Attributes were added to denote navigable features and names. Also, an attribute was added to the polygons to denote which were water and which were land features. The state databases were then appended together to create a single, nationwide hydrography network containing named arcs and polygons. These features also contain a state FIPS. Because some of the hydro features are represented by lines instead of polygons, the complete hydro dataset consists of 2 shapefiles, one for lines and one for polygons. They must be used together to paint a complete picture.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_hydropol\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2013_hydropol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2013_hydropol.xml\"}",
+  "georss_box_s": "17.831509 -179.252851 71.441056 179.830623",
+  "layer_id_s": "sde:columbia.ntad_2013_hydropol",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_hydropol",
+  "solr_geom": "ENVELOPE(-179.252851, 179.830623, 71.441056, 17.831509)",
+  "solr_year_i": "2011",
+  "dc_creator_sm": [
+    "United States. Bureau of Transportation Statistics",
+    "United States. Department of Transportation. Research and Innovative Technology Administration",
+    "United States. Bureau of the Census."
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "U.S. Bureau of the Census (BOC)"
+  ],
+  "dc_subject_sm": [
+    "boundaries",
+    "environment",
+    "inlandWaters",
+    "oceans"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "National Transportation Atlas Databases (NTAD) 2013"
+  ],
+  "georss_polygon_s": "71.441056 -179.252851 71.441056 179.830623 17.831509 179.830623 17.831509 -179.252851 71.441056 -179.252851"
+}

@@ -1,0 +1,43 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri_2008_worldsatrelief",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_worldsatrelief",
+  "dc_title_s": "World WorldSat Color Shaded Relief, 2008",
+  "dc_description_s": "World WorldSat Color Shaded Relief is a raster theme representing a cloud-free view of the Earth produced by mosaicking hundreds of individual 1996 NOAA weather satellite images. These satellites orbit the Earth at an altitude of 800 km (497 miles). The image has a cell size of four square kilometers (1.544 sq. mi.) at the equator. \n\nOn completion of the base satellite mosaic, the land areas were enhanced with shaded relief imagery, derived from 1,000-meter digital elevation data, bringing the Earth's topography to life. For the Ocean areas, WorldSat incorporated ocean floor relief data (bathymetry), providing a view of the undersea topography.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_worldsatrelief.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_worldsatrelief.xml\"}",
+  "georss_box_s": "-85.0 -180.0 85.0 180.0",
+  "layer_id_s": "sde:columbia.esri_2008_worldsatrelief",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-01-04T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri_2008_worldsatrelief",
+  "solr_geom": "ENVELOPE(-180.0, 180.0, 85.0, -85.0)",
+  "solr_year_i": "2008",
+  "dc_creator_sm": [
+    "WorldSat International Inc.",
+    "Economic and Social Research Institute"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "elevation",
+    "oceans",
+    "imageryBaseMapsEarthCover"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "World"
+  ],
+  "dct_temporal_sm": [
+    "2008",
+    "1996"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "ESRI Data & Maps"
+  ],
+  "georss_polygon_s": "85.0 -180.0 85.0 180.0 -85.0 180.0 -85.0 -180.0 85.0 -180.0"
+}

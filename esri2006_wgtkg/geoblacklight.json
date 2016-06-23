@@ -1,0 +1,43 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri2006_wgtkg",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri2006_wgtkg",
+  "dc_title_s": "Turks and Caicos Islands World Gazetteer Locations, 2006",
+  "dc_description_s": "Turks and Caicos Islands World Gazetteer Locations is a point theme representing the locations and proper names for map features in Turks and Caicos Islands. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/TKG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_wgtkg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_wgtkg.xml\"}",
+  "georss_box_s": "21.316003 -72.439999 21.965002 -70.963999",
+  "layer_id_s": "sde:columbia.esri2006_wgtkg",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2007-09-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri2006_wgtkg",
+  "solr_geom": "ENVELOPE(-72.439999, -70.963999, 21.965002, 21.316003)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "transportation",
+    "oceans",
+    "location",
+    "society"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Turks and Caicos Islands"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1992"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "ESRI Data & Maps"
+  ],
+  "georss_polygon_s": "21.965002 -72.439999 21.965002 -70.963999 21.316003 -70.963999 21.316003 -72.439999 21.965002 -72.439999"
+}

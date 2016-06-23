@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.ntad_2013_cd113",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_cd113",
+  "dc_title_s": "United States 113th Congressional Districts Boundaries, 2013",
+  "dc_description_s": "The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Congressional Districts are the 435 areas from which people are elected to the U.S. House of Representatives. After the apportionment of congressional seats among the States based on census population counts, each State is responsible for establishing congressional districts for the purpose of electing representatives. Each congressional district is to be as equal in population to all other congressional districts in a State as practicable. The congressional districts for the 113th Congress (January 2013 to 2015) are the first Congressional Districts based on 2010 Census data. The TIGER/Line shapefiles for the District of Columbia, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands) each contain a single record for the non-voting delegate district in these areas. The boundaries of all other congressional districts are provided to the Census Bureau through the Redistricting Data Program (RDP).",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_cd113\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2013_cd113.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2013_cd113.xml\"}",
+  "georss_box_s": "17.884813 -179.14734 71.352561 179.77847",
+  "layer_id_s": "sde:columbia.ntad_2013_cd113",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_cd113",
+  "solr_geom": "ENVELOPE(-179.14734, 179.77847, 71.352561, 17.884813)",
+  "solr_year_i": "2013",
+  "dc_creator_sm": [
+    "United States. Bureau of Transportation Statistics"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": [
+    "boundaries"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2013"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "71.352561 -179.14734 71.352561 179.77847 17.884813 179.77847 17.884813 -179.14734 71.352561 -179.14734"
+}

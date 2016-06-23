@@ -1,0 +1,41 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri2006_1stadbdcs",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri2006_1stadbdcs",
+  "dc_title_s": "Costa Rica Administrative Boundaries Level 1, 2006",
+  "dc_description_s": "Costa Rica Administrative Boundaries Level 1 is a polygon theme representing the boundaries for the first-level administrative units of Costa Rica.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/CS.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_1stadbdcs.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_1stadbdcs.xml\"}",
+  "georss_box_s": "8.025673 -85.911391 11.212845 -82.5614",
+  "layer_id_s": "sde:columbia.esri2006_1stadbdcs",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2007-08-29T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri2006_1stadbdcs",
+  "solr_geom": "ENVELOPE(-85.911391, -82.5614, 11.212845, 8.025673)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "society",
+    "boundaries"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Costa Rica"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1996"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "ESRI® Data & Maps"
+  ],
+  "georss_polygon_s": "11.212845 -85.911391 11.212845 -82.5614 8.025673 -82.5614 8.025673 -85.911391 11.212845 -85.911391"
+}

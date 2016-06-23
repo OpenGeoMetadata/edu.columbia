@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_qinghaitownshipl2",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_qinghaitownshipl2",
+  "dc_title_s": "China Qinghai Township, Population (9.95% long form, L7-L8), Census 2000",
+  "dc_description_s": "Qinghai Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L7-L8) is a point theme representing townships in Qinghai Province in China. Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  \n\nThis layer is the second of two layers covering the entire long form data; this layer covers Long Form tables L7-1 to L8-6: L7-1: Population by current residence and place of birth; L7-2: Population by current residence and by time of moving to current township, town or street; L7-3: Population by current residence and type of emigration place.  L7-4: Population by current residence and former residence 5 years ago; L7-6-1: Population by current residence, type of emigration place and education attainment (intra-region); L7-6-2: Population by current residence, type of emigration place and education attainment (inter-region); L7-7-1: Population by current residence, emigration place and occupation (intra-region); L7-7-2: Population by current residence, emigration place and occupation (inter-region); L7-8: Women having births by current residence, place of household registration and birth order.   L8-1: Family households by use of houses, whether living with other families, single or multi floors, outer wall materials and by region; L8-2: Status of family houses by time of construction and by region; L8-3: Housing facilities by region; L8-4: Family households by source of houses and by region; L8-5: Family households by expenditure on purchasing or building houses and by region; L8-6: Family households by monthly housing rent and by region. \n\nThis data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_qinghaitownshipl2.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_qinghaitownshipl2.xml\"}",
+  "georss_box_s": "31.902617 90.211708 38.914581 102.942224",
+  "layer_id_s": "sde:columbia.cdc_census2000_qinghaitownshipl2",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2009-02-12T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_qinghaitownshipl2",
+  "solr_geom": "ENVELOPE(90.211708, 102.942224, 38.914581, 31.902617)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "University of Michigan. China Data Center.",
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "All China Marketing Research Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "China",
+    "Qinghai Sheng (China)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "38.914581 90.211708 38.914581 102.942224 31.902617 102.942224 31.902617 90.211708 38.914581 90.211708"
+}

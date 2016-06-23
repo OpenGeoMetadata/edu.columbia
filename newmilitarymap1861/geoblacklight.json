@@ -1,0 +1,40 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.newmilitarymap1861",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.newmilitarymap1861",
+  "dc_title_s": "Lloyd's New Military Map of the Border & Southern States, 1861",
+  "dc_description_s": "This is a scanned version of the 1861 paper map entitled: Lloyd's New Military Map of the Border & Southern States.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/newmilitarymap1861.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/newmilitarymap1861.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/newmilitarymap1861.xml\"}",
+  "georss_box_s": "27.8 -97.2 42.5 -72.9",
+  "layer_id_s": "sde:columbia.newmilitarymap1861",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-08-14T00:00:00Z",
+  "layer_slug_s": "sde-columbia-newmilitarymap1861",
+  "solr_geom": "ENVELOPE(-97.2, -72.9, 42.5, 27.8)",
+  "solr_year_i": "1861",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Hall, Edward S.",
+    "H.H. Lloyd & Co."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "H.H. Lloyd & Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Confederate States of America",
+    "Southern States"
+  ],
+  "dct_temporal_sm": [
+    "1861"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "42.5 -97.2 42.5 -72.9 27.8 -72.9 27.8 -97.2 42.5 -97.2"
+}

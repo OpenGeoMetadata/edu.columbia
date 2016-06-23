@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_jiangxihiway",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_jiangxihiway",
+  "dc_title_s": "China Jiangxi Highways, Census 2000",
+  "dc_description_s": "Jiangxi Highways (China 2000 Census) is a polyline theme representing highways in Jiangxi Province in China in 2000. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_jiangxihiway.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_jiangxihiway.xml\"}",
+  "georss_box_s": "26.820379 113.614836 29.748785 118.349459",
+  "layer_id_s": "sde:columbia.cdc_census2000_jiangxihiway",
+  "layer_geom_type_s": "Line",
+  "layer_modified_dt": "2011-08-23T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_jiangxihiway",
+  "solr_geom": "ENVELOPE(113.614836, 118.349459, 29.748785, 26.820379)",
+  "solr_year_i": "2000",
+  "dc_creator_sm": [
+    "University of Michigan. China Data Center.",
+    "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "All China Marketing Research Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "China",
+    "Jiangxi Sheng (China)"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "29.748785 113.614836 29.748785 118.349459 26.820379 118.349459 26.820379 113.614836 29.748785 113.614836"
+}

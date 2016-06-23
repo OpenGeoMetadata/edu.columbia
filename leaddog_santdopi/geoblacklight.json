@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.leaddog_santdopi",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_santdopi",
+  "dc_title_s": "Santo Domingo Points of Interest",
+  "dc_description_s": "Santo Domingo Points of Interest is a point theme  representing hospitals, schools, hotels, places of worship, police stations, sporting areas, cemeteries, government buildings, shopping centers and other points of interest in Santo Domingo, Dominican Republic.  The type and name of the point is encoded in the attribute information.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/santdopi.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_santdopi.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_santdopi.xml\"}",
+  "georss_box_s": "18.418186 -70.018107 18.546882 -69.749988",
+  "layer_id_s": "sde:columbia.leaddog_santdopi",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2011-03-21T00:00:00Z",
+  "layer_slug_s": "sde-columbia-leaddog_santdopi",
+  "solr_geom": "ENVELOPE(-70.018107, -69.749988, 18.546882, 18.418186)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": [
+    "society"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Santo Domingo (Dominican Republic)"
+  ],
+  "dct_temporal_sm": [
+    "2006"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "18.546882 -70.018107 18.546882 -69.749988 18.418186 -69.749988 18.418186 -70.018107 18.546882 -70.018107"
+}

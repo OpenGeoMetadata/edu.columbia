@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.geologicalmappennsylvania",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.geologicalmappennsylvania",
+  "dc_title_s": "Geological map of the state of Pennsylvania  : constructed from original surveys made between 1836 and 1857 (Scanned Map)",
+  "dc_description_s": "This is a scanned version of the  paper map entitled: Geological map of the state of Pennsylvania : constructed from original surveys made between 1836 and 1857.  The map was scanned at 300 dots per inch and is in the TIFF format.  This map comes in two sheets, the second Sheet is a supplement titled, Geolocial Sections Across Pennsylvania, to illustrate the Geological Map of the State.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/geologicalmappennsylvania.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/geologicalmappennsylvania.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/geologicalmappennsylvania.xml\"}",
+  "georss_box_s": "39.5 -80.5 42.5 -74.5",
+  "layer_id_s": "sde:columbia.geologicalmappennsylvania",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2012-10-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-geologicalmappennsylvania",
+  "solr_geom": "ENVELOPE(-80.5, -74.5, 42.5, 39.5)",
+  "solr_year_i": "1836",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Rogers, Henry D. 1808-1866.  (Henry Darwin)",
+    "W. & A.K. Johnston Limited. ; Geological Survey of Pennsylvania."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "Pennsylvania Geological Survey"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Geology -- Pennsylvania -- Maps"
+  ],
+  "dct_temporal_sm": [
+    "1836"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "42.5 -80.5 42.5 -74.5 39.5 -74.5 39.5 -80.5 42.5 -80.5"
+}

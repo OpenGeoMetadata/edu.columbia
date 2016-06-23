@@ -1,0 +1,40 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.global_mapping_cub_rryardp",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.global_mapping_cub_rryardp",
+  "dc_title_s": "Cuba Railyards",
+  "dc_description_s": "Cuba Railyards is a point theme representing  Railyards in Cuba.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/cub_rryardp.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/global_mapping_cub_rryardp.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/global_mapping_cub_rryardp.xml\"}",
+  "georss_box_s": "19.997231 -84.084221 23.132881 -75.158112",
+  "layer_id_s": "sde:columbia.global_mapping_cub_rryardp",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2009-09-03T00:00:00Z",
+  "layer_slug_s": "sde-columbia-global_mapping_cub_rryardp",
+  "solr_geom": "ENVELOPE(-84.084221, -75.158112, 23.132881, 19.997231)",
+  "solr_year_i": "2007",
+  "dc_creator_sm": [
+    "International Steering Committee for Global Mapping (ISCGM)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": [
+    "transportation",
+    "structure"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Cuba"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "23.132881 -84.084221 23.132881 -75.158112 19.997231 -75.158112 19.997231 -84.084221 23.132881 -84.084221"
+}

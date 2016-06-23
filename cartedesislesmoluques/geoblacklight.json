@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.cartedesislesmoluques",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cartedesislesmoluques",
+  "dc_title_s": " Carte Des Isles Moluques, 1780",
+  "dc_description_s": "This is a scanned version of the 1780 paper map entitled: Carte Des Isles Moluques. The map was scanned at 300 dots per inch and is in the TIFF format. This map was originally published in the 1780 Atlas Histoire universelle, depuis le commencement du monde",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cartedesislesmoluques.zip \",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cartedesislesmoluques.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cartedesislesmoluques.xml\"}",
+  "georss_box_s": "-15.0 118.0 5.0 135.0",
+  "layer_id_s": "sde:columbia.cartedesislesmoluques",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2010-05-13T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cartedesislesmoluques",
+  "solr_geom": "ENVELOPE(118.0, 135.0, 5.0, -15.0)",
+  "solr_year_i": "1780",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Brion de la Tour, Louis"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Maluku (Indonesia)"
+  ],
+  "dct_temporal_sm": [
+    "1780"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "5.0 118.0 5.0 135.0 -15.0 135.0 -15.0 118.0 5.0 118.0"
+}

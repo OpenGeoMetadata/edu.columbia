@@ -1,0 +1,41 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nycstbuff",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nycstbuff",
+  "dc_title_s": "Sanborn CitySets New York City Street Buffer",
+  "dc_description_s": "Sanborn CitySets New York City Street Buffer is a polygon theme representing the street network in parts of Manhattan and Brooklyn.  The polygons have been formed by buffering the street centerlines by a constant arbitrary amount.   This feature is a graphic representation only and does not indicate edge of pavement or road width",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_stbuff.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nycstbuff.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nycstbuff.xml\"}",
+  "georss_box_s": "40.677673 -74.018812 40.77354 -73.955355",
+  "layer_id_s": "sde:columbia.sanborn_2003_nycstbuff",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2007-08-01T00:00:00Z",
+  "layer_slug_s": "sde-columbia-sanborn_2003_nycstbuff",
+  "solr_geom": "ENVELOPE(-74.018812, -73.955355, 40.77354, 40.677673)",
+  "solr_year_i": "2002",
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": [
+    "transportation"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "40.77354 -74.018812 40.77354 -73.955355 40.677673 -73.955355 40.677673 -74.018812 40.77354 -74.018812"
+}

@@ -1,0 +1,37 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.mapofbaltimore1920",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.mapofbaltimore1920",
+  "dc_title_s": "A Map of Baltimore, 1920",
+  "dc_description_s": "This is a scanned version of the 1920 paper map entitled: A Map of Baltimore.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/mapofbaltimore1920.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/mapofbaltimore1920.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/mapofbaltimore1920.xml\"}",
+  "georss_box_s": "39.188 -76.729 39.396 -76.519",
+  "layer_id_s": "sde:columbia.mapofbaltimore1920",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-08-19T00:00:00Z",
+  "layer_slug_s": "sde-columbia-mapofbaltimore1920",
+  "solr_geom": "ENVELOPE(-76.729, -76.519, 39.396, 39.188)",
+  "solr_year_i": "1920",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "A. Hoen & Co."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Baltimore (Md.)"
+  ],
+  "dct_temporal_sm": [
+    "1920"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "39.396 -76.729 39.396 -76.519 39.188 -76.519 39.188 -76.729 39.396 -76.729"
+}

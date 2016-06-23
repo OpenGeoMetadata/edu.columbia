@@ -1,0 +1,43 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri2006_wgdrg",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri2006_wgdrg",
+  "dc_title_s": "Dominican Republic World Gazetteer Locations, 2006",
+  "dc_description_s": "Dominican Republic World Gazetteer Locations is a point theme representing the locations and proper names for map features in Dominican Republic. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/DRG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_wgdrg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_wgdrg.xml\"}",
+  "georss_box_s": "17.514997 -71.805004 19.891996 -68.337997",
+  "layer_id_s": "sde:columbia.esri2006_wgdrg",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2007-09-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri2006_wgdrg",
+  "solr_geom": "ENVELOPE(-71.805004, -68.337997, 19.891996, 17.514997)",
+  "solr_year_i": "2006",
+  "dc_creator_sm": [
+    "ESRI"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "ESRI"
+  ],
+  "dc_subject_sm": [
+    "transportation",
+    "oceans",
+    "location",
+    "society"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Dominican Republic"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "1992"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "ESRI Data & Maps"
+  ],
+  "georss_polygon_s": "19.891996 -71.805004 19.891996 -68.337997 17.514997 -68.337997 17.514997 -71.805004 19.891996 -71.805004"
+}

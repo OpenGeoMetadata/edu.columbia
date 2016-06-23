@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.mashhad",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.mashhad",
+  "dc_title_s": "Mashhad, Iran, 1999",
+  "dc_description_s": "This is a scanned version of the 1999 paper map entitled: Mashhad, Iran published by the National Imagery and Mapping Agency .  The map is a single sheet from the larger collection of Joint Operations Graphics. The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/mashhad.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/mashhad.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/mashhad.xml\"}",
+  "georss_box_s": "36.0 58.5 37.0 60.0",
+  "layer_id_s": "sde:columbia.mashhad",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-03-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-mashhad",
+  "solr_geom": "ENVELOPE(58.5, 60.0, 37.0, 36.0)",
+  "solr_year_i": "1980",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "National Imagery and Mapping Agency"
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "National Imagery and Mapping Agency"
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Iran",
+    "Mashhad (Iran)"
+  ],
+  "dct_temporal_sm": [
+    "1980"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "37.0 58.5 37.0 60.0 36.0 60.0 36.0 58.5 37.0 58.5"
+}

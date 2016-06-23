@@ -1,0 +1,40 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_transhubs",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_transhubs",
+  "dc_title_s": "Venice Transportation Hubs",
+  "dc_description_s": "Venice Transportation Hubs is a point theme representing various transit hubs and stations in Venice, Italy.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_transhubs.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_transhubs.xml\"}",
+  "georss_box_s": "44.92228 10.68561 46.53913 12.90853",
+  "layer_id_s": "sde:columbia.leaddog_venice2008_transhubs",
+  "layer_geom_type_s": "Point",
+  "layer_modified_dt": "2009-05-28T00:00:00Z",
+  "layer_slug_s": "sde-columbia-leaddog_venice2008_transhubs",
+  "solr_geom": "ENVELOPE(10.68561, 12.90853, 46.53913, 44.92228)",
+  "solr_year_i": "2008",
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC",
+    "NAVTEQ (Firm)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+
+  ],
+  "dc_subject_sm": [
+    "transportation"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Venice (Italy)"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "46.53913 10.68561 46.53913 12.90853 44.92228 12.90853 44.92228 10.68561 46.53913 10.68561"
+}

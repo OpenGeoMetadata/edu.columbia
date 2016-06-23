@@ -1,0 +1,43 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_tracts",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_tracts",
+  "dc_title_s": "United States Census Tracts, 2010",
+  "dc_description_s": "United States Census Tracts is a polygon theme representing the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico.",
+  "dc_rights_s": "Restricted",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_tracts.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_tracts.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_tracts.xml\"}",
+  "georss_box_s": "17.881242 -179.14734 71.390482 179.778465",
+  "layer_id_s": "sde:columbia.esri_2012_usa_tracts",
+  "layer_geom_type_s": "Polygon",
+  "layer_modified_dt": "2013-02-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri_2012_usa_tracts",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "solr_year_i": "2011",
+  "dc_creator_sm": [
+    "TomTom North America, Inc.",
+    "Environmental Systems Research Institute (Redlands, Calif.)"
+  ],
+  "dc_format_s": "Shapefile",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Esri"
+  ],
+  "dc_subject_sm": [
+    "society",
+    "boundaries"
+  ],
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "United States",
+    "Puerto Rico"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2011"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "Data & Maps for ArcGIS"
+  ],
+  "georss_polygon_s": "71.390482 -179.14734 71.390482 179.778465 17.881242 179.778465 17.881242 -179.14734 71.390482 -179.14734"
+}

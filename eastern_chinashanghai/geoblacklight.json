@@ -1,0 +1,39 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.eastern_chinashanghai",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.eastern_chinashanghai",
+  "dc_title_s": "Shanghai, 1945",
+  "dc_description_s": "This is a scanned version of the 1945 paper map entitled: Shanghai published by The U.S. Army Map Service.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/eastern_chinashanghai.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/eastern_chinashanghai.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/eastern_chinashanghai.xml\"}",
+  "georss_box_s": "31.049 121.275 31.485 121.669",
+  "layer_id_s": "sde:columbia.eastern_chinashanghai",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-04-02T00:00:00Z",
+  "layer_slug_s": "sde-columbia-eastern_chinashanghai",
+  "solr_geom": "ENVELOPE(121.275, 121.669, 31.485, 31.049)",
+  "solr_year_i": "1945",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Great Britain. War Office. General Staff. Geographical Section.",
+    "United States. Army Map Service."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "United States. Army Map Service."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Shanghai Region (China)"
+  ],
+  "dct_temporal_sm": [
+    "1945"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+    "Geographic Section General Staff ;"
+  ],
+  "georss_polygon_s": "31.485 121.275 31.485 121.669 31.049 121.669 31.049 121.275 31.485 121.275"
+}

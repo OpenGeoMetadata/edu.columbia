@@ -1,0 +1,38 @@
+{
+  "uuid": "urn:columbia.edu:Columbia.robertsfield",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.robertsfield",
+  "dc_title_s": "Liberia City Maps 1:10,000, Roberts Field, 1970",
+  "dc_description_s": "This is a scanned version of the 1970 paper map entitled: Liberia City Maps 1:10,000, Roberts Field published by the  United States. Army Topographic Command.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_rights_s": "Public",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/robertsfield.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/robertsfield.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/robertsfield.xml\"}",
+  "georss_box_s": "6.216667 -10.3916 6.283333 -10.325",
+  "layer_id_s": "sde:columbia.robertsfield",
+  "layer_geom_type_s": "Raster",
+  "layer_modified_dt": "2008-03-06T00:00:00Z",
+  "layer_slug_s": "sde-columbia-robertsfield",
+  "solr_geom": "ENVELOPE(-10.3916, -10.325, 6.283333, 6.216667)",
+  "solr_year_i": "1970",
+  "dc_creator_sm": [
+    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "United States. Army Topographic Command."
+  ],
+  "dc_format_s": "GeoTiff",
+  "dc_language_s": "",
+  "dc_publisher_s": [
+    "United States. Army Topographic Command."
+  ],
+  "dc_subject_sm": null,
+  "dc_type_s": "Dataset",
+  "dct_spatial_sm": [
+    "Liberia"
+  ],
+  "dct_temporal_sm": [
+    "1970"
+  ],
+  "dct_issued_s": "",
+  "dct_isPartOf_sm": [
+
+  ],
+  "georss_polygon_s": "6.283333 -10.3916 6.283333 -10.325 6.216667 -10.325 6.216667 -10.3916 6.283333 -10.3916"
+}
