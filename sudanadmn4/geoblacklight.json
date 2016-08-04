@@ -9,7 +9,7 @@
   "georss_box_s": "3.48639 21.838947 23.623577 38.580036",
   "layer_id_s": "sde:columbia.sudanadmn4",
   "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2007-00-52T00:00:00Z",
+  "layer_modified_dt": "2007-05-23T00:00:00Z",
   "layer_slug_s": "sde-columbia-sudanadmn4",
   "solr_geom": "ENVELOPE(21.838947, 38.580036, 23.623577, 3.48639)",
   "solr_year_i": "1996",
