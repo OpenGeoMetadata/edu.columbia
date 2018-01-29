@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_mumbairailroads",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_mumbairailroads",
-  "dc_title_s": "Mumbai Railroads",
+  "dc_title_s": "Mumbai Railroads, 2007",
   "dc_description_s": "Mumbai Railroads is a line theme representing rail lines in Mumbai, India.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/RAILWAY.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_mumbairailroads.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_mumbairailroads.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/RAILWAY.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_mumbairailroads.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_mumbairailroads.xml\"}",
   "georss_box_s": "18.908672 72.797386 19.29295 72.965637",
   "layer_id_s": "sde:columbia.leaddog_mumbairailroads",
   "layer_geom_type_s": "Line",

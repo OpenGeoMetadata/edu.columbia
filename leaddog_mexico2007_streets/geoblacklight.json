@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_mexico2007_streets",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_mexico2007_streets",
-  "dc_title_s": "Mexico City Streets",
+  "dc_title_s": "Mexico City Streets, 2007",
   "dc_description_s": "Mexico City Streets is a line theme representing streets in Mexico City, Mexico.  Attribute information includes the name and speed limit of the street and the length of the line segment.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_streets.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_streets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_streets.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_streets.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_streets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_streets.xml\"}",
   "georss_box_s": "19.164689 -99.359457 19.861811 -98.8281",
   "layer_id_s": "sde:columbia.leaddog_mexico2007_streets",
   "layer_geom_type_s": "Line",

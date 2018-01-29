@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_world_airports",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_world_airports",
-  "dc_title_s": "World Airports, 2004",
+  "dc_title_s": "World Airports, 2010",
   "dc_description_s": "World Airports is a point theme representing the airports of the world.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_world_airports.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_world_airports.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_world_airports.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_world_airports.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_world_airports.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_world_airports.xml\"}",
   "georss_box_s": "-54.843278 -177.380636 78.246111 178.559228",
   "layer_id_s": "sde:columbia.esri_2010_world_airports",
   "layer_geom_type_s": "Point",

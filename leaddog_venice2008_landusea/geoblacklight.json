@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_landusea",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_landusea",
-  "dc_title_s": "Venice Miscellaneous Area Features",
+  "dc_title_s": "Venice Miscellaneous Area Features, 2008",
   "dc_description_s": "Venice Miscellaneous Area Features is a polygon theme representing Airports,  Beaches, Cemeteries, Hospitals, Industrial Complexes, Military Bases, Parks, Park in Water, National Monuments, Public Use Areas, Colonias, Shopping Centers, Sports Complexes, Undefined Traffic Areas,  university/Colleges, Woodlands, Colonias, Golf Courses, Airport Roads and Neighborhoods in Venice, Italy",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_landusea.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_landusea.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_landusea.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_landusea.xml\"}",
   "georss_box_s": "44.79239 10.69902 46.67489 13.06755",
   "layer_id_s": "sde:columbia.leaddog_venice2008_landusea",
   "layer_geom_type_s": "Polygon",

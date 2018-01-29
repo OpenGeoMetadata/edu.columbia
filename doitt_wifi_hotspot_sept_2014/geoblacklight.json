@@ -5,7 +5,7 @@
   "dc_description_s": "New York City WiFi Hotspots, 2014 is a point representing approximate location of Wi-Fi hotspots as of 2014.  This dat set was created by NYC Department of Information Technology and Telecommunications and was downloaded from the NYCOpenData website.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/doitt_wifi_hotspot_sept_2014.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/doitt_wifi_hotspot_sept_2014.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/doitt_wifi_hotspot_sept_2014.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/doitt_wifi_hotspot_sept_2014.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/doitt_wifi_hotspot_sept_2014.xml\"}",
   "georss_box_s": "40.552176 -74.170008 40.903765 -73.716551",
   "layer_id_s": "sde:columbia.doitt_wifi_hotspot_sept_2014",
   "layer_geom_type_s": "Point",

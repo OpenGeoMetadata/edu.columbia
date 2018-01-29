@@ -5,7 +5,7 @@
   "dc_description_s": "Ecuador Administrative Boundaries Level 1 is a polygon theme representing the boundaries for the first-level administrative units of Ecuador.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/EC.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_1stadbdec.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_1stadbdec.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/EC.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_1stadbdec.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_1stadbdec.xml\"}",
   "georss_box_s": "-5.000309 -91.663891 1.437782 -75.216846",
   "layer_id_s": "sde:columbia.esri2006_1stadbdec",
   "layer_geom_type_s": "Polygon",

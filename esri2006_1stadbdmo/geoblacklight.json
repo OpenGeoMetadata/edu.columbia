@@ -5,7 +5,7 @@
   "dc_description_s": "Morocco Administrative Boundaries Level 1 is a polygon theme representing the boundaries for the first-level administrative units of Morocco.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/MO.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_1stadbdmo.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_1stadbdmo.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/MO.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_1stadbdmo.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_1stadbdmo.xml\"}",
   "georss_box_s": "27.664236 -13.174964 35.919164 -1.011809",
   "layer_id_s": "sde:columbia.esri2006_1stadbdmo",
   "layer_geom_type_s": "Polygon",

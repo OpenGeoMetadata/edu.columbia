@@ -5,7 +5,7 @@
   "dc_description_s": "Northeast Amtrak Stations 2012 is a point theme representing Amtrak stations at a regional scale.  Includes stations in the northeast US on lines which serve New York and New Jersey stations.  Attribute information includes the name and address of the station as well as available amenities.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/amtrak_station2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/halcrow-2012amtrackksta.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/halcrow-2012amtrackksta.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/amtrak_station2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/halcrow-2012amtrackksta.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/halcrow-2012amtrackksta.xml\"}",
   "georss_box_s": "38.800842 -80.396391 45.000381 -70.903685",
   "layer_id_s": "sde:columbia.halcrow-2012amtrackksta",
   "layer_geom_type_s": "Point",

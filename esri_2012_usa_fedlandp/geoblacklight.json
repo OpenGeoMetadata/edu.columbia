@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_fedlandp",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_fedlandp",
-  "dc_title_s": "United States National Atlas Federal and Indian Land Areas, 1972-2004",
+  "dc_title_s": "United States National Atlas Federal and Indian Land Areas, 2012",
   "dc_description_s": "United States National Atlas Federal and Indian Land Areas is a polygon theme representing the federal- and Indian-owned land areas (for example, Bureau of Indian Affairs, Department of Defense, and Tennessee Valley Authority) of the United States.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_fedlandp.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_fedlandp.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_fedlandp.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_fedlandp.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_fedlandp.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_fedlandp.xml\"}",
   "georss_box_s": "17.674692 -179.133392 71.340702 179.78821",
   "layer_id_s": "sde:columbia.esri_2012_usa_fedlandp",
   "layer_geom_type_s": "Polygon",

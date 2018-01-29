@@ -5,7 +5,7 @@
   "dc_description_s": "World Countries 2012 is a polygon theme representing r the countries of the world as they existed in January 2012. Attribute information includes the name, UN status, population and area of the countries.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_cntry12.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_world_cntry12.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_world_cntry12.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_cntry12.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_world_cntry12.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_world_cntry12.xml\"}",
   "georss_box_s": "-90.0 -180.0 83.665491 180.0",
   "layer_id_s": "sde:columbia.esri_2012_world_cntry12",
   "layer_geom_type_s": "Polygon",

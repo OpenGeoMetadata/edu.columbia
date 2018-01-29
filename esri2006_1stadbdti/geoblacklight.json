@@ -5,7 +5,7 @@
   "dc_description_s": "Tajikistan Administrative Boundaries Level 1 is a polygon theme representing the boundaries for the first-level administrative units of Tajikistan.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/TI.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_1stadbdti.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_1stadbdti.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/TI.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_1stadbdti.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_1stadbdti.xml\"}",
   "georss_box_s": "36.671845 67.3647 41.049254 75.187482",
   "layer_id_s": "sde:columbia.esri2006_1stadbdti",
   "layer_geom_type_s": "Polygon",

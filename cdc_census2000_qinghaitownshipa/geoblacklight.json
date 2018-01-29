@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cdc_census2000_qinghaitownshipa",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_qinghaitownshipa",
-  "dc_title_s": "China Qinghai Township, Population (100% short form), Census 2000",
+  "dc_title_s": "Qinghai Township Locations With 2000 Population Census Data From 100% Short Form Data",
   "dc_description_s": "Qinghai Township Locations With 2000 Population Census Data From 100% Short Form Data s a point theme representing townships in Qinghai Province in China.  Attribute information includes 100% short form data from the 2000 Census.  This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_qinghaitownshipa.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_qinghaitownshipa.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000_qinghaitownshipa.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000_qinghaitownshipa.xml\"}",
   "georss_box_s": "31.902617 90.211708 38.914581 102.942224",
   "layer_id_s": "sde:columbia.cdc_census2000_qinghaitownshipa",
   "layer_geom_type_s": "Point",

@@ -5,7 +5,7 @@
   "dc_description_s": "Mexico City AGEB Boundaries and 2000 Census Data is a polygon theme representing the AGEB (block group) boundaries in Mexico City for the 2000 census.  Attribute infromation includes 1777 demographic variables from the 2000 census.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_census.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_census.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_census.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_census.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_census.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_census.xml\"}",
   "georss_box_s": "19.181533 -99.369963 19.889814 -98.745945",
   "layer_id_s": "sde:columbia.leaddog_mexico2007_census",
   "layer_geom_type_s": "Polygon",

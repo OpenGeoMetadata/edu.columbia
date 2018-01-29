@@ -5,7 +5,7 @@
   "dc_description_s": "Port-au-Prince is a scanned, georeferenced map of the city of Port-au-Prince, Haiti at a scale of 1:12,500.  This map is in four sheets.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/HaitiPortauPrince1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/haitiportauprince1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/haitiportauprince1l.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/HaitiPortauPrince1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/haitiportauprince1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/haitiportauprince1l.xml\"}",
   "georss_box_s": "18.568425 -72.370992 18.674158 -72.186989",
   "layer_id_s": "sde:columbia.haitiportauprince1l",
   "layer_geom_type_s": "Raster",

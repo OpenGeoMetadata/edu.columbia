@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.ntad_2008_railway",
   "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2008_railway",
-  "dc_title_s": "United State Rail Lines",
+  "dc_title_s": "United States Rail Lines, 2008",
   "dc_description_s": "United State Rail Lines is a line theme representing railroad tracks in the United States at a 1:100,000 scale. The data set covers all 50 States plus the District of Columbia.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/railway2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2008_railway.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2008_railway.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/railway2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2008_railway.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2008_railway.xml\"}",
   "georss_box_s": "20.880179 -158.152193 64.926148 -66.983911",
   "layer_id_s": "sde:columbia.ntad_2008_railway",
   "layer_geom_type_s": "Line",

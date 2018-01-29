@@ -5,7 +5,7 @@
   "dc_description_s": "Global Dams is a point theme representing dams Worldwide.  A variety of attribute information is provided, including names, type classifications, state-level information (1st level administrative division) and country data.  This dataset is provided in both .txt files and a ESRI Geodatabase format.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/GlobalDams.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/meridian_globaldams.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/meridian_globaldams.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/GlobalDams.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/meridian_globaldams.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/meridian_globaldams.xml\"}",
   "georss_box_s": "-43.683333 -176.735 71.266667 174.516667",
   "layer_id_s": "sde:columbia.meridian_globaldams",
   "layer_geom_type_s": "Point",

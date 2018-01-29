@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_streets",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_streets",
-  "dc_title_s": "Venice Streets",
+  "dc_title_s": "Venice Streets, 2008",
   "dc_description_s": "Venice Streets is a line theme representing all roads plus all Road Network features such as direction of travel, dividers, speed category, and access restrictions in Venice, Italy.\n\nThis layer is suitable for routing applications, as it represents the complete navigable road network. For intersection-driven routing applications, the Z Levels layer can also be used to establish roadway connectivity. This layer contains address ranges for all addressable lines and polylines in the Streets layer, and is used primarily for geocoding. NAVSTREETS provides Addresses for each end and each side of a line or polyline. \"From\" addresses correspond to the \"Reference\" end of the line or polyline, and \"To\" addresses correspond to the \"Non-Reference\" end of the line or polyline.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_streets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_streets.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_streets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_streets.xml\"}",
   "georss_box_s": "44.79558 10.62397 46.65588 13.0971",
   "layer_id_s": "sde:columbia.leaddog_venice2008_streets",
   "layer_geom_type_s": "Line",

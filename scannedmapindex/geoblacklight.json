@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.scannedmapindex",
   "dc_identifier_s": "urn:columbia.edu:Columbia.scannedmapindex",
-  "dc_title_s": "Index to the Lehman Scanned Map Collection",
+  "dc_title_s": "Index to the Lehman Scanned Map Collection, 2008",
   "dc_description_s": "Index to the Lehman Scanned Map Collection is a polygon theme that serves as an index to scanned sheets from the Lehman Map collection.  Each feature represents the approximate extent of a map sheet or map set.  Attribute information includes the name of the map, a url to the metadata record in the CUL Spatial Data catalog and a url to a thumbnail detail of the map.  This dataset will be updated regularly.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/ScannedMapIndex.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/scannedmapindex.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/scannedmapindex.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/ScannedMapIndex.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/scannedmapindex.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/scannedmapindex.xml\"}",
   "georss_box_s": "-90.0 -180.0 90.0 180.0",
   "layer_id_s": "sde:columbia.scannedmapindex",
   "layer_geom_type_s": "Polygon",

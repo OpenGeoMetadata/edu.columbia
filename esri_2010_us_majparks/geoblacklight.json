@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_us_majparks",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_us_majparks",
-  "dc_title_s": "United States Major Parks, 1997",
+  "dc_title_s": "United States Major Parks, 2012",
   "dc_description_s": "United States Major Parks is a polygon theme representing National Parks, National Forests, State and local parks and forests within the United States.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_MajParks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_us_majparks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_us_majparks.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_MajParks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_us_majparks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_us_majparks.xml\"}",
   "georss_box_s": "18.910845 -167.535945 68.655492 -67.131657",
   "layer_id_s": "sde:columbia.esri_2010_us_majparks",
   "layer_geom_type_s": "Polygon",

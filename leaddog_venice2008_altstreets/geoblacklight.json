@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_altstreets",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_altstreets",
-  "dc_title_s": "Venice Alternate Street Addresses",
+  "dc_title_s": "Venice Alternate Street Addresses, 2008",
   "dc_description_s": "Venice Alternate Street Addresses is a line theme representing streets in Venice, Italy.  \n\nThe Alternate Street Addresses table is to publish alternate road names and address information for Street Links. This table eliminates the duplicate geometry present in the current Streets layer. Some Street Layer entries will have a corresponding Alternate Street Address layer entry",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_altstreets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_altstreets.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_altstreets.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_altstreets.xml\"}",
   "georss_box_s": "44.79909 10.64301 46.65588 13.0619",
   "layer_id_s": "sde:columbia.leaddog_venice2008_altstreets",
   "layer_geom_type_s": "Line",

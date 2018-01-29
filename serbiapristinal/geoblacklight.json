@@ -5,7 +5,7 @@
   "dc_description_s": "Pristina is a scanned, georeferenced map of the city of Pristina, Kosovo at a scale of 1:20,000.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SerbiaPristinal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/serbiapristinal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/serbiapristinal.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SerbiaPristinal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/serbiapristinal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/serbiapristinal.xml\"}",
   "georss_box_s": "42.528118 20.992201 42.712745 21.250677",
   "layer_id_s": "sde:columbia.serbiapristinal",
   "layer_geom_type_s": "Raster",

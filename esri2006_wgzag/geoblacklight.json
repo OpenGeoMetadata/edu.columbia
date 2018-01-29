@@ -5,7 +5,7 @@
   "dc_description_s": "Zambia World Gazetteer Locations is a point theme representing the locations and proper names for map features in Zambia. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ZAG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_wgzag.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_wgzag.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ZAG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_wgzag.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_wgzag.xml\"}",
   "georss_box_s": "-17.821001 22.243997 -8.365997 33.264002",
   "layer_id_s": "sde:columbia.esri2006_wgzag",
   "layer_geom_type_s": "Point",

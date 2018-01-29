@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_fedlandl",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_fedlandl",
-  "dc_title_s": "United States National Atlas Federal Land Lines, 1972-2001",
+  "dc_title_s": "United States National Atlas Federal Land Lines, 2012",
   "dc_description_s": "United States National Atlas Federal Land Lines is a line theme representing the linear federally owned land features (for example, national parkways and wild and scenic rivers) of the United States. No data exists for Hawaii.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_fedlandl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_fedlandl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_fedlandl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_fedlandl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_fedlandl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_fedlandl.xml\"}",
   "georss_box_s": "26.910945 -163.226227 69.046434 -69.074635",
   "layer_id_s": "sde:columbia.esri_2012_usa_fedlandl",
   "layer_geom_type_s": "Line",

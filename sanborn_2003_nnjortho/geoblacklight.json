@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nnjortho",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nnjortho",
-  "dc_title_s": "Sanborn CitySets Newark Orthophoto Imagery",
+  "dc_title_s": "Newark Orthophoto Imagery, 2002",
   "dc_description_s": "Sanborn CitySets Newark Orthophoto Imagery is an orthophoto coverage for parts of Newark, New Jersey.  Project areas contain multiple photographs that are color balanced and mosaicked for a seamless dataset. The files have a 6-inch pixel resolution.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/newark_ortho.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nnjortho.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nnjortho.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/newark_ortho.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_nnjortho.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_nnjortho.xml\"}",
   "georss_box_s": "40.717505 -74.197482 40.758806 -74.152172",
   "layer_id_s": "sde:columbia.sanborn_2003_nnjortho",
   "layer_geom_type_s": "Raster",

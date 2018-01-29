@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_zip_usa",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_zip_usa",
-  "dc_title_s": "United States ZIP Code (points), 2010",
+  "dc_title_s": "United States ZIP Code (points)",
   "dc_description_s": "United States ZIP Code (points) is a point theme representing  the five-digit U.S. ZIP Code areas as points, plus all ZIP Codes that have no associated area. These ZIP Codes that have few or no street delivery locations are assigned to a single organization, such as a business that has street delivery.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_zip_usa.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_zip_usa.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_zip_usa.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_zip_usa.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_zip_usa.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_zip_usa.xml\"}",
   "georss_box_s": "17.967202 -176.760204 70.74189 -65.291584",
   "layer_id_s": "sde:columbia.esri_2012_usa_zip_usa",
   "layer_geom_type_s": "Point",

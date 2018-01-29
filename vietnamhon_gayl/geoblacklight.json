@@ -5,7 +5,7 @@
   "dc_description_s": "Hon Gay is a scanned, georeferenced map of the city of Hon Gay, Vietnam at a scale of 1:12,500",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamHon_Gayl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/vietnamhon_gayl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/vietnamhon_gayl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamHon_Gayl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/vietnamhon_gayl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/vietnamhon_gayl.xml\"}",
   "georss_box_s": "20.909516 107.033952 20.980268 107.132667",
   "layer_id_s": "sde:columbia.vietnamhon_gayl",
   "layer_geom_type_s": "Raster",

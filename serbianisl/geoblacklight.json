@@ -5,7 +5,7 @@
   "dc_description_s": "Nis is a scanned, georeferenced map of the city of Nis, Serbia at a scale of 1:15,000.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SerbiaNisl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/serbianisl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/serbianisl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SerbiaNisl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/serbianisl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/serbianisl.xml\"}",
   "georss_box_s": "43.241927 21.818167 43.362375 21.982865",
   "layer_id_s": "sde:columbia.serbianisl",
   "layer_geom_type_s": "Raster",

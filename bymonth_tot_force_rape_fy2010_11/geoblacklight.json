@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.bymonth_tot_force_rape_fy2010_11",
   "dc_identifier_s": "urn:columbia.edu:Columbia.bymonth_tot_force_rape_fy2010_11",
-  "dc_title_s": "New York City Crimes, Monthly Forcable Rapes, 2010-2011",
+  "dc_title_s": "New York City Monthly Rapes by Precinct, 2010-2011",
   "dc_description_s": "New York City Crimes, Monthly Forcable Rapes, 2010-2011 is a polygon themem representing the number of reported rapes by police precinct in New York City for the fiscal year 2010-2011 (July 2010 - June 2011).  Attribute information reports the number of crimes by month for each precinct.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.bymonth_tot_force_rape_fy2010_11\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bymonth_tot_force_rape_fy2010_11.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bymonth_tot_force_rape_fy2010_11.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.bymonth_tot_force_rape_fy2010_11\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/bymonth_tot_force_rape_fy2010_11.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/bymonth_tot_force_rape_fy2010_11.xml\"}",
   "georss_box_s": "40.495805 -74.257465 40.915808 -73.69921",
   "layer_id_s": "sde:columbia.bymonth_tot_force_rape_fy2010_11",
   "layer_geom_type_s": "Polygon",

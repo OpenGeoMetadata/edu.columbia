@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_kingston2007_river",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_kingston2007_river",
-  "dc_title_s": "Kingston Rivers",
+  "dc_title_s": "Kingston Rivers, 2007",
   "dc_description_s": "Kingston Rivers is a line theme representing rivers in Kingston, Jamaica.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/kingston_river.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_kingston2007_river.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_kingston2007_river.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/kingston_river.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_kingston2007_river.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_kingston2007_river.xml\"}",
   "georss_box_s": "18.004536 -76.854545 18.071463 -76.744887",
   "layer_id_s": "sde:columbia.leaddog_kingston2007_river",
   "layer_geom_type_s": "Line",

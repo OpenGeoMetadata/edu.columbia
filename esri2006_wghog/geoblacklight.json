@@ -5,7 +5,7 @@
   "dc_description_s": "Honduras World Gazetteer Locations is a point theme representing the locations and proper names for map features in Honduras. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/HOG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_wghog.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_wghog.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/HOG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_wghog.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_wghog.xml\"}",
   "georss_box_s": "13.165999 -89.125 17.419003 -83.139001",
   "layer_id_s": "sde:columbia.esri2006_wghog",
   "layer_geom_type_s": "Point",

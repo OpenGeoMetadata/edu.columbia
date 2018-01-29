@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_global_aet",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_global_aet",
-  "dc_title_s": "Actual Evapotrans",
+  "dc_title_s": "World Actual Evapotrans, 1996",
   "dc_description_s": "Actual Evapotrans is a point theme representing the sum of evaporation and plant transpiration to the atmosphere from throughout the world.  Measurements are represented by points at every.5 degrees and provided for every month of the year. This dataset is a part of the Global Climate Database from the Global Change Department National Institute of Public Health and Environmental Protection.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/aet.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_global_aet.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_global_aet.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/aet.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_global_aet.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_global_aet.xml\"}",
   "georss_box_s": "-56.0 -179.5 83.0 180.0",
   "layer_id_s": "sde:columbia.landinfo_global_aet",
   "layer_geom_type_s": "Point",

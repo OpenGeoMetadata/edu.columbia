@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_guada2007_parks",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_guada2007_parks",
-  "dc_title_s": "Guadalajara Parks",
+  "dc_title_s": "Guadalajara Parks, 2007",
   "dc_description_s": "Guadalajara Parks is polygon theme representing parks in Guadalajara, Mexico.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/guadalajara_parks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_guada2007_parks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_guada2007_parks.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/guadalajara_parks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_guada2007_parks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_guada2007_parks.xml\"}",
   "georss_box_s": "20.572421 -103.444668 20.71359 -103.264304",
   "layer_id_s": "sde:columbia.leaddog_guada2007_parks",
   "layer_geom_type_s": "Polygon",

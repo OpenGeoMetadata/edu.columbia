@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cdc_tibet2000_sqkilo",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_tibet2000_sqkilo",
-  "dc_title_s": "China Tibet 1 Sq Km Grid, Population Census 2000",
+  "dc_title_s": "Tibet 1 Square Kilometer Grid With 2000 Population Census Data",
   "dc_description_s": "Tibet 1 Square Kilometer Grid With 2000 Population Census Data is a polygon theme representing 1 square kilometer areas in Tibet Province China. Tibet 1 m Grid With 2000 Population Census Data\n\nThis data layer is part of the Tibet 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_tibet2000_sqkilo.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_tibet2000_sqkilo.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_tibet2000_sqkilo.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_tibet2000_sqkilo.xml\"}",
   "georss_box_s": "27.403888 78.956635 34.079955 98.984121",
   "layer_id_s": "sde:columbia.cdc_tibet2000_sqkilo",
   "layer_geom_type_s": "Polygon",

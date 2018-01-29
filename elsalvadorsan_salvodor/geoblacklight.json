@@ -5,7 +5,7 @@
   "dc_description_s": "San Salvador is a scanned, georeferenced map of the city of San Salvador, EL Salvador at a scale of 1:15,000.  This map is in two sheets.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ElSalvadorSan_Salvador_1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/elsalvadorsan_salvodor.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/elsalvadorsan_salvodor.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ElSalvadorSan_Salvador_1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/elsalvadorsan_salvodor.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/elsalvadorsan_salvodor.xml\"}",
   "georss_box_s": "13.622063 -89.313332 13.775267 -89.198789",
   "layer_id_s": "sde:columbia.elsalvadorsan_salvodor",
   "layer_geom_type_s": "Raster",

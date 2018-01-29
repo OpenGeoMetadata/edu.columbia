@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landscan2011_pop",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landscan2011_pop",
-  "dc_title_s": "LandScan 2011 Global Population Database",
+  "dc_title_s": "Global Population Database, 2011",
   "dc_description_s": "LandScan 2011 Global Population Database is a raster theme representing population counts at 30 arc second resolution (1 km. or finer).",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landscan2011_pop.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landscan2011_pop.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landscan2011_pop.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landscan2011_pop.xml\"}",
   "georss_box_s": "-90.0 -180.0 84.0 180.0",
   "layer_id_s": "sde:columbia.landscan2011_pop",
   "layer_geom_type_s": "Raster",

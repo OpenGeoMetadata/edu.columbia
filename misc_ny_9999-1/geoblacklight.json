@@ -5,7 +5,7 @@
   "dc_description_s": "New York City Neighborhoods is a polygon theme representing neighborhood areas in New York City.  The neighborhoods are as used and defined by Community Studies of New York in the Infoshare Online database.  The neighborhood boundaries were originally defined by a City informal taskforce, the boundaries are not official, but are meant to define the neighborhoods in which residents believe they live.  Attribute data includes the name and the approximate perimeter and area of the neighborhood.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/NEIGHNYC.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/misc_ny_9999-1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/misc_ny_9999-1.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/NEIGHNYC.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/misc_ny_9999-1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/misc_ny_9999-1.xml\"}",
   "georss_box_s": "40.496856 -74.258865 40.915161 -73.699729",
   "layer_id_s": "sde:columbia.misc_ny_9999-1",
   "layer_geom_type_s": "Polygon",

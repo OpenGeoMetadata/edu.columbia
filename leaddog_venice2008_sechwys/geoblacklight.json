@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_sechwys",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_sechwys",
-  "dc_title_s": "Venice Secondary Highways",
+  "dc_title_s": "Venice Secondary Highways, 2008",
   "dc_description_s": "Venice Secondary Highways is a line theme representing Road Network features in Venice based on the \"Functional Class\" value on each link present in NAVSTREETS. This layer contains all links that have a \"Functional Class\" value of 'Level 3' and 'Level 4'. Functional Class 3 roads interconnect Level 2 roads and provide a high volume of traffic movement at a lower level of mobility than Level 2 roads.  Functional Class 4 roads provide for a high volume of traffic movement at moderate speeds between neighborhoods.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_sechwys.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_sechwys.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_sechwys.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_sechwys.xml\"}",
   "georss_box_s": "44.83499 10.62397 46.65588 13.06654",
   "layer_id_s": "sde:columbia.leaddog_venice2008_sechwys",
   "layer_geom_type_s": "Line",

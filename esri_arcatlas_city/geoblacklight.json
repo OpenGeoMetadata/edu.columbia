@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_arcatlas_city",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_arcatlas_city",
-  "dc_title_s": "World Urban Areas, 1996",
+  "dc_title_s": "Urban Areas, 1996",
   "dc_description_s": "Urban Areas is a point theme representing major cites worldwide.  Attribute information includes the name and population of the city,  and indicates whether the city is a capital.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/city.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_arcatlas_city.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_arcatlas_city.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/city.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_arcatlas_city.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_arcatlas_city.xml\"}",
   "georss_box_s": "-90.0 -180.0 90.0 180.0",
   "layer_id_s": "sde:columbia.esri_arcatlas_city",
   "layer_geom_type_s": "Point",

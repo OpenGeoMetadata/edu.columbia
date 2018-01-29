@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_arcatlas_country_poly",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_arcatlas_country_poly",
-  "dc_title_s": "World Political Territories, 1996",
+  "dc_title_s": "Political Territories, 1996",
   "dc_description_s": "Political Territories is a polygon theme representing administrative territories worldwide, including countries, and in some cases, second level administrative units as well.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/country_poly.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_arcatlas_country_poly.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_arcatlas_country_poly.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/country_poly.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_arcatlas_country_poly.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_arcatlas_country_poly.xml\"}",
   "georss_box_s": "-85.0 -180.0 83.623032 180.0",
   "layer_id_s": "sde:columbia.esri_arcatlas_country_poly",
   "layer_geom_type_s": "Polygon",

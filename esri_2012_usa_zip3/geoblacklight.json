@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_zip3",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_zip3",
-  "dc_title_s": "United States Three -Digit ZIP Code Areas, 2010",
+  "dc_title_s": "United States Three -Digit ZIP Code Areas, 2012",
   "dc_description_s": "United States Three -Digit ZIP Code Areas is a polygon theme representing  the first three digits of a ZIP Code. The first digit of a five-digit ZIP Code divides the United States into 10 large groups of states numbered from 0 in the Northeast to 9 in the far West. Within these areas, each state is divided into an average of 10 smaller geographic areas, identified by the second and third digits. These digits, in conjunction with the first digit, represent a sectional center facility or a mail processing facility area. These areas are serviced by the U.S. Post Office Sectional Center Facility (SCF). Note that a single SCF often services multiple three-digit areas.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_zip3.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_zip3.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_zip3.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_zip3.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_zip3.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_zip3.xml\"}",
   "georss_box_s": "17.881242 -179.14734 71.390482 -65.22114",
   "layer_id_s": "sde:columbia.esri_2012_usa_zip3",
   "layer_geom_type_s": "Polygon",

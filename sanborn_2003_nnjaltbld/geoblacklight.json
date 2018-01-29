@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nnjaltbld",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nnjaltbld",
-  "dc_title_s": "Sanborn CitySets Newark Alternate Building Addresses",
+  "dc_title_s": "Newark Alternate Building Addresses, 2002",
   "dc_description_s": "Sanborn CitySets Newark Alternate Building Addresses is a point theme representing alternate street addresses by door locations for buildings in parts of Newark, New Jersey.  Attribute information includes building name and building code for use with the Sanborn building footprints layer.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nnj_altbld.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nnjaltbld.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nnjaltbld.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nnj_altbld.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_nnjaltbld.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_nnjaltbld.xml\"}",
   "georss_box_s": "40.721272 -74.19348 40.75379 -74.159493",
   "layer_id_s": "sde:columbia.sanborn_2003_nnjaltbld",
   "layer_geom_type_s": "Point",

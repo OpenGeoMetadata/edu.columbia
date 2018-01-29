@@ -5,7 +5,7 @@
   "dc_description_s": "Maribor is a scanned, georeferenced map of the city of Maribor, Slovenia at a scale of 1:20,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SloveniaMariborl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sloveniamariborl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sloveniamariborl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SloveniaMariborl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sloveniamariborl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sloveniamariborl.xml\"}",
   "georss_box_s": "46.46243 15.579891 46.592711 15.798407",
   "layer_id_s": "sde:columbia.sloveniamariborl",
   "layer_geom_type_s": "Raster",

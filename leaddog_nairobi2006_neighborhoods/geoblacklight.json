@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_nairobi2006_neighborhoods",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_nairobi2006_neighborhoods",
-  "dc_title_s": "Nairobi Neighborhoods",
+  "dc_title_s": "Nairobi Neighborhoods, 2006",
   "dc_description_s": "Nairobi Neighborhoods is a point theme representing neighborhoods in Nairobi, Kenya.  The name of the neighborhood in included in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nairobi_neighborhoods.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_nairobi2006_neighborhoods.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_nairobi2006_neighborhoods.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nairobi_neighborhoods.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_nairobi2006_neighborhoods.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_nairobi2006_neighborhoods.xml\"}",
   "georss_box_s": "-1.325943 36.756334 -1.211637 36.91358",
   "layer_id_s": "sde:columbia.leaddog_nairobi2006_neighborhoods",
   "layer_geom_type_s": "Point",

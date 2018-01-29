@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.ntad_2008_altfuels",
   "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2008_altfuels",
-  "dc_title_s": "United States Alternative Fueling Facilities",
+  "dc_title_s": "United States Alternative Fueling Facilities, 2008",
   "dc_description_s": "United States Alternative Fueling Facilities is a point theme representing fueling facilities that offer fuels other than gasoline in the United States.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/altfuels2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2008_altfuels.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2008_altfuels.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/altfuels2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2008_altfuels.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2008_altfuels.xml\"}",
   "georss_box_s": "19.729455 -157.945 64.812658 -68.011168",
   "layer_id_s": "sde:columbia.ntad_2008_altfuels",
   "layer_geom_type_s": "Point",

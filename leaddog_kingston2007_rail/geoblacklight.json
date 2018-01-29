@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_kingston2007_rail",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_kingston2007_rail",
-  "dc_title_s": "Kingston Railroads",
+  "dc_title_s": "Kingston Railroads, 2007",
   "dc_description_s": "Kingston Railroads is a line theme representing rail lines in Kingston, Jamaica.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/kingston_rr.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_kingston2007_rail.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_kingston2007_rail.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/kingston_rr.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_kingston2007_rail.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_kingston2007_rail.xml\"}",
   "georss_box_s": "17.967997 -76.907367 18.004508 -76.796684",
   "layer_id_s": "sde:columbia.leaddog_kingston2007_rail",
   "layer_geom_type_s": "Line",

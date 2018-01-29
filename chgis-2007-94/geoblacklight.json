@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.chgis-2007-94",
   "dc_identifier_s": "urn:columbia.edu:Columbia.chgis-2007-94",
-  "dc_title_s": "China Xinjiang Towns, Mountains and Lakes, 1876",
+  "dc_title_s": "Xinjiang Places, 1876",
   "dc_description_s": "CHGIS Xinjiang 1876 Points is a point theme representing towns, mountains, & lakes in Xinjiang from Hami west across the Tian Shan Range and north across the Junggar Basin to Ulugur Lake;  digitized from H.M. Prezhavalsky \"Map of Central Asia\"  1876.  Developed by Irina Merzliakova (Inst of Geography) and Alexei Karimov (Inst for the History of Science), Russian Academy of Sciences",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/v4_ras_1876_xinjiang_pts.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/chgis-2007-94.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/chgis-2007-94.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/v4_ras_1876_xinjiang_pts.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/chgis-2007-94.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/chgis-2007-94.xml\"}",
   "georss_box_s": "36.766709 79.21098 49.741225 95.306481",
   "layer_id_s": "sde:columbia.chgis-2007-94",
   "layer_geom_type_s": "Point",

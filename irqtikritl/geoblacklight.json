@@ -5,7 +5,7 @@
   "dc_description_s": "Tikrit is a scanned, georeferenced map of the city of Tikrit, Iraq at a scale of 1:14,500",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/IraqTikritl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/irqtikritl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/irqtikritl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/IraqTikritl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/irqtikritl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/irqtikritl.xml\"}",
   "georss_box_s": "34.563383 43.616581 34.673122 43.813539",
   "layer_id_s": "sde:columbia.irqtikritl",
   "layer_geom_type_s": "Raster",

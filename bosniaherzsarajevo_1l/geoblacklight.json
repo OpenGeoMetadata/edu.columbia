@@ -5,7 +5,7 @@
   "dc_description_s": "Sarajevo is a scanned, georeferenced map of the city of Sarajevo, Bosnia and Herzegovina at a scale of 1:12,500.  This map is in two sheets.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzSarajevo_1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bosniaherzsarajevo_1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bosniaherzsarajevo_1l.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzSarajevo_1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/bosniaherzsarajevo_1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/bosniaherzsarajevo_1l.xml\"}",
   "georss_box_s": "43.752583 18.202222 43.9189 18.369636",
   "layer_id_s": "sde:columbia.bosniaherzsarajevo_1l",
   "layer_geom_type_s": "Raster",

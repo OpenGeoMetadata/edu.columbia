@@ -5,7 +5,7 @@
   "dc_description_s": "Banja Luka is a scanned, georefereaced map of the city of Banja Luka, Bosnia and Herzegovina  at a scale of 1:15,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzBanja_Lukal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bosniaherzbanja_lukal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bosniaherzbanja_lukal.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzBanja_Lukal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/bosniaherzbanja_lukal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/bosniaherzbanja_lukal.xml\"}",
   "georss_box_s": "44.728846 17.141701 44.828609 17.278399",
   "layer_id_s": "sde:columbia.bosniaherzbanja_lukal",
   "layer_geom_type_s": "Raster",

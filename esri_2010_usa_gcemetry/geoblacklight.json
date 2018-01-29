@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_usa_gcemetry",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_usa_gcemetry",
-  "dc_title_s": "United States Cemeteries, 1974-2009",
+  "dc_title_s": "United States Cemeteries, 2010",
   "dc_description_s": "United States Cemeteries is a point theme representing cemeteries in the United states as listed in the Geographic Names Information System",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_gnis_cemetery.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_usa_gcemetry.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_usa_gcemetry.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_gnis_cemetery.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_usa_gcemetry.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_usa_gcemetry.xml\"}",
   "georss_box_s": "6.966111 -165.450405 65.039585 158.201667",
   "layer_id_s": "sde:columbia.esri_2010_usa_gcemetry",
   "layer_geom_type_s": "Point",

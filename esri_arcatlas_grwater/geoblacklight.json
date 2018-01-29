@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_arcatlas_grwater",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_arcatlas_grwater",
-  "dc_title_s": "Worldwide Groundwater Discharge, 1996",
+  "dc_title_s": "World Groundwater Discharge, 1996",
   "dc_description_s": "Groundwater Discharge is a polygon theme representing the geographic distribution of the volume of groundwater discharge, groundwater discharge in relation to precipitation, types and compositions of permeable rocks, and groundwater quality (salt content).",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/grwater.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_arcatlas_grwater.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_arcatlas_grwater.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/grwater.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_arcatlas_grwater.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_arcatlas_grwater.xml\"}",
   "georss_box_s": "-85.0 -180.0 85.0 180.0",
   "layer_id_s": "sde:columbia.esri_arcatlas_grwater",
   "layer_geom_type_s": "Polygon",

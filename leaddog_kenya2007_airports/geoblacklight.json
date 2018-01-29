@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_kenya2007_airports",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_kenya2007_airports",
-  "dc_title_s": "Kenya Airports",
+  "dc_title_s": "Kenya Airports, 2007",
   "dc_description_s": "Kenya Airports is a point theme representing airport locations in Kenya.  Attribute information includes the name of the airport and the city it serves.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/kenya_airports.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_kenya2007_airports.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_kenya2007_airports.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/kenya_airports.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_kenya2007_airports.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_kenya2007_airports.xml\"}",
   "georss_box_s": "-4.034833 34.728892 3.121967 40.091606",
   "layer_id_s": "sde:columbia.leaddog_kenya2007_airports",
   "layer_geom_type_s": "Point",

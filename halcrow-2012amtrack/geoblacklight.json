@@ -5,7 +5,7 @@
   "dc_description_s": "Northeast Amtrak Rail Lines 2012 is a line theme representing Amtrak Rail Routes at a regional scale as of 2012. Includes lines in the northeast US which serve New York and New Jersey stations. Attribute information includes the name of the line and length of the segment.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/amtrak_line2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/halcrow-2012amtrack.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/halcrow-2012amtrack.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/amtrak_line2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/halcrow-2012amtrack.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/halcrow-2012amtrack.xml\"}",
   "georss_box_s": "38.800842 -80.396815 45.004574 -70.903473",
   "layer_id_s": "sde:columbia.halcrow-2012amtrack",
   "layer_geom_type_s": "Line",

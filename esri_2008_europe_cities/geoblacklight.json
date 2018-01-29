@@ -5,7 +5,7 @@
   "dc_description_s": "Europe Cities is a point theme representing national capitals, major population centers, and landmark cities throughout Europe.  Attribute information indicates the name of the city, the population class, the country and province the city is located in, and whether the city is a capital.\n\nThis dataset is a part of the 2008 ESRI Data & Maps collection.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_europe_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_europe_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_europe_cities.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_europe_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2008_europe_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2008_europe_cities.xml\"}",
   "georss_box_s": "27.9956 -21.9614 78.2079 64.0749",
   "layer_id_s": "sde:columbia.esri_2008_europe_cities",
   "layer_geom_type_s": "Point",

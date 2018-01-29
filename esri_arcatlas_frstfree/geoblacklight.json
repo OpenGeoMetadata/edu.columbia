@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_arcatlas_frstfree",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_arcatlas_frstfree",
-  "dc_title_s": "Worldwide Frost-free Period (Polygon), 1996",
+  "dc_title_s": "World Frost-free Period (Polygon), 1996",
   "dc_description_s": "Frost-free Period (Polygon) is a polygon theme representing areas of similar duration of frost free periods.\n\nFrost-free period is the period when minimum air temperatures near the ground are above zero degrees Celsius so frost does not occur. The duration of the annual frost-free period is one of the principal climatic characteristics that affects the development of biota, human life, and economic activity.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/frstfree.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_arcatlas_frstfree.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_arcatlas_frstfree.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/frstfree.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_arcatlas_frstfree.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_arcatlas_frstfree.xml\"}",
   "georss_box_s": "-85.0 -180.0 85.0 180.0",
   "layer_id_s": "sde:columbia.esri_arcatlas_frstfree",
   "layer_geom_type_s": "Polygon",

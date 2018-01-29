@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_waterseg",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_waterseg",
-  "dc_title_s": "Venice Waterway Segments",
+  "dc_title_s": "Venice Waterway Segments, 2008",
   "dc_description_s": "Venice Waterway Segments is a line them representing rivers, channels and canals in Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_waterseg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_waterseg.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_waterseg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_waterseg.xml\"}",
   "georss_box_s": "44.79629 10.69774 46.59993 13.02966",
   "layer_id_s": "sde:columbia.leaddog_venice2008_waterseg",
   "layer_geom_type_s": "Line",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.census_2000_032807211977000",
   "dc_identifier_s": "urn:columbia.edu:Columbia.census_2000_032807211977000",
-  "dc_title_s": "New York City Sub-borough Area, 2000",
+  "dc_title_s": "New York City Sub-Borough Areas, 2004",
   "dc_description_s": "All sub-borough areas for the five boroughs of New York City with names and codes matching definitions from the US Census.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/NYC_Sub_borough_Area.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/census_2000_032807211977000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/census_2000_032807211977000.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/NYC_Sub_borough_Area.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/census_2000_032807211977000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/census_2000_032807211977000.xml\"}",
   "georss_box_s": "40.78568 -73.933406 40.915278 -73.765101",
   "layer_id_s": "sde:columbia.census_2000_032807211977000",
   "layer_geom_type_s": "Polygon",

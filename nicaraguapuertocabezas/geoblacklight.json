@@ -5,7 +5,7 @@
   "dc_description_s": "Puerto Cabezas is a scanned, georeferenced map of the city of Puerto Cabezas, Nicaragua at a scale of 1:10,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/NicaraguaPuertoCabezas.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/nicaraguapuertocabezas.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/nicaraguapuertocabezas.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/NicaraguaPuertoCabezas.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/nicaraguapuertocabezas.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/nicaraguapuertocabezas.xml\"}",
   "georss_box_s": "13.995052 -83.430312 14.066344 -83.352778",
   "layer_id_s": "sde:columbia.nicaraguapuertocabezas",
   "layer_geom_type_s": "Raster",

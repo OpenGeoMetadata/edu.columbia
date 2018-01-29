@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_fininsts",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_fininsts",
-  "dc_title_s": "Venice Financial Institutions",
+  "dc_title_s": "Venice Financial Institutions, 2008",
   "dc_description_s": "Venice Financial Institutions is a point theme representing financial institution facilities in Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_fininsts.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_fininsts.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_fininsts.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_fininsts.xml\"}",
   "georss_box_s": "45.3915 10.968 45.64384 13.0613",
   "layer_id_s": "sde:columbia.leaddog_venice2008_fininsts",
   "layer_geom_type_s": "Point",

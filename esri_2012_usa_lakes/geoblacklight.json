@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_lakes",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_lakes",
-  "dc_title_s": "United States Lakes (Generalized), 1992",
+  "dc_title_s": "United States Lakes (Generalized)",
   "dc_description_s": "United States Lakes (Generalized) is a polygon theme that represents the major lakes within United States.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_usa_lakes.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_lakes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_lakes.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_usa_lakes.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_lakes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_lakes.xml\"}",
   "georss_box_s": "26.682836 -120.152127 49.996373 -71.198109",
   "layer_id_s": "sde:columbia.esri_2012_usa_lakes",
   "layer_geom_type_s": "Polygon",

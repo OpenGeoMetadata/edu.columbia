@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_global_esri_cities",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_global_esri_cities",
-  "dc_title_s": "World Cities",
+  "dc_title_s": "World Cities, 2000",
   "dc_description_s": "World Cities is a point theme representing cities throughout the world.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_global_esri_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_global_esri_cities.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_global_esri_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_global_esri_cities.xml\"}",
   "georss_box_s": "-54.792 -176.151566 78.199997 179.221893",
   "layer_id_s": "sde:columbia.landinfo_global_esri_cities",
   "layer_geom_type_s": "Point",

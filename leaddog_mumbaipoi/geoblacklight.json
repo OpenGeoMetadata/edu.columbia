@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_mumbaipoi",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_mumbaipoi",
-  "dc_title_s": "Mumbai Points of Interest",
+  "dc_title_s": "Mumbai Points of Interest, 2007",
   "dc_description_s": "Mumbai Points of Interest is a point theme representing hospitals, schools, hotels, places of worship, police stations, sporting areas, cemeteries, government buildings, shopping centers and other points of interest in Mumbai. The type and name of the point is encoded in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/POI.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_mumbaipoi.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_mumbaipoi.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/POI.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_mumbaipoi.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_mumbaipoi.xml\"}",
   "georss_box_s": "18.908672 72.797386 19.29295 72.965637",
   "layer_id_s": "sde:columbia.leaddog_mumbaipoi",
   "layer_geom_type_s": "Point",

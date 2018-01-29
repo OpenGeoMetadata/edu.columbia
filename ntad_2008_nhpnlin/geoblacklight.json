@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.ntad_2008_nhpnlin",
   "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2008_nhpnlin",
-  "dc_title_s": "National Highway Planning Network",
+  "dc_title_s": "United States National Highway Planning Network, 2008",
   "dc_description_s": "The National Highway Planning Network is a line theme representing the major highway system in the United States.  It consists of the nation's highways comprised of Rural Arterials, Urban Principal Arterials and all National Highway System routes. The data set covers the 48 contiguous States plus the District of Columbia, Alaska, Hawaii, and Puerto Rico. The nominal scale of the data set is 1:100,000 with a maximal positional error of ±80 meters.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nhpnlin2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2008_nhpnlin.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2008_nhpnlin.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nhpnlin2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2008_nhpnlin.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2008_nhpnlin.xml\"}",
   "georss_box_s": "17.934389 -176.763993 71.316994 -65.593643",
   "layer_id_s": "sde:columbia.ntad_2008_nhpnlin",
   "layer_geom_type_s": "Line",

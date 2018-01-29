@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_namedplc",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_namedplc",
-  "dc_title_s": "Venice Named Places",
+  "dc_title_s": "Venice Named Places, 2008",
   "dc_description_s": "Venice Named Place is a point theme representing municipalities, and all other settlements that are over 200,000 people per square mile in Venice, Italy.  The location of a named place is usually a city centre, or a main point such as a city hall, police station, or library.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_namedplc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_namedplc.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_namedplc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_namedplc.xml\"}",
   "georss_box_s": "44.8163 10.64364 46.60574 13.06119",
   "layer_id_s": "sde:columbia.leaddog_venice2008_namedplc",
   "layer_geom_type_s": "Point",

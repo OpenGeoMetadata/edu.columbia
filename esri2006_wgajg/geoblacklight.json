@@ -5,7 +5,7 @@
   "dc_description_s": "Azerbaijan World Gazetteer Locations is a point theme representing the locations and proper names for map features in Azerbaijan. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/AJG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_wgajg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_wgajg.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/AJG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_wgajg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_wgajg.xml\"}",
   "georss_box_s": "38.474998 45.097004 41.768998 50.607002",
   "layer_id_s": "sde:columbia.esri2006_wgajg",
   "layer_geom_type_s": "Point",

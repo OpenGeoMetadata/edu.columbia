@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_world_cities",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_world_cities",
-  "dc_title_s": "World Cities 1993-2009",
+  "dc_title_s": "World Cities, 2010",
   "dc_description_s": "World Cities is a point theme representing the locations of major cities of the world. Attribute information includes the name, country and population classification of the city. This dataset is a part of the 2010 ESRI Data and Maps Collection",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_world_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_world_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_world_cities.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_world_cities.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_world_cities.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_world_cities.xml\"}",
   "georss_box_s": "-54.792 -176.151564 78.200001 179.221888",
   "layer_id_s": "sde:columbia.esri_2010_world_cities",
   "layer_geom_type_s": "Point",

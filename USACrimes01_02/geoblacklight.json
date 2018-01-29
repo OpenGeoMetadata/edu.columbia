@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.USACrimes01_02",
   "dc_identifier_s": "urn:columbia.edu:Columbia.USACrimes01_02",
-  "dc_title_s": "Crimes United States 2001-2002",
+  "dc_title_s": "United States Crimes 2001-2002",
   "dc_description_s": "This map layer shows crime statistics for the United States for the years 2001-2002, drawn from the Uniform Crime Reporting Program datacompiled by the Federal Bureau of Investigation and archived at theInter-university Consortium for Political and Social Research (ICPSR).Crime data are reported by county and are provided for eight crimes:murder, forcible rape, robbery, aggravated assault, burglary, larceny,motor vehicle theft, and arson.  Statewide allocation data are notincluded in this map layer.  Crime data are adjusted to compensate forincomplete reporting by individual law enforcement agencies.  See the online codebook at <http://www.icpsr.umich.edu/cgi- bin/bob/archive2?study=4009&path=NACJD&docsonly=yes> for more information.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/USACrimes01_02.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/USACrimes01_02.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/USACrimes01_02.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/USACrimes01_02.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/USACrimes01_02.xml\"}",
   "georss_box_s": "18.0 172.0 72.0 -66.0",
   "layer_id_s": "sde:columbia.USACrimes01_02",
   "layer_geom_type_s": "Polygon",

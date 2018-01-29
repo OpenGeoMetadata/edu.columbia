@@ -5,7 +5,7 @@
   "dc_description_s": "New York City Bus Stops 2012 is a point theme representing NYC Transit and Metropolitan Transit Authority (MTA) bus stop locations in New York City. Attribute data include identification information, the latitude and longitude coordinates of each stop, and the field MILEPOST showing the mile point along route (routes start at mile 0). Information was obtained from the New York City Transit Authority. Files are provided in the projection NAD83 to align with the NYCMap basemap. Bus stops are offset from the street centerlines. The realigned data has not been thoroughly checked for accuracy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/busstop2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/halcrow_busstop2012.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/halcrow_busstop2012.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/busstop2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/halcrow_busstop2012.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/halcrow_busstop2012.xml\"}",
   "georss_box_s": "40.502874 -74.253551 40.912796 -73.700571",
   "layer_id_s": "sde:columbia.halcrow_busstop2012",
   "layer_geom_type_s": "Point",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_kenya2007_roads",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_kenya2007_roads",
-  "dc_title_s": "Kenya Major Roads",
+  "dc_title_s": "Kenya Major Roads, 2007",
   "dc_description_s": "Kenya Major Roads is a line theme representing streets in Kenya.  Attribute information includes the name and speed limit of the street and the length of the line segment..",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/Kenst_major_roads_IIl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_kenya2007_roads.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_kenya2007_roads.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/Kenst_major_roads_IIl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_kenya2007_roads.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_kenya2007_roads.xml\"}",
   "georss_box_s": "-4.675706 34.090534 4.465826 41.874684",
   "layer_id_s": "sde:columbia.leaddog_kenya2007_roads",
   "layer_geom_type_s": "Line",

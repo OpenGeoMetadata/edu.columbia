@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nnjstreetcl",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nnjstreetcl",
-  "dc_title_s": "Sanborn CitySets Newark Streets",
+  "dc_title_s": "Newark Streets, 2002",
   "dc_description_s": "Sanborn CitySets Newark Streets is a line theme representing streets in parts of Newark, New Jersey.  Streets were taken from the 2002 Sanborn CitySets orthophoto imagery.  Street names are included in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nnj_streetcl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nnjstreetcl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nnjstreetcl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nnj_streetcl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_nnjstreetcl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_nnjstreetcl.xml\"}",
   "georss_box_s": "40.72065 -74.19387 40.754089 -74.158695",
   "layer_id_s": "sde:columbia.sanborn_2003_nnjstreetcl",
   "layer_geom_type_s": "Line",

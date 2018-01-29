@@ -5,7 +5,7 @@
   "dc_description_s": "Luluabourg is a scanned, georeferenced map of the city of Luluabourg, Democratic Republic of Congo at a scale of",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/DRCLuluabourgl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/drcluluabourgl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/drcluluabourgl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/DRCLuluabourgl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/drcluluabourgl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/drcluluabourgl.xml\"}",
   "georss_box_s": "-5.950421 22.373431 -5.848244 22.482231",
   "layer_id_s": "sde:columbia.drcluluabourgl",
   "layer_geom_type_s": "Raster",

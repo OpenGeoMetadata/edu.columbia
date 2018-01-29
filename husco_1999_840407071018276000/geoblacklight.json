@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.husco_1999_840407071018276000",
   "dc_identifier_s": "urn:columbia.edu:Columbia.husco_1999_840407071018276000",
-  "dc_title_s": "Historical United States Boundary Files 1840",
+  "dc_title_s": "United States County Boundary Files, 1840",
   "dc_description_s": "The Historical United States County Boundary Files 1840 contains ArcView shapefile format U.S. county boundary files for 1840. Files include county and state names and FIPS identification numbers.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/us1840_Project.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/husco_1999_840407071018276000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/husco_1999_840407071018276000.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/us1840_Project.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/husco_1999_840407071018276000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/husco_1999_840407071018276000.xml\"}",
   "georss_box_s": "23.800119 -96.691015 50.128095 -66.076432",
   "layer_id_s": "sde:columbia.husco_1999_840407071018276000",
   "layer_geom_type_s": "Polygon",

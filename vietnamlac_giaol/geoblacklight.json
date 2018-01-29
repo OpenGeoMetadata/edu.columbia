@@ -5,7 +5,7 @@
   "dc_description_s": "Lac Giao (Ban Me Thuot)  is a scanned, georeferenced map of the city of Lac Giao, Vietnam at a scale of 1:12,500",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamLac_Giaol.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/vietnamlac_giaol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/vietnamlac_giaol.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamLac_Giaol.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/vietnamlac_giaol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/vietnamlac_giaol.xml\"}",
   "georss_box_s": "12.626063 108.009424 12.710843 108.138663",
   "layer_id_s": "sde:columbia.vietnamlac_giaol",
   "layer_geom_type_s": "Raster",

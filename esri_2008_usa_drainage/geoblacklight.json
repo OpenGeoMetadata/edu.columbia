@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2008_usa_drainage",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_usa_drainage",
-  "dc_title_s": "United States Drainage Systems (Generalized), 2008",
+  "dc_title_s": "United States Drainage Systems (Generalized)",
   "dc_description_s": "United States Drainage Systems (Generalized) is a polyline theme representing the major drainage systems within United States.  Attribute information includes the system name and length.\n\nThis dataset is from the 2008 ESRI Data & Maps Collection",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_usa_drainage.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_usa_drainage.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_usa_drainage.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_usa_drainage.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2008_usa_drainage.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2008_usa_drainage.xml\"}",
   "georss_box_s": "25.845555 -164.765827 67.4621 -73.140409",
   "layer_id_s": "sde:columbia.esri_2008_usa_drainage",
   "layer_geom_type_s": "Line",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_shopping",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_shopping",
-  "dc_title_s": "Venice Shopping Facilities",
+  "dc_title_s": "Venice Shopping Facilities, 2008",
   "dc_description_s": "Venice Shopping Facilities is a point theme representing shopping destinations identified as grocery stores (only chains and other locally known large grocery stores), or a complex of businesses, such as retail stores and restaurants, grouped together and sharing common services such as parking or utilities in Venice, Italy. A shopping facility is represented by multiple point objects when it has names in multiple languages. A full description of Facility Type codes and Chain ID codes can be obtained from the Metadata-Reference Classes layer.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_shopping.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_shopping.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_shopping.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_shopping.xml\"}",
   "georss_box_s": "45.03221 10.78308 46.15655 13.06757",
   "layer_id_s": "sde:columbia.leaddog_venice2008_shopping",
   "layer_geom_type_s": "Point",

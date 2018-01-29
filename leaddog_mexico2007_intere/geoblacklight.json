@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_mexico2007_intere",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_mexico2007_intere",
-  "dc_title_s": "Mexico City Point of Interest",
+  "dc_title_s": "Mexico City Point of Interest, 2007",
   "dc_description_s": "Mexico City Points of Interest is a point theme  representing hospitals, schools, hotels, places of worship, police stations, sporting areas, cemeteries, government buildings, shopping centers and other points of interest in Mexico City, Mexico.  The type and name of the point is encoded in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_points_of_interest.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_intere.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_intere.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_points_of_interest.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_intere.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_intere.xml\"}",
   "georss_box_s": "19.172555 -99.35599 19.684641 -98.95201",
   "layer_id_s": "sde:columbia.leaddog_mexico2007_intere",
   "layer_geom_type_s": "Point",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nycbldgid3d",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nycbldgid3d",
-  "dc_title_s": "Sanborn CitySets New York City Building Roof Elevations",
+  "dc_title_s": "New York City Building Roof Elevations, 2002",
   "dc_description_s": "Sanborn CitySets New York City Building Roof Elevations is a polygon theme representing roof elevations for selected structures in parts of Manhattan and Brooklyn.  There may be multiple polygons for single buildings with the same BLDGID.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_bldgid3d.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nycbldgid3d.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nycbldgid3d.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_bldgid3d.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_nycbldgid3d.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_nycbldgid3d.xml\"}",
   "georss_box_s": "40.67721 -74.019034 40.774061 -73.958919",
   "layer_id_s": "sde:columbia.sanborn_2003_nycbldgid3d",
   "layer_geom_type_s": "Polygon",

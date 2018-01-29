@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.bluesky2006_nyc",
   "dc_identifier_s": "urn:columbia.edu:Columbia.bluesky2006_nyc",
-  "dc_title_s": "New York City Orthoimagery, 2003",
+  "dc_title_s": "New York City Blue Sky Orthoimagery, 2006",
   "dc_description_s": "Blue Sky New York City Orthomagery is a set of orthophotos representing the entirety of New York City.  The photos were taken in 2003 and have a 25 centimeter resolution.  Tiles are provided in both jpeg and ecw formats.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bluesky2006_nyc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bluesky2006_nyc.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/bluesky2006_nyc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/bluesky2006_nyc.xml\"}",
   "georss_box_s": "40.489757 -74.050687 40.921535 -73.694148",
   "layer_id_s": "sde:columbia.bluesky2006_nyc",
   "layer_geom_type_s": "Raster",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_misccategories",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_misccategories",
-  "dc_title_s": "Venice Miscellaneous Facilities",
+  "dc_title_s": "Venice Miscellaneous Facilities, 2008",
   "dc_description_s": "Venice Miscellaneous Facilities is a point theme representing facilities within the NAVSTREETS coverage area\nthat cannot be categorized into any other layer.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_misccategories.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_misccategories.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_misccategories.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_misccategories.xml\"}",
   "georss_box_s": "45.06959 11.0031 46.13324 12.84567",
   "layer_id_s": "sde:columbia.leaddog_venice2008_misccategories",
   "layer_geom_type_s": "Point",

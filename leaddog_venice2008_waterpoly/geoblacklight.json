@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_waterpoly",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_waterpoly",
-  "dc_title_s": "Venice Waterway Polygons",
+  "dc_title_s": "Venice Waterway Polygons, 2008",
   "dc_description_s": "Venice Waterway Polygons is a polygon theme representing rivers, lakes bays, channels and canals in Venice Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_waterpoly.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_waterpoly.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_waterpoly.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_waterpoly.xml\"}",
   "georss_box_s": "44.79154 10.6273 46.59591 13.09789",
   "layer_id_s": "sde:columbia.leaddog_venice2008_waterpoly",
   "layer_geom_type_s": "Polygon",

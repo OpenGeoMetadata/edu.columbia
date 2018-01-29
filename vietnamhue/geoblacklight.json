@@ -5,7 +5,7 @@
   "dc_description_s": "Hue is a scanned, georeferenced map of the city of Hue, Vietnam at a scale of 1:12,500",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamHuel.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/vietnamhue.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/vietnamhue.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamHuel.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/vietnamhue.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/vietnamhue.xml\"}",
   "georss_box_s": "16.430766 107.538911 16.515123 107.608407",
   "layer_id_s": "sde:columbia.vietnamhue",
   "layer_geom_type_s": "Raster",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.husco_1999_464877163848968000",
   "dc_identifier_s": "urn:columbia.edu:Columbia.husco_1999_464877163848968000",
-  "dc_title_s": "HUSCO Maryland 1890-1910 (Projected)",
+  "dc_title_s": "Maryland County Boundary FIles,, 1890-1910",
   "dc_description_s": "This shapefile contains county boundaries for Maryland for the years 1980-1910.  The Historical United States County Boundary Files 1790 - 1999 (or HUSCO 1790 - 1999) contains ArcView shapefile format U.S. county boundary files for each decade from 1790 through 1990 (also 1999). Files include county and state names and FIPS identification numbers.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/baltcico1890to1910.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/husco_1999_464877163848968000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/husco_1999_464877163848968000.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/baltcico1890to1910.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/husco_1999_464877163848968000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/husco_1999_464877163848968000.xml\"}",
   "georss_box_s": "37.910802 -79.501916 39.730669 -75.060097",
   "layer_id_s": "sde:columbia.husco_1999_464877163848968000",
   "layer_geom_type_s": "Polygon",

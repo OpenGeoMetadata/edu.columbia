@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_sing2007_interes",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_sing2007_interes",
-  "dc_title_s": "Singapore Points of Interest",
+  "dc_title_s": "Singapore Points of Interes, 2007t",
   "dc_description_s": "Singapore Points of Interest is a point theme  representing hospitals, schools, hotels, places of worship, police stations, sporting areas, cemeteries, government buildings, shopping centers and other points of interest in Singapore.  The type and name of the point is encoded in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/singapore_points_of_interest.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_sing2007_interes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_sing2007_interes.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/singapore_points_of_interest.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_sing2007_interes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_sing2007_interes.xml\"}",
   "georss_box_s": "1.15901 103.62082 1.4697 104.05595",
   "layer_id_s": "sde:columbia.leaddog_sing2007_interes",
   "layer_geom_type_s": "Point",

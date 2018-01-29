@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_portau2007_neighbor",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_portau2007_neighbor",
-  "dc_title_s": "Port au Prince Neighborhoods",
+  "dc_title_s": "Port au Prince Neighborhoods, 2007",
   "dc_description_s": "Port ay Prince Neighborhoods is a point theme representing neighborhoods in Port au Prince, Haiti.  The name of the neighborhood in included in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/port_au_prince_neighborhoods.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_portau2007_neighbor.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_portau2007_neighbor.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/port_au_prince_neighborhoods.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_portau2007_neighbor.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_portau2007_neighbor.xml\"}",
   "georss_box_s": "18.504842 -72.401975 18.585514 -72.274303",
   "layer_id_s": "sde:columbia.leaddog_portau2007_neighbor",
   "layer_geom_type_s": "Point",

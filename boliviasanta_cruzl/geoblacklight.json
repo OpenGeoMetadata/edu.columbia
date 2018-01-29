@@ -5,7 +5,7 @@
   "dc_description_s": "Santa Cruz  is a scanned, georeferenced map of the city of Santa Cruz, Bolivia at a scale of 20,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BoliviaSanta_Cruzl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/boliviasanta_cruzl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/boliviasanta_cruzl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BoliviaSanta_Cruzl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/boliviasanta_cruzl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/boliviasanta_cruzl.xml\"}",
   "georss_box_s": "-17.91476 -63.248921 -17.698306 -63.096256",
   "layer_id_s": "sde:columbia.boliviasanta_cruzl",
   "layer_geom_type_s": "Raster",

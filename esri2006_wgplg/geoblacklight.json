@@ -5,7 +5,7 @@
   "dc_description_s": "Poland World Gazetteer Locations is a point theme representing the locations and proper names for map features in Poland. The gazetteer includes attribute and annotation name information from various layers of the Digital Chart of the World.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/PLG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_wgplg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_wgplg.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/PLG.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_wgplg.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_wgplg.xml\"}",
   "georss_box_s": "49.296004 14.239001 54.827998 23.897",
   "layer_id_s": "sde:columbia.esri2006_wgplg",
   "layer_geom_type_s": "Point",

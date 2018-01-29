@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cdc_china2010county_censusl",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_china2010county_censusl",
-  "dc_title_s": "China Counties, Population (Long Form), Census 2010",
+  "dc_title_s": "China Counties and Long Form Census Data, 2010",
   "dc_description_s": "China Counties with 2010 Long Form Census Data is a polygon theme representing Counties in China as of 2010.  Attribute information includes a number of variables from the census long  form representing the population as of November 1, 2010.   The long form includes all short form items plus other items such as migration, education, economic activities, marriage and family, fertility , housing , etc.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_china2010county_censusl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_china2010county_censusl.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_china2010county_censusl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_china2010county_censusl.xml\"}",
   "georss_box_s": "6.318641 73.44696 53.557926 135.085831",
   "layer_id_s": "sde:columbia.cdc_china2010county_censusl",
   "layer_geom_type_s": "Polygon",

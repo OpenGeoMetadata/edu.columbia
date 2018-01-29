@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.ntad_2008_milbase",
   "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2008_milbase",
-  "dc_title_s": "United States Military Installations",
+  "dc_title_s": "United States Military Installations, 2008",
   "dc_description_s": "United States Military Installations is a polygon theme representing the boundaries and location information for important military installations in the United States and Puerto Rico. The database includes records for 405 military installations.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/milbase2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2008_milbase.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2008_milbase.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/milbase2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2008_milbase.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2008_milbase.xml\"}",
   "georss_box_s": "18.198778 -158.15106 64.877888 -65.589974",
   "layer_id_s": "sde:columbia.ntad_2008_milbase",
   "layer_geom_type_s": "Polygon",

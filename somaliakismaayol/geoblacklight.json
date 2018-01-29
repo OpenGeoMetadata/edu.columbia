@@ -5,7 +5,7 @@
   "dc_description_s": "Kismaayo is a scanned, georeferenced map of the city of Kismaayo, Somalia at a scale of 1:20,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SomaliaKismaayol.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/somaliakismaayol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/somaliakismaayol.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/SomaliaKismaayol.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/somaliakismaayol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/somaliakismaayol.xml\"}",
   "georss_box_s": "-0.422351 42.436261 -0.302151 42.585924",
   "layer_id_s": "sde:columbia.somaliakismaayol",
   "layer_geom_type_s": "Raster",

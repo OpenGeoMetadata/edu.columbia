@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_india2007_states",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_india2007_states",
-  "dc_title_s": "India State Boundaries",
+  "dc_title_s": "India State Boundaries, 2007",
   "dc_description_s": "India State Boundaries is a polygon theme representing second level administrative boundaries in India.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_india2007_states.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_india2007_states.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_india2007_states.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_india2007_states.xml\"}",
   "georss_box_s": "6.767454 68.196831 37.121712 97.409096",
   "layer_id_s": "sde:columbia.leaddog_india2007_states",
   "layer_geom_type_s": "Polygon",

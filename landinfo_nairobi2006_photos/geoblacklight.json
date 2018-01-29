@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_nairobi2006_photos",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_nairobi2006_photos",
-  "dc_title_s": "Nairobi Orthoimagery",
+  "dc_title_s": "Nairobi Orthoimagery, 2006",
   "dc_description_s": "Nairobi Orthoimagery is a set of digital orthophotos representing Nairobi, Kenya. The dataset is comprised of eight tiles; the photos were taken in 2005 and 2006 and have a 60 centimeter resolution and was produced at a scale of 1:48,000. The tiles may be downloaded through the Nairobi Orthoimagery Index, a polygon layer that serves as an index for the orthoimagery tiles. The index can be downloaded through the link below, the URLs needed to download the tiles is embedded in the attribute information the index.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/Nairobi_2006_TILE.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_nairobi2006_photos.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_nairobi2006_photos.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/Nairobi_2006_TILE.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_nairobi2006_photos.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_nairobi2006_photos.xml\"}",
   "georss_box_s": "-1.362071 36.728928 -1.22086 36.965261",
   "layer_id_s": "sde:columbia.landinfo_nairobi2006_photos",
   "layer_geom_type_s": "Raster",

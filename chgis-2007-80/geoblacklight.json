@@ -5,7 +5,7 @@
   "dc_description_s": "China in Time and Space (CITAS) 1997 China Provinces (UTF) is a polygon theme representing Provinces in the People's Republic of China as of 1997.  This dataset employs UTF Encoding for Chinese Characters.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/v4_1997_prov_pgn_utf.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/chgis-2007-80.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/chgis-2007-80.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/v4_1997_prov_pgn_utf.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/chgis-2007-80.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/chgis-2007-80.xml\"}",
   "georss_box_s": "3.681841 69.091016 54.218045 136.711544",
   "layer_id_s": "sde:columbia.chgis-2007-80",
   "layer_geom_type_s": "Polygon",

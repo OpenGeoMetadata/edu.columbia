@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nycaltbld",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nycaltbld",
-  "dc_title_s": "Sanborn CitySets New York City Alternate Building Addresses",
+  "dc_title_s": "New York City Alternate Building Addresses, 2002",
   "dc_description_s": "Sanborn CitySets New York City Alternate Building Addresses is a point theme representing alternate street addresses by door locations for buildings in parts of Manhattan and Brooklyn in New York City.  Attribute information includes building name and building code for use with the Sanborn building footprints layer.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_altbld.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nycaltbld.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nycaltbld.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_altbld.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_nycaltbld.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_nycaltbld.xml\"}",
   "georss_box_s": "40.677615 -74.018276 40.772966 -73.959164",
   "layer_id_s": "sde:columbia.sanborn_2003_nycaltbld",
   "layer_geom_type_s": "Point",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_actpoilac",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_actpoilac",
-  "dc_title_s": "Venice Points of Interest",
+  "dc_title_s": "Venice Points of Interest, 2008",
   "dc_description_s": "Venice Points of Interest is a point theme representing various points of interest in and around Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_actpoilac.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_actpoilac.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_actpoilac.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_actpoilac.xml\"}",
   "georss_box_s": "43.95437 9.38554 46.89814 13.83824",
   "layer_id_s": "sde:columbia.leaddog_venice2008_actpoilac",
   "layer_geom_type_s": "Point",

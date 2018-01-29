@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_barcelona2007_street",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_barcelona2007_street",
-  "dc_title_s": "Barcelona Street Centerlines",
+  "dc_title_s": "Barcelona Street Centerlines, 2007",
   "dc_description_s": "Barcelona Street Centerlines is a line theme representing streets in Barcelona, Spain.  Attribute information includes the type of road represented by the line segment.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BARCELONA_ROADS.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_barcelona2007_street.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_barcelona2007_street.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BARCELONA_ROADS.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_barcelona2007_street.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_barcelona2007_street.xml\"}",
   "georss_box_s": "41.26831 1.980961 41.466089 2.279891",
   "layer_id_s": "sde:columbia.landinfo_barcelona2007_street",
   "layer_geom_type_s": "Line",

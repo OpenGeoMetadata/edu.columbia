@@ -5,7 +5,7 @@
   "dc_description_s": "Bien Hoa is a scanned, georeferenced map of the city of Bien Hoa, Vietnam at a scale of 1:12,500",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamBien_Hoal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/vietnambien_hoal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/vietnambien_hoal.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/VietnamBien_Hoal.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/vietnambien_hoal.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/vietnambien_hoal.xml\"}",
   "georss_box_s": "10.874491 106.790897 11.00238 106.872434",
   "layer_id_s": "sde:columbia.vietnambien_hoal",
   "layer_geom_type_s": "Raster",

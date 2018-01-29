@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_jcbridges",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_jcbridges",
-  "dc_title_s": "Sanborn CitySets Jersey City Bridges",
+  "dc_title_s": "Jersey City Bridges, 2002",
   "dc_description_s": "Sanborn CitySets Jersey City Bridges is a polygon theme representing  bridges in parts of Jersey City, New Jersey",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_bridges.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_jcbridges.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_jcbridges.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_bridges.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_jcbridges.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_jcbridges.xml\"}",
   "georss_box_s": "40.707635 -74.062646 40.736754 -74.031319",
   "layer_id_s": "sde:columbia.sanborn_2003_jcbridges",
   "layer_geom_type_s": "Polygon",

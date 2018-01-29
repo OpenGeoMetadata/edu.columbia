@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.usgs_nyc1999_1m",
   "dc_identifier_s": "urn:columbia.edu:Columbia.usgs_nyc1999_1m",
-  "dc_title_s": "New York City Area Digital Elevation Model, 1 Arc Second (meters)",
+  "dc_title_s": "New York City Area Digital Elevation Model, 1 Arc Second (meters), 1999",
   "dc_description_s": "New York City Area Digital Elevation Model, 1 Arc Second  (meters) is a raster dataset representing elevations in the New York City area.  This layer was clipped from the USGS NED to New York City and its immediate surrounding environment showing elevation (in meters), and ground units in decimal degrees. The resolution is 1 arc second.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyc_1_3m.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/usgs_nyc1999_1m.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/usgs_nyc1999_1m.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyc_1_3m.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/usgs_nyc1999_1m.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/usgs_nyc1999_1m.xml\"}",
   "georss_box_s": "40.488889 -74.265278 40.932222 -73.691389",
   "layer_id_s": "sde:columbia.usgs_nyc1999_1m",
   "layer_geom_type_s": "Raster",

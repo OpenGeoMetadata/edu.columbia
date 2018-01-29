@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_jcparks",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_jcparks",
-  "dc_title_s": "Sanborn CitySets Jersey City Parks",
+  "dc_title_s": "Jersey City Parks, 2002",
   "dc_description_s": "Sanborn CitySets Jersey City Parks is a polygon theme representing parks in parts of Jersey City New Jersey.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_parks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_jcparks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_jcparks.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_parks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_jcparks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_jcparks.xml\"}",
   "georss_box_s": "40.713376 -74.063953 40.72899 -74.044078",
   "layer_id_s": "sde:columbia.sanborn_2003_jcparks",
   "layer_geom_type_s": "Polygon",

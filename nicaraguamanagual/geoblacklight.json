@@ -5,7 +5,7 @@
   "dc_description_s": "Managua is a scanned, georeferenced map of the city of Managua, Nicaragua at a scale of 1:15,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/NicaraguaManagual.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/nicaraguamanagual.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/nicaraguamanagual.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/NicaraguaManagual.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/nicaraguamanagual.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/nicaraguamanagual.xml\"}",
   "georss_box_s": "12.049598 -86.328711 12.172122 -86.146153",
   "layer_id_s": "sde:columbia.nicaraguamanagual",
   "layer_geom_type_s": "Raster",

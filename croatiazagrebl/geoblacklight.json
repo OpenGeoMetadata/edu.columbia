@@ -5,7 +5,7 @@
   "dc_description_s": "Zagreb is a scanned, georeferenced map of the city of Zagreb, Croatia at a scale of 1:25,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/CroatiaZagrebl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/croatiazagrebl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/croatiazagrebl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/CroatiaZagrebl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/croatiazagrebl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/croatiazagrebl.xml\"}",
   "georss_box_s": "45.68197 15.809821 45.85386 16.180118",
   "layer_id_s": "sde:columbia.croatiazagrebl",
   "layer_geom_type_s": "Raster",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_berlin2006_photos",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_berlin2006_photos",
-  "dc_title_s": "Berlin Orthoimagery",
+  "dc_title_s": "Beijing Orthoimagery, 2006",
   "dc_description_s": "Berlin Orthoimagery is a set of digital orthophotos representing Berlin, Germany. The dataset is comprised of nine tiles; the photos were taken in 2005 and 2006 and have a 60 centimeter resolution.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_berlin2006_photos.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_berlin2006_photos.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_berlin2006_photos.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_berlin2006_photos.xml\"}",
   "georss_box_s": "52.359314 13.131808 52.649852 13.656878",
   "layer_id_s": "sde:columbia.landinfo_berlin2006_photos",
   "layer_geom_type_s": "Raster",

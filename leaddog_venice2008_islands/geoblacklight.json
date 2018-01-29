@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_islands",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_islands",
-  "dc_title_s": "Venice Islands",
+  "dc_title_s": "Venice Islands, 2008",
   "dc_description_s": "Venice Islands is a polygon theme representing islands in Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_islands.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_islands.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_islands.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_islands.xml\"}",
   "georss_box_s": "44.92804 10.69 45.82559 12.98357",
   "layer_id_s": "sde:columbia.leaddog_venice2008_islands",
   "layer_geom_type_s": "Polygon",

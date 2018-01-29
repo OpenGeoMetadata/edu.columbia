@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_usa_glocale",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_usa_glocale",
-  "dc_title_s": "United States Locales (Geographic Names Information System), 1974-2009",
+  "dc_title_s": "United States Locales (Geographic Names Information System), 2010",
   "dc_description_s": "United States Locales (Geographic Names Information System) is a point theme representing locales from the Geographic Names Information System. This dataset is from the 2010 ESRI Data & Maps Collection.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_gnis_locales.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_usa_glocale.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_usa_glocale.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_gnis_locales.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_usa_glocale.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_usa_glocale.xml\"}",
   "georss_box_s": "-14.329167 -176.813333 71.383022 179.289627",
   "layer_id_s": "sde:columbia.esri_2010_usa_glocale",
   "layer_geom_type_s": "Point",

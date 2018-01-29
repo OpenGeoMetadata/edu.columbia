@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_entertn",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_entertn",
-  "dc_title_s": "Venice Entertainment Destinations",
+  "dc_title_s": "Venice Entertainment Destinations, 2008",
   "dc_description_s": "Venice Entertainment Destinations is a point theme representing nightlife, performing arts, and entertainment facilities in Venice, Italy.  \n\nNightlife: This is specific to places that offer live music, and includes most famous music clubs in a European detailed coverage area. This category is exclusive to\nEuropean detailed coverage areas.\n\n\nPerforming Arts: These include all cultural centers, concert halls, and theatres that seat more than 250 people, or that are locally known within the NAVSTREETS detailed coverage\narea\n\n.\nCinemas: These include all cinemas with more than 200 seats. This category is exclusive to European detailed coverage areas.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_entertn.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_entertn.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_entertn.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_entertn.xml\"}",
   "georss_box_s": "45.06891 10.72768 46.13971 13.01203",
   "layer_id_s": "sde:columbia.leaddog_venice2008_entertn",
   "layer_geom_type_s": "Point",

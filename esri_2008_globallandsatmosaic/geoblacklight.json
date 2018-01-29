@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2008_globallandsatmosaic",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_globallandsatmosaic",
-  "dc_title_s": "EarthSat NaturalVue Global Landsat Mosaic, 1998-2002",
+  "dc_title_s": "EarthSat NaturalVue Global Landsat Mosaic, 2008",
   "dc_description_s": "EarthSat NaturalVue Global Landsat Mosaic represents a 150-meter resolution natural color Landsat 7-derived, mosaicked image dataset covering the entire land area of the World. NaturalVue Global Landsat Mosaic was created from NaturalVue 2000. NaturalVue 2000 was derived from the GeoCover Ortho 2000 program for NASA.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_globallandsatmosaic.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_globallandsatmosaic.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2008_globallandsatmosaic.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2008_globallandsatmosaic.xml\"}",
   "georss_box_s": "-85.0 -180.0 85.0 180.0",
   "layer_id_s": "sde:columbia.esri_2008_globallandsatmosaic",
   "layer_geom_type_s": "Raster",

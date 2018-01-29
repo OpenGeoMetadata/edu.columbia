@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_commsvc",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_commsvc",
-  "dc_title_s": "Venice Community Service Centers",
+  "dc_title_s": "Venice Community Service Centers, 2008",
   "dc_description_s": "Venice Community Service Centers is a point theme representing community centers, post offices, and places of worship in Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_commsvc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_commsvc.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_commsvc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_commsvc.xml\"}",
   "georss_box_s": "44.97975 10.68572 46.40655 13.06855",
   "layer_id_s": "sde:columbia.leaddog_venice2008_commsvc",
   "layer_geom_type_s": "Point",

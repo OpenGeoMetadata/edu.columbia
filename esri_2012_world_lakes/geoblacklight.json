@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_world_lakes",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_world_lakes",
-  "dc_title_s": "World Lakes, 1963-2001",
+  "dc_title_s": "World Lakes, 2012",
   "dc_description_s": "World Lakes is a polygon theme representing the major lakes and inland seas of the world.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_world_lakes.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_world_lakes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_world_lakes.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_world_lakes.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_world_lakes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_world_lakes.xml\"}",
   "georss_box_s": "-16.606264 -125.123318 67.046937 109.965",
   "layer_id_s": "sde:columbia.esri_2012_world_lakes",
   "layer_geom_type_s": "Polygon",

@@ -5,7 +5,7 @@
   "dc_description_s": "Brcko is a scanned, georeferenced map of the city of Brcko, Bosnia and Herzegovina at a scale of 15,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzBrckol.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bosniaherzbrckol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bosniaherzbrckol.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzBrckol.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/bosniaherzbrckol.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/bosniaherzbrckol.xml\"}",
   "georss_box_s": "44.808923 18.757757 44.91152 18.862636",
   "layer_id_s": "sde:columbia.bosniaherzbrckol",
   "layer_geom_type_s": "Raster",

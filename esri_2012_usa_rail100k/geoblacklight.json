@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_rail100k",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_rail100k",
-  "dc_title_s": "United States Railroads, 2002",
+  "dc_title_s": "United States Railroads, 2012",
   "dc_description_s": "United States Railroads is a line theme representing railroad tracks in the United States at a 1:100,000 scale. The data set covers all 50 States plus the District of Columbia.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_rail100k.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_rail100k.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_rail100k.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_rail100k.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_rail100k.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_rail100k.xml\"}",
   "georss_box_s": "25.462464 -124.258491 49.001891 -67.267945",
   "layer_id_s": "sde:columbia.esri_2012_usa_rail100k",
   "layer_geom_type_s": "Line",

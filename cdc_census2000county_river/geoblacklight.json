@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cdc_census2000county_river",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000county_river",
-  "dc_title_s": "China Rivers, Census 2000",
+  "dc_title_s": "China Rivers, 2000",
   "dc_description_s": "China Rivers is a polyline theme representing rivers in China in 2000.  This datalayer is part of the China 2000 county population census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center (2003). The new version (III) of 2000 county data include 2000 county boundary GIS map and several other GIS maps, integrated with more than 1,900 variables from 2000 population census data for counties and urban districts. Source scale: 1:1,000,000.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000county_river.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000county_river.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000county_river.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000county_river.xml\"}",
   "georss_box_s": "6.318641 73.44696 53.557926 135.085831",
   "layer_id_s": "sde:columbia.cdc_census2000county_river",
   "layer_geom_type_s": "Line",

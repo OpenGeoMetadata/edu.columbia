@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_jcstreetcl",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_jcstreetcl",
-  "dc_title_s": "Sanborn CitySets Jersey City Streets",
+  "dc_title_s": "Jersey City Streets, 2002",
   "dc_description_s": "Sanborn CitySets Jersey City Streets is a line theme representing streets in parts of Jersey City, New Jersey.  Streets were taken from the 2002 Sanborn CitySets orthophoto imagery.  Street names are included in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_streetcl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_jcstreetcl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_jcstreetcl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_streetcl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_jcstreetcl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_jcstreetcl.xml\"}",
   "georss_box_s": "40.706209 -74.067246 40.738927 -74.027931",
   "layer_id_s": "sde:columbia.sanborn_2003_jcstreetcl",
   "layer_geom_type_s": "Line",

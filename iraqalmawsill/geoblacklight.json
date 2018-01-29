@@ -5,7 +5,7 @@
   "dc_description_s": "Al Mawsil is a scanned, georeferenced map of the city of Al Mawsil, Iraq at a scale of 1:40000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/IraqAlMawsill.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/iraqalmawsill.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/iraqalmawsill.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/IraqAlMawsill.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/iraqalmawsill.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/iraqalmawsill.xml\"}",
   "georss_box_s": "36.191484 42.998089 36.477591 43.340544",
   "layer_id_s": "sde:columbia.iraqalmawsill",
   "layer_geom_type_s": "Raster",

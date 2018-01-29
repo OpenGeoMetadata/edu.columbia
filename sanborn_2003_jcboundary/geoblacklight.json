@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_jcboundary",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_jcboundary",
-  "dc_title_s": "Sanborn CitySets Jersey City Boundary",
+  "dc_title_s": "Jersey City Boundary, 2002",
   "dc_description_s": "Sanborn CitySets Jersey City Boundary is a polygon theme representing the study area in Jersey City, New jersey that is represented in the Sanborn CitySets.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_boundary.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_jcboundary.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_jcboundary.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/jer_boundary.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_jcboundary.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_jcboundary.xml\"}",
   "georss_box_s": "40.706279 -74.067202 40.738822 -74.026007",
   "layer_id_s": "sde:columbia.sanborn_2003_jcboundary",
   "layer_geom_type_s": "Polygon",

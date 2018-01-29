@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_tokyo2007_photos",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_tokyo2007_photos",
-  "dc_title_s": "Tokyo Orthoimagery",
+  "dc_title_s": "Tokyo Orthoimagery, 2007",
   "dc_description_s": "Tokyo Orthoimagery is a set of digital orthophotos representing Tokyo, Japan. The dataset is comprised of 81 tiles; the photos were taken in 2005, 2006 and 2007 and have a 60 centimeter resolution.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_tokyo2007_photos.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_tokyo2007_photos.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_tokyo2007_photos.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_tokyo2007_photos.xml\"}",
   "georss_box_s": "35.24673 139.355097 36.098351 140.127736",
   "layer_id_s": "sde:columbia.landinfo_tokyo2007_photos",
   "layer_geom_type_s": "Raster",

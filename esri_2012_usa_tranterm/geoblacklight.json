@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_tranterm",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_tranterm",
-  "dc_title_s": "United States Transportation Terminals, 2011",
+  "dc_title_s": "United States Transportation Terminals, 2012",
   "dc_description_s": "United States Transportation Terminals is a point theme representing transportation terminals such as bus stations, train stations, marine terminals, and other significant transportation nodes in the United States. Attribute information includes the name, type and FCC code of the terminals.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_tranterm.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_tranterm.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_tranterm.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_tranterm.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_tranterm.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_tranterm.xml\"}",
   "georss_box_s": "18.152311 -166.498649 61.174671 -65.443111",
   "layer_id_s": "sde:columbia.esri_2012_usa_tranterm",
   "layer_geom_type_s": "Point",

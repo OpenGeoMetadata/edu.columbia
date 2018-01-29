@@ -1,17 +1,17 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_arcatlas_wildlife",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_arcatlas_wildlife",
-  "dc_title_s": "Wildlife, 1996",
-  "dc_description_s": "Wildlife is a polygon theme representing the habitat for a number of animal species.  Attribute information includes the Latin and common name of the animal.",
+  "dc_title_s": "World Wildlife, 1996",
+  "dc_description_s": "World Wildlife, 1996 is a polygon theme representing the habitat for a number of animal species.  Attribute information includes the Latin and common name of the animal.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/wildlife.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_arcatlas_wildlife.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_arcatlas_wildlife.xml\"}",
-  "georss_box_s": "-55.902229 -179.99 83.623032 179.99",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/wildlife.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_arcatlas_wildlife.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_arcatlas_wildlife.xml\"}",
+  "georss_box_s": "-55.902229 -179.9 83.623032 179.9",
   "layer_id_s": "sde:columbia.esri_arcatlas_wildlife",
   "layer_geom_type_s": "Polygon",
   "layer_modified_dt": "2009-07-07T00:00:00Z",
   "layer_slug_s": "sde-columbia-esri_arcatlas_wildlife",
-  "solr_geom": "ENVELOPE(-179.99, 179.99, 83.623032, -55.902229)",
+  "solr_geom": "ENVELOPE(-179.9, 179.9, 83.623032, -55.902229)",
   "solr_year_i": "1996",
   "dc_creator_sm": [
     "Environmental Systems Research Institute (Redlands, Calif.)"
@@ -35,5 +35,5 @@
   "dct_isPartOf_sm": [
     "ArcAtlas"
   ],
-  "georss_polygon_s": "83.623032 -179.99 83.623032 179.99 -55.902229 179.99 -55.902229 -179.99 83.623032 -179.99"
+  "georss_polygon_s": "83.623032 -179.9 83.623032 179.9 -55.902229 179.9 -55.902229 -179.9 83.623032 -179.9"
 }

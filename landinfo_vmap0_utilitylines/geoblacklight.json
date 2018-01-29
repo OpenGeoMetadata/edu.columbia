@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_vmap0_utilitylines",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_vmap0_utilitylines",
-  "dc_title_s": "World Utility Lines (VMAP0)",
+  "dc_title_s": "World Utility Lines (VMAP0), 1997",
   "dc_description_s": "World Utility Lines is a polyline theme representing various utility features worldwide.  This dataset is part of the Vector Map Level 0 database. The Vector Map (VMap) Level 0 database represents the third edition of the Digital Chart of the World. VMap Level 0 is a comprehensive 1:1,000,000 scale vector of the world. It consists of cartographic, attribute, and textual data stored on compact disc read only memory (CD-ROM). The primary source for the database is the National Imagery and Mapping Agency's (NIMA) Operational Navigation Chart (ONC) series. This is the largest scale unclassified map series in existence that provides consistent, continuous global coverage of essential basemap features. The data includes major road and rail networks, major hydrologic drainage systems, major utility networks (cross-country pipelines and communication lines), all major airports, elevation contours (1000 foot(ft), with 500ft and 250ft supplemental contours), coastlines, international boundaries and populated places.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/World_UtilityLines_LINES.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_vmap0_utilitylines.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_vmap0_utilitylines.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/World_UtilityLines_LINES.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_vmap0_utilitylines.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_vmap0_utilitylines.xml\"}",
   "georss_box_s": "-51.993965 -179.948303 71.117416 180.0",
   "layer_id_s": "sde:columbia.landinfo_vmap0_utilitylines",
   "layer_geom_type_s": "Line",

@@ -5,7 +5,7 @@
   "dc_description_s": "Santiago de los Caballeros is a scanned, georeferenced map of the city of Santiago de los Caballeros, Dominican Republic at a scale of 1:12,500",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/Dominican_RepublicSantiago_de_los_Caballerosl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/drsantiago_de_los_caballerosl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/drsantiago_de_los_caballerosl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/Dominican_RepublicSantiago_de_los_Caballerosl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/drsantiago_de_los_caballerosl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/drsantiago_de_los_caballerosl.xml\"}",
   "georss_box_s": "19.39776 -70.756585 19.502241 -70.618917",
   "layer_id_s": "sde:columbia.drsantiago_de_los_caballerosl",
   "layer_geom_type_s": "Raster",

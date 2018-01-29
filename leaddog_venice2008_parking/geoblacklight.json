@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_parking",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_parking",
-  "dc_title_s": "Venice Parking Facilities",
+  "dc_title_s": "Venice Parking Facilities, 2008",
   "dc_description_s": "Venice Parking Facilities is a point theme representing parking lots, parking garages/houses and park & rides in Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_parking.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_parking.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_parking.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_parking.xml\"}",
   "georss_box_s": "44.91686 10.66289 46.43692 13.07207",
   "layer_id_s": "sde:columbia.leaddog_venice2008_parking",
   "layer_geom_type_s": "Point",

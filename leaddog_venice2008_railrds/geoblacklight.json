@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_railrds",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_railrds",
-  "dc_title_s": "Venice Railroads",
+  "dc_title_s": "Venice Railroads, 2008",
   "dc_description_s": "Venice Railroads is a line theme representing rail lines in Venice, Italy.  Attribute information indicates the\nname of the railroad, and if the railroad goes onto a bridge or through a tunnel.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_railrds.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_railrds.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_railrds.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_railrds.xml\"}",
   "georss_box_s": "44.88799 10.64912 46.44683 12.99633",
   "layer_id_s": "sde:columbia.leaddog_venice2008_railrds",
   "layer_geom_type_s": "Line",

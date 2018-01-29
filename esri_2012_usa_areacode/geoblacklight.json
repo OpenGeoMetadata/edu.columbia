@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_areacode",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_areacode",
-  "dc_title_s": "United States Telephone Area Code Boundaries, 2011",
+  "dc_title_s": "United States Telephone Area Code Boundaries, 2012",
   "dc_description_s": "United States Telephone Area Code Boundaries is a polygon theme representing the telephone area codes for the United States.  They are also known as Numbering Plan Areas (NPA). The Numbering Plan Areas reflect current and accurate boundary changes both where new NPAs split from existing NPAs and where new NPAs overlay existing NPAs.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_areacode.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_areacode.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_areacode.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_areacode.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_areacode.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_areacode.xml\"}",
   "georss_box_s": "17.926706 -178.227822 71.390482 -65.244128",
   "layer_id_s": "sde:columbia.esri_2012_usa_areacode",
   "layer_geom_type_s": "Polygon",

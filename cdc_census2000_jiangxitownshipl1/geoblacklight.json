@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cdc_census2000_jiangxitownshipl1",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_jiangxitownshipl1",
-  "dc_title_s": "China Jiangxi Township, Population (9.95% long form, L1-L6), Census 2000",
+  "dc_title_s": "Jiangxi Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L1-L6)",
   "dc_description_s": "Jiangxi Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L1-L6)  is a point theme representing townships in Jiangxi Province in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  \n\nThis layer is one (Part A) of two layers covering the entire Long Form data; this layer covers Long Form tables L1-1 to L6-9: L1-1: Family households, population and sex ratio by region; L1-2: Employed population by sex and industries; L1-3: Employed population by sex and occupation; L1-4: Non-working population by sex and type; L1-5 : Employment and Unemployment by Sex; L1-6: Population aged 15 and over by sex and marital status; L1-7: Births by sex and birth order; L1-8: Number of Women (15-50) with Living Births; L1-9 Number of Women (15-50) with Surviving Births.  L4-1: Employed population by sex and two digits classification of industry and by region.  L4-2: Employed population by sex and two digits classification of occupation; L6-1: Age-specific fertility rate and total fertility rate of women aged 15-50 by region; L6-9: Number of children ever born and surviving to women aged 15-50 by region.\n\nThis data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_jiangxitownshipl1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_jiangxitownshipl1.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000_jiangxitownshipl1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000_jiangxitownshipl1.xml\"}",
   "georss_box_s": "24.597017 113.633347 30.063115 118.424209",
   "layer_id_s": "sde:columbia.cdc_census2000_jiangxitownshipl1",
   "layer_geom_type_s": "Point",

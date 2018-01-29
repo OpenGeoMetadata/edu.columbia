@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cc_halcrow_truckroute2009",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cc_halcrow_truckroute2009",
-  "dc_title_s": "New York City Truck Routes",
+  "dc_title_s": "New York City Truck Routes, 2009",
   "dc_description_s": "New York City Truck Routes is a line theme representing designated truck routes in New York City. Attribute information indicates the types of truck traffic permitted on various route segments, street name and segment length. The New York City designated truck routes map data are derived from maps and digital files produced by the NYC Department of Transportation. They are developed from, but do not perfectly align with the NYC DCP LION file. Data was realigned to the NYCMap basemap.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/truckroute2009.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cc_halcrow_truckroute2009.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cc_halcrow_truckroute2009.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/truckroute2009.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cc_halcrow_truckroute2009.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cc_halcrow_truckroute2009.xml\"}",
   "georss_box_s": "40.502663 -74.256483 40.911464 -73.699714",
   "layer_id_s": "sde:columbia.cc_halcrow_truckroute2009",
   "layer_geom_type_s": "Line",

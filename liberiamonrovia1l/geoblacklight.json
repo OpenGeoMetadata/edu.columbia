@@ -5,7 +5,7 @@
   "dc_description_s": "Monrovia is a scanned, georeferenced map of the city of Monrovia, Liberia at a scale of 1:7,500.  This map is in four sheets.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/LiberiaMonrovia1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/liberiamonrovia1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/liberiamonrovia1l.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/LiberiaMonrovia1l.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/liberiamonrovia1l.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/liberiamonrovia1l.xml\"}",
   "georss_box_s": "6.313954 -10.82295 6.381763 -10.762525",
   "layer_id_s": "sde:columbia.liberiamonrovia1l",
   "layer_geom_type_s": "Raster",

@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_recareas",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_recareas",
-  "dc_title_s": "United States Recreation Areas, 2011",
+  "dc_title_s": "United States Recreation Areas, 2012",
   "dc_description_s": "United States Recreation Areas is a point theme representing common recreation landmarks including golf courses, zoos, resorts, museums, and other recreational facilities in the United States. Attribute information includes then name and FCC code of the area. ",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_recareas.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_recareas.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_recareas.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_recareas.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_recareas.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_recareas.xml\"}",
   "georss_box_s": "17.932355 -177.45096 67.68886 -65.227784",
   "layer_id_s": "sde:columbia.esri_2012_usa_recareas",
   "layer_geom_type_s": "Point",

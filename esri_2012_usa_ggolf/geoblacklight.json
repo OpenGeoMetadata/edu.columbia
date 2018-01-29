@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_ggolf",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_ggolf",
-  "dc_title_s": "United States Golf Locales, 1974-2009",
+  "dc_title_s": "United States Golf Locales, 2012",
   "dc_description_s": "United States Golf Locales is a point theme representing golf courses and facilities in the United states as listed in the Geographic Names Information System",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_gnis_golf.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_ggolf.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_ggolf.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_gnis_golf.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_ggolf.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_ggolf.xml\"}",
   "georss_box_s": "-14.346944 -170.74 48.982241 144.861111",
   "layer_id_s": "sde:columbia.esri_2012_usa_ggolf",
   "layer_geom_type_s": "Point",

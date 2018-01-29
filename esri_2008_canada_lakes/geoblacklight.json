@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2008_canada_lakes",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_canada_lakes",
-  "dc_title_s": "Canada Lakes, 2007",
+  "dc_title_s": "Canada Lakes, 2008",
   "dc_description_s": "Canada Lakes is a polygon theme representing the major lakes within Canada.\n\nThis data set provides five levels of generalization for displaying the data at different scales. Everything about the levels is the same but the level of generalization and its name. The least generalized level is called <data set name>. The next more generalized level is called <data set name>_1, and so on. For best performance, use the most appropriate generalized level when displaying or printing.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/canada_lakes.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_canada_lakes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_canada_lakes.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/canada_lakes.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2008_canada_lakes.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2008_canada_lakes.xml\"}",
   "georss_box_s": "41.391291 -135.172518 67.046936 -63.067782",
   "layer_id_s": "sde:columbia.esri_2008_canada_lakes",
   "layer_geom_type_s": "Polygon",

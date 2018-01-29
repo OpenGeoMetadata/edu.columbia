@@ -5,7 +5,7 @@
   "dc_description_s": "Rogatica is a scanned, georeferenced map of the city of Rogatica, Bosnia and Herzegovina at a scale of 1:10,000",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzRogatical.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/bosniaherzrogatical.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/bosniaherzrogatical.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/BosniaHerzRogatical.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/bosniaherzrogatical.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/bosniaherzrogatical.xml\"}",
   "georss_box_s": "43.763419 18.965944 43.833024 19.032784",
   "layer_id_s": "sde:columbia.bosniaherzrogatical",
   "layer_geom_type_s": "Raster",

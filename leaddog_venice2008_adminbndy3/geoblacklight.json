@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_venice2008_adminbndy3",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice2008_adminbndy3",
-  "dc_title_s": "Venice Administrative Boundaries (Level 3)",
+  "dc_title_s": "Venice Administrative Boundaries (Level 3), 2008",
   "dc_description_s": "Venice Administrative Boundaries (Level 3) is a polygon theme representing the third level administrative boundaries in Venice, Italy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_venice2008_adminbndy3.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_venice2008_adminbndy3.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_venice2008_adminbndy3.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_venice2008_adminbndy3.xml\"}",
   "georss_box_s": "44.79154 10.62315 46.68058 13.10106",
   "layer_id_s": "sde:columbia.leaddog_venice2008_adminbndy3",
   "layer_geom_type_s": "Polygon",

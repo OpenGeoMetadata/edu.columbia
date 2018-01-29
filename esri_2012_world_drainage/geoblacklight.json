@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_world_drainage",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_world_drainage",
-  "dc_title_s": "World Drainage Systems, 1992",
+  "dc_title_s": "World Drainage Systems, 2012",
   "dc_description_s": "World Drainage Systems is a polyline theme representing the major drainage systems of the world. Attribute information includes the annual discharge, sediment load and length of the drainage systems.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"\\thttps://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_drainage.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_world_drainage.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_world_drainage.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"\\thttps://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_drainage.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_world_drainage.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_world_drainage.xml\"}",
   "georss_box_s": "-34.050564 -134.458591 71.3925 135.874609",
   "layer_id_s": "sde:columbia.esri_2012_world_drainage",
   "layer_geom_type_s": "Line",

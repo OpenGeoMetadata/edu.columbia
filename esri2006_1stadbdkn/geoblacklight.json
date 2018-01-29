@@ -5,7 +5,7 @@
   "dc_description_s": "North Korea Administrative Boundaries Level 1 is a polygon theme representing the boundaries for the first-level administrative units of North Korea.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/KN.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri2006_1stadbdkn.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri2006_1stadbdkn.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/KN.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri2006_1stadbdkn.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri2006_1stadbdkn.xml\"}",
   "georss_box_s": "37.671382 124.323954 43.0061 130.697418",
   "layer_id_s": "sde:columbia.esri2006_1stadbdkn",
   "layer_geom_type_s": "Polygon",

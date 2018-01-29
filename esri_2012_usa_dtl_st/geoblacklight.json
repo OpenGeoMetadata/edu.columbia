@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_dtl_st",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_dtl_st",
-  "dc_title_s": "United States States, 2011",
+  "dc_title_s": "United States States, 2012",
   "dc_description_s": "United States States is a polygon theme representing the 50 states, the District of Columbia, and Puerto Rico of the United States.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_dtl_st.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_dtl_st.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_dtl_st.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_dtl_st.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_dtl_st.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_dtl_st.xml\"}",
   "georss_box_s": "17.881242 -179.14734 71.390482 179.778465",
   "layer_id_s": "sde:columbia.esri_2012_usa_dtl_st",
   "layer_geom_type_s": "Polygon",

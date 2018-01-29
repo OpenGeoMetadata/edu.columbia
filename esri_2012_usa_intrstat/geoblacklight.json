@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_intrstat",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_intrstat",
-  "dc_title_s": "United States Interstate Highways, 2002",
+  "dc_title_s": "United States Interstate Highways, 2012",
   "dc_description_s": "United States Interstate Highways is a polyline theme representing rural and urban interstate highways. Attribute information includes the length, route number and class of the interstate. ",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_intrstat.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_intrstat.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_intrstat.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_intrstat.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_intrstat.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_intrstat.xml\"}",
   "georss_box_s": "21.273109 -158.090073 64.888216 -67.781193",
   "layer_id_s": "sde:columbia.esri_2012_usa_intrstat",
   "layer_geom_type_s": "Line",

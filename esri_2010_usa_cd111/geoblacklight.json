@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_usa_cd111",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_usa_cd111",
-  "dc_title_s": "United States 111th Congressional Districts, 2009",
+  "dc_title_s": "United States 111th Congressional Districts, 2010",
   "dc_description_s": "United States 111th Congressional Districts represents the political boundaries for the U.S. 111th congressional districts. The membership is current as of February 25, 2009.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_cd111.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_usa_cd111.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_usa_cd111.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_cd111.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_usa_cd111.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_usa_cd111.xml\"}",
   "georss_box_s": "17.884809 -179.147336 71.352563 -65.221109",
   "layer_id_s": "sde:columbia.esri_2010_usa_cd111",
   "layer_geom_type_s": "Polygon",

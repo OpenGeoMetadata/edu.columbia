@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2005_493204266347551000",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2005_493204266347551000",
-  "dc_title_s": "World Countries 1992",
+  "dc_title_s": "World Countries, 1992",
   "dc_description_s": "World Countries 1992 represents the boundaries for the countries of the world, as they existed in 1992 showing the Soviet Union, Yugoslavia, and Czechoslovakia as single nations.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2005_world_cntry92.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2005_493204266347551000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2005_493204266347551000.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2005_world_cntry92.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2005_493204266347551000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2005_493204266347551000.xml\"}",
   "georss_box_s": "-90.0 -180.0 83.623609 180.0",
   "layer_id_s": "sde:columbia.esri_2005_493204266347551000",
   "layer_geom_type_s": "Polygon",

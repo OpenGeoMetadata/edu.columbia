@@ -5,7 +5,7 @@
   "dc_description_s": "New York City Bus Routes 2012 is a line theme representing Metropolitan Transit Authority (MTA) bus routes in New York City. Ridership statistics are included in the Route attributes. Statistics are for Average Weekday, Average Saturday, Average Sunday, and Annual Totals. Data also include the route name, number ID, type, headway, vehicle capacity, vehicles per hour, total capacity and fare. Information was obtained from the New York City Transit Authority. Files are provided in the projection NAD83 to align with the NYCMap basemap. The realigned data has not been thoroughly checked for accuracy.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/busroute2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/halcrow_busroute2012.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/halcrow_busroute2012.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/busroute2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/halcrow_busroute2012.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/halcrow_busroute2012.xml\"}",
   "georss_box_s": "40.502767 -74.253965 40.933144 -73.700052",
   "layer_id_s": "sde:columbia.halcrow_busroute2012",
   "layer_geom_type_s": "Line",

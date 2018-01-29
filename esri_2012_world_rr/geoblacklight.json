@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_world_rr",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_world_rr",
-  "dc_title_s": "World Railroads, 2010",
+  "dc_title_s": "World Railroads, 2012",
   "dc_description_s": "World Railroads is a line theme represents the railroads of the world.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_world_RR.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_world_rr.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_world_rr.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_world_RR.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_world_rr.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_world_rr.xml\"}",
   "georss_box_s": "-46.415434 -130.359396 68.452043 178.013859",
   "layer_id_s": "sde:columbia.esri_2012_world_rr",
   "layer_geom_type_s": "Line",

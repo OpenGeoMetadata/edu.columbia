@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.landinfo_global_volc",
   "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_global_volc",
-  "dc_title_s": "Volcanoes of the World",
+  "dc_title_s": "World Volcanoes, 1995",
   "dc_description_s": "Volcanoes of the World is a point theme representing volcanoes thought to have been active in the last 10,000 years (Holocene). The data include a unique volcano number, volcano name, location, latitude and longitude, summit elevation, volcano type, status, and the time range of the last recorded eruption. More detailed descriptions of the data elements, plus more information on the volcanoes and their eruptions, can be found below and in \"Volcanoes of the World\" (Simkin and Siebert, 1994). The book provides a discussion of the many cautions that are so easily stripped away from an electronic database, such as the incomplete and uneven nature of the historical record, even in this century, and the large uncertainties surrounding many older eruption dates. The accuracy of the record varies enormously from one region to another (and one century to another), and the sea-floor volcanism that dominates our planetary magma budget is scarcely represented in this data set.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/volc.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/landinfo_global_volc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/landinfo_global_volc.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/volc.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/landinfo_global_volc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/landinfo_global_volc.xml\"}",
   "georss_box_s": "-78.25 -179.97 85.0 179.62",
   "layer_id_s": "sde:columbia.landinfo_global_volc",
   "layer_geom_type_s": "Point",

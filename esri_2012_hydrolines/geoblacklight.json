@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_hydrolines",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_hydrolines",
-  "dc_title_s": "World Rivers and Streams, 2010",
+  "dc_title_s": "World Rivers and Streams ",
   "dc_description_s": "World Rivers and Streams is a line theme representing the narrow rivers and streams of the world.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_hydrolines.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_hydrolines.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_hydrolines.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_hydrolines.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_hydrolines.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_hydrolines.xml\"}",
   "georss_box_s": "-54.997982 -179.999999 81.7849 180.0",
   "layer_id_s": "sde:columbia.esri_2012_hydrolines",
   "layer_geom_type_s": "Line",

@@ -5,7 +5,7 @@
   "dc_description_s": "United States Cities and Towns is a point theme representing cities and towns in the United States.  Attribute information includes the name of the city and it's 2000 and 2007 populations.\n\nThis dataset is a part of the 2008 ESRI Data & Maps collection.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_usa_cities_dtl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_usa_cities_dtl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_usa_cities_dtl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_93_usa_cities_dtl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2008_usa_cities_dtl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2008_usa_cities_dtl.xml\"}",
   "georss_box_s": "17.711706 -174.202942 71.290137 178.874601",
   "layer_id_s": "sde:columbia.esri_2008_usa_cities_dtl",
   "layer_geom_type_s": "Point",

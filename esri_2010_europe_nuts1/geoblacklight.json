@@ -5,7 +5,7 @@
   "dc_description_s": "Europe NUTS 1 Demographics is a polygon theme representing areas of aggregated socioeconomic and demographic information at the NUTS 1 level for Europe. NUTS 1 units have an average population between three million and seven million people.\n\nNUTS (Nomenclature des Unités Territoriales Statistiques) refers to the Nomenclature of Territorial Units for Statistics. For more information: http://ec.europa.eu/eurostat/ramon/nuts/home_regions_en.html.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_eu_nuts1.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_europe_nuts1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_europe_nuts1.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_eu_nuts1.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_europe_nuts1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_europe_nuts1.xml\"}",
   "georss_box_s": "27.638029 -31.268789 77.001794 69.068487",
   "layer_id_s": "sde:columbia.esri_2010_europe_nuts1",
   "layer_geom_type_s": "Polygon",

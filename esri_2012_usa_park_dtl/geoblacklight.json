@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_park_dtl",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_park_dtl",
-  "dc_title_s": "United States Parks, 2011",
+  "dc_title_s": "United States Parks, 2012",
   "dc_description_s": "United States Parks is a polygon theme representing parks and forests within the United States at national, state, and local levels. Attribute information includes the name, FCC code, and area of the park.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_park_dtl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_park_dtl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_park_dtl.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_park_dtl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_park_dtl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_park_dtl.xml\"}",
   "georss_box_s": "17.883138 -167.540447 68.658579 -65.70742",
   "layer_id_s": "sde:columbia.esri_2012_usa_park_dtl",
   "layer_geom_type_s": "Polygon",

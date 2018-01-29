@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.sanborn_2003_nycgeogfeat",
   "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_2003_nycgeogfeat",
-  "dc_title_s": "Sanborn CitySets New York City Building Geographic Features",
+  "dc_title_s": "New York City Building Geographic Features, 2002",
   "dc_description_s": "Sanborn CitySets New York City Building Geographic Features is a polygon theme representing selected major geographic features in New York City.  These include shorelines of major water bodies and outlines of landmarks such as parks. ",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_geogfeat.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/sanborn_2003_nycgeogfeat.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/sanborn_2003_nycgeogfeat.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/nyc_geogfeat.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/sanborn_2003_nycgeogfeat.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/sanborn_2003_nycgeogfeat.xml\"}",
   "georss_box_s": "40.694968 -74.019361 40.774088 -73.957838",
   "layer_id_s": "sde:columbia.sanborn_2003_nycgeogfeat",
   "layer_geom_type_s": "Line",

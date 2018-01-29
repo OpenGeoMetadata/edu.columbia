@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_topoq24",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_topoq24",
-  "dc_title_s": "United States Geological Survey (USGS) 1:24,000 Topographic Quadrangle Series Index, 2010",
+  "dc_title_s": "United States Geological Survey (USGS) 1:24,000 Topographic Quadrangle Series Index, 2012",
   "dc_description_s": "United States Geological Survey (USGS) 1:24,000 Topographic Quadrangle Series Index is a polygon theme representing the geographic extent of USGS 1:24,000 topographic maps (7.5- by 7.5-minute quadrangles) for the coterminous U.S. forty-eight states and District of Columbia",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_topoq24.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_topoq24.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_topoq24.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_us_topoq24.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_topoq24.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_topoq24.xml\"}",
   "georss_box_s": "24.5 -124.750009 49.500002 -66.874996",
   "layer_id_s": "sde:columbia.esri_2012_usa_topoq24",
   "layer_geom_type_s": "Polygon",

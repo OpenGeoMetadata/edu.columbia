@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_mexico2007_parks",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_mexico2007_parks",
-  "dc_title_s": "Mexico City Parks",
+  "dc_title_s": "Mexico City Parks, 2007",
   "dc_description_s": "Mexico City Parks is a polygon theme representing park areas in Mexico City, Mexico.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_parks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_parks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_parks.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/mexico_city_parks.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_mexico2007_parks.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_mexico2007_parks.xml\"}",
   "georss_box_s": "19.172196 -99.356259 19.6841 -98.96335",
   "layer_id_s": "sde:columbia.leaddog_mexico2007_parks",
   "layer_geom_type_s": "Polygon",

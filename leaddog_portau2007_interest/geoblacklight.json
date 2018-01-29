@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.leaddog_portau2007_interest",
   "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_portau2007_interest",
-  "dc_title_s": "Port au Prince Points of Interest",
+  "dc_title_s": "Port au Prince Points of Interest, 2007",
   "dc_description_s": "Port au Prince Points of Interest is a point theme  representing hospitals, schools, hotels, places of worship, police stations, sporting areas, cemeteries, government buildings, shopping centers and other points of interest in Port au Prince, Haiti.  The type and name of the point is encoded in the attribute information.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/port_au_prince_points_of_interesti.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/leaddog_portau2007_interest.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/leaddog_portau2007_interest.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/port_au_prince_points_of_interesti.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/leaddog_portau2007_interest.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/leaddog_portau2007_interest.xml\"}",
   "georss_box_s": "18.506547 -72.393531 18.584314 -72.28384",
   "layer_id_s": "sde:columbia.leaddog_portau2007_interest",
   "layer_geom_type_s": "Point",

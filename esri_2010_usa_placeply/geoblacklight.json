@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2010_usa_placeply",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_usa_placeply",
-  "dc_title_s": "United States Populated Places (polygon), 2010",
+  "dc_title_s": "United States Populated Places (polygon)",
   "dc_description_s": "United States Populated Places (polygon) is a polygon theme representing populated place areas such as census designated places, consolidated cities, and incorporated places within United States identified by the U.S. Census Bureau. Attribute information includes the name, class, population classification, population density, number of housing units and size of the areas. This dataset is a part of the 2010 ESRI Data & Maps collection.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_placeply.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2010_usa_placeply.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2010_usa_placeply.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_placeply.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_usa_placeply.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_usa_placeply.xml\"}",
   "georss_box_s": "17.881242 -176.810434 71.338727 -65.292632",
   "layer_id_s": "sde:columbia.esri_2010_usa_placeply",
   "layer_geom_type_s": "Polygon",

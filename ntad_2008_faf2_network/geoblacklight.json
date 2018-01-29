@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.ntad_2008_faf2_network",
   "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2008_faf2_network",
-  "dc_title_s": "Freight Analysis Framework",
+  "dc_title_s": "United States Freight Analysis Frameworks, 2008",
   "dc_description_s": "Freight Analysis Framework is a line theme representing National Highway System (NHS), National Network (NN) and several intermodal connectors as appropriate for the freight network modeling in the United States.\n\n\"Freight Analysis Framework 2.2 Network Machine Readable Data Files\" are distributed by the Federal Highway Administration Office of Freight Management and Operations, Operations Core Business Unit, Washington DC, 2007",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/faf2_network2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2008_faf2_network.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2008_faf2_network.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/faf2_network2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2008_faf2_network.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2008_faf2_network.xml\"}",
   "georss_box_s": "18.91502 -176.763993 71.316994 -66.979625",
   "layer_id_s": "sde:columbia.ntad_2008_faf2_network",
   "layer_geom_type_s": "Line",

@@ -5,7 +5,7 @@
   "dc_description_s": "Newark Light Rail Lines, 2012 is a line theme representing the Newark City Subway and Extension (Light Rail) Lines in Newark, New Jersey.  Attribute information includes the name of the line and length of the segment.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/newark_line2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/halcrow-2012newarkline.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/halcrow-2012newarkline.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/newark_line2012.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/halcrow-2012newarkline.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/halcrow-2012newarkline.xml\"}",
   "georss_box_s": "40.734513 -74.188144 40.781523 -74.162941",
   "layer_id_s": "sde:columbia.halcrow-2012newarkline",
   "layer_geom_type_s": "Line",

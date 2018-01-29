@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.cdc_histtibet_prov90",
   "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_histtibet_prov90",
-  "dc_title_s": "China Tibet Province Boundary, 1990",
+  "dc_title_s": "Tibet Province Boundary, 1990",
   "dc_description_s": "Tibet 1990 Province Boundary is a polygon theme representing Tibet province in china in the year 1990.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_histtibet_prov90.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_histtibet_prov90.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_histtibet_prov90.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_histtibet_prov90.xml\"}",
   "georss_box_s": "26.856701 78.397003 36.488098 99.107101",
   "layer_id_s": "sde:columbia.cdc_histtibet_prov90",
   "layer_geom_type_s": "Polygon",

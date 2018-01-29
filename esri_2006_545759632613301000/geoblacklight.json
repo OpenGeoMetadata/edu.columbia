@@ -5,7 +5,7 @@
   "dc_description_s": "Canada Municipalities represents the municipalities (townships) within Canada of types including cities, cantons, hamlets, towns/ville, villages, Indian reserves, parishes/paroisse, communities, unorganized, districts, and terre Inuite. The boundaries are digitized from CanMap®.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2006_canada_municplt.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2006_545759632613301000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2006_545759632613301000.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2006_canada_municplt.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2006_545759632613301000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2006_545759632613301000.xml\"}",
   "georss_box_s": "41.687973 -141.00187 83.115063 -52.619173",
   "layer_id_s": "sde:columbia.esri_2006_545759632613301000",
   "layer_geom_type_s": "Polygon",

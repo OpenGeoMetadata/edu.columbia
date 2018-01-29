@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2008_gtopo30_1km",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2008_gtopo30_1km",
-  "dc_title_s": "Global Digital Elevation Model (GTOPO30), 2006",
+  "dc_title_s": "Global Digital Elevation Model (GTOPO30), 2008",
   "dc_description_s": "Global Digital Elevation Model (GTOPO30) is a raster theme representing elevations worldwide at a resolution of 30 arc seconds (+- 1 Km). These data were by developed by the USGS EROS Data Center in 1996 from a variety of data sources.  The VALUE attribute represents the elevation in meters.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2008_gtopo30_1km.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2008_gtopo30_1km.xml\"}",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2008_gtopo30_1km.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2008_gtopo30_1km.xml\"}",
   "georss_box_s": "-85.0 -180.0 85.0 180.0",
   "layer_id_s": "sde:columbia.esri_2008_gtopo30_1km",
   "layer_geom_type_s": "Raster",

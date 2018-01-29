@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_world_admin",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_world_admin",
-  "dc_title_s": "World Administrative Units, 2011",
+  "dc_title_s": "World Administrative Units, 2012",
   "dc_description_s": "World Administrative Units is a polygon theme representing the first-level administrative units of the world. Attribute information includes the name, country, area, population and type of the administrative units. ",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_admin.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_world_admin.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_world_admin.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_admin.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_world_admin.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_world_admin.xml\"}",
   "georss_box_s": "-90.0 -180.0 83.665491 180.0",
   "layer_id_s": "sde:columbia.esri_2012_world_admin",
   "layer_geom_type_s": "Polygon",

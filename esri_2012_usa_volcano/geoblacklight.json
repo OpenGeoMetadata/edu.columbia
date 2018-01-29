@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.esri_2012_usa_volcano",
   "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_usa_volcano",
-  "dc_title_s": "United States Volcanoes, 2005",
+  "dc_title_s": "United States Volcanoes, 2012",
   "dc_description_s": "United States Volcanoes is a polygon theme representing volcanoes thought to be active in the last 10,000 years (Holocene), in and near the United States. The data is a subset of data available from the Global Volcanism Program, Smithsonian Institution.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_volcano.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2012_usa_volcano.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2012_usa_volcano.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_usa_volcano.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_usa_volcano.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_usa_volcano.xml\"}",
   "georss_box_s": "10.03 -178.792618 65.599282 179.577271",
   "layer_id_s": "sde:columbia.esri_2012_usa_volcano",
   "layer_geom_type_s": "Point",

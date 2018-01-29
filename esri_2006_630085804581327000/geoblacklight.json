@@ -5,7 +5,7 @@
   "dc_description_s": "Canada Water Bodies represents the major fresh water bodies within Canada including lakes/lac, large rivers/fleuve, reservoirs, and bays/baie. The boundaries are based on Statistics Canada data.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2006_canada_water.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/esri_2006_630085804581327000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/esri_2006_630085804581327000.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2006_canada_water.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2006_630085804581327000.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2006_630085804581327000.xml\"}",
   "georss_box_s": "41.386664 -141.0013 78.946164 -52.670264",
   "layer_id_s": "sde:columbia.esri_2006_630085804581327000",
   "layer_geom_type_s": "Polygon",

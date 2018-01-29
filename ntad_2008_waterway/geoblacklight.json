@@ -1,11 +1,11 @@
 {
   "uuid": "urn:columbia.edu:Columbia.ntad_2008_waterway",
   "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2008_waterway",
-  "dc_title_s": "National Waterway Network (line)",
+  "dc_title_s": "United States National Waterway Network (line), 2008",
   "dc_description_s": "National Waterway Network is a line theme representing shipping lanes that serve as representative paths in open waterways. The data set covers the 48 contiguous states plus the District of Columbia, Hawaii, Alaska, Puerto Rico and water links between. The nominal scale of the dataset varies with the source material. The majority of the information is at 1:100,000 with larger scales used in harbor/bay/port areas and smaller scales used in open waters.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geodata.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geodata.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/waterway2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/ntad_2008_waterway.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/ntad_2008_waterway.xml\"}",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/waterway2008.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2008_waterway.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2008_waterway.xml\"}",
   "georss_box_s": "-55.905212 -179.803407 72.19972 179.13519",
   "layer_id_s": "sde:columbia.ntad_2008_waterway",
   "layer_geom_type_s": "Line",

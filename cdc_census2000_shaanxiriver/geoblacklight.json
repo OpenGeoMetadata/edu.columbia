@@ -1,17 +1,17 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_shaanxiriver",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_shaanxiriver",
-  "dc_title_s": "China Shaanxi Rivers, Census 2000",
+  "uuid": "urn:columbia.edu:Columbia.CDC_Census2000_Shaanxiriver",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.CDC_Census2000_Shaanxiriver",
+  "dc_title_s": "Shaanxi Rivers (China 2000 Census)",
   "dc_description_s": "Shaanxi Rivers (China 2000 Census) is a polyline theme representing rivers in Shaanxi in 2000.  This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_rights_s": "Restricted",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/html/cdc_census2000_shaanxiriver.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight-prod.cul.columbia.edu/metadata/fgdc/current/cdc_census2000_shaanxiriver.xml\"}",
-  "georss_box_s": "31.744747 105.643865 39.567867 111.245269",
-  "layer_id_s": "sde:columbia.cdc_census2000_shaanxiriver",
+  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/CDC_Census2000_Shaanxiriver.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/CDC_Census2000_Shaanxiriver.xml\"}",
+  "georss_box_s": "26.093668 97.452304 34.264025 108.472267",
+  "layer_id_s": "sde:columbia.CDC_Census2000_Shaanxiriver",
   "layer_geom_type_s": "Line",
   "layer_modified_dt": "2009-02-11T00:00:00Z",
   "layer_slug_s": "sde-columbia-cdc_census2000_shaanxiriver",
-  "solr_geom": "ENVELOPE(105.643865, 111.245269, 39.567867, 31.744747)",
+  "solr_geom": "ENVELOPE(97.452304, 108.472267, 34.264025, 26.093668)",
   "solr_year_i": "2000",
   "dc_creator_sm": [
     "University of Michigan. China Data Center.",
@@ -35,5 +35,5 @@
   "dct_isPartOf_sm": [
 
   ],
-  "georss_polygon_s": "39.567867 105.643865 39.567867 111.245269 31.744747 111.245269 31.744747 105.643865 39.567867 105.643865"
+  "georss_polygon_s": "34.264025 97.452304 34.264025 108.472267 26.093668 108.472267 26.093668 97.452304 34.264025 97.452304"
 }
