@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1942 paper map entitled: New York Area Metropolitan Transportation Map published by the United States Army Map Service.  The map was scanned at 300 dots per inch and is in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyareametrotransportationmap.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/nyareametrotransportationmap.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/nyareametrotransportationmap.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyareametrotransportationmap.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/nyareametrotransportationmap.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/nyareametrotransportationmap.xml\"}",
   "georss_box_s": "40.5 -74.5 41.0 -73.5",
   "layer_id_s": "sde:columbia.nyareametrotransportationmap",
   "layer_geom_type_s": "Raster",

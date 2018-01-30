@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1752 paper map entitled: Suite de la Carte de l'Indoustan\nIIe Feuille, La Presqu'isle de l'Inde.  The map was scanned at 300 dots per inch and is in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/lindostan1752.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/lindostan1752.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/lindostan1752.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/lindostan1752.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/lindostan1752.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/lindostan1752.xml\"}",
   "georss_box_s": "0.40975608624367 60.6503883836042 23.9429742417517 95.6099500558704",
   "layer_id_s": "sde:columbia.lindostan1752",
   "layer_geom_type_s": "Raster",

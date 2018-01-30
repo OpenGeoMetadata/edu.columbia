@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1887 paper map entitled: Driving Road Chart of the Country Surrounding New York City published by Hyde & Company.  The original map is on four sheets, but this reproduction is only of three of those sheets, with the North-eastern most sheet missing.  The map was scanned at 300 dots per inch and is in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/drivingroadchartnyc.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/drivingroadchartnyc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/drivingroadchartnyc.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/drivingroadchartnyc.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/drivingroadchartnyc.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/drivingroadchartnyc.xml\"}",
   "georss_box_s": "40.345 -74.46 41.204 -73.508",
   "layer_id_s": "sde:columbia.drivingroadchartnyc",
   "layer_geom_type_s": "Raster",

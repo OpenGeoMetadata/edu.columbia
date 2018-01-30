@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1902 paper map entitled: Map or Plan of that Part of the Borough of the Bronx, City of New York, Lying Easterly of the Bronx River : compiled from surveys made under the direction of the Commissioner of Street Improvements of the 23 & 24 wards, and the Board of Public Improvements.  All 6 sheets of the map were scanned at 300 dots per inch and are in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/maporplanbronx1902.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/maporplanbronx1902.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/maporplanbronx1902.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/maporplanbronx1902.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/maporplanbronx1902.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/maporplanbronx1902.xml\"}",
   "georss_box_s": "40.7728494344016 -73.9247866168 40.9184701947229 -73.736223551815",
   "layer_id_s": "sde:columbia.maporplanbronx1902",
   "layer_geom_type_s": "Raster",

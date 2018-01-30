@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1991 paper map entitled: Central Shanghai published by the United States Central Intelligence Agency..  The map was scanned at 300 dots per inch and is in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/central_shanghai.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/central_shanghai.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/central_shanghai.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/central_shanghai.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/central_shanghai.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/central_shanghai.xml\"}",
   "georss_box_s": "31.173827 121.377193 31.279661 121.536718",
   "layer_id_s": "sde:columbia.central_shanghai",
   "layer_geom_type_s": "Raster",

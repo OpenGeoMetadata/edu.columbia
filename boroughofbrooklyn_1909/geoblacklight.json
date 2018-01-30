@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the  paper map entitled: Map of the Borough of Brooklyn, City of New York, 1909.  The map was scanned at 300 dots per inch and is in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/boroughofbrooklyn_1909.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/boroughofbrooklyn_1909.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/boroughofbrooklyn_1909.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/boroughofbrooklyn_1909.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/boroughofbrooklyn_1909.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/boroughofbrooklyn_1909.xml\"}",
   "georss_box_s": "40.5485324599357 -74.0700901003189 40.75517093965 -73.8091585479658",
   "layer_id_s": "sde:columbia.boroughofbrooklyn_1909",
   "layer_geom_type_s": "Raster",

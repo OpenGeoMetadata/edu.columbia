@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1780 paper map entitled: Carte de la Partie Meridionale de la Presqu'ile de Linde en Decca du Gange. The map was scanned at 300 dots per inch and is in the TIFF format. This map was originally published in the 1780 Atlas Histoire universelle, depuis le commencement du monde",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cartepartiemeridionaledelinde.zip \",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cartepartiemeridionaledelinde.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cartepartiemeridionaledelinde.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cartepartiemeridionaledelinde.zip \",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cartepartiemeridionaledelinde.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cartepartiemeridionaledelinde.xml\"}",
   "georss_box_s": "5.0 85.0 15.0 105.0",
   "layer_id_s": "sde:columbia.cartepartiemeridionaledelinde",
   "layer_geom_type_s": "Raster",

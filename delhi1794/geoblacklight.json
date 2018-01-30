@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1794 paper map entitled:  A Map of the Provinces of Delhi, Agrah, Oude, and Ellahabad Comprehending the Countries Lying Between Delhi and the Bengal-provinces.  The map is in two sheets both were scanned at 300 dots per inch and are in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/delhi1794.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/delhi1794.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/delhi1794.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/delhi1794.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/delhi1794.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/delhi1794.xml\"}",
   "georss_box_s": "22.7760999288411 76.3155253815873 30.5719562903951 85.1855295211437",
   "layer_id_s": "sde:columbia.delhi1794",
   "layer_geom_type_s": "Raster",

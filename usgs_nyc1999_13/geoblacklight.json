@@ -5,7 +5,7 @@
   "dc_description_s": "New York City Area Digital Elevation Model, 1/3 Arc Second  (feet) is a raster dataset representing elevations in the New York City area.  This layer was clipped from the USGS NED to New York City and its immediate surrounding environment showing elevation (in feet), and ground units in decimal degrees. The resolution is 1/3 arc second.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyc_1_3.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/usgs_nyc1999_13.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/usgs_nyc1999_13.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/nyc_1_3.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/usgs_nyc1999_13.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/usgs_nyc1999_13.xml\"}",
   "georss_box_s": "40.488644 -74.266954 40.932542 -73.689249",
   "layer_id_s": "sde:columbia.usgs_nyc1999_13",
   "layer_geom_type_s": "Raster",

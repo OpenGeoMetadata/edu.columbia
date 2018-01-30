@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1780 paper map entitled: Carte des Costes de Perse, Gusarat et Malabar : Tiree de la Carte Françoise de l'Océan Oriental; Publiée Par Ordre de MGR. le Comte De Maurepas, en 1740.  The map was scanned at 300 dots per inch and is in the TIFF format.",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/persegusaratmalabar1740.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/persegusaratmalabar1740.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/persegusaratmalabar1740.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/persegusaratmalabar1740.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/persegusaratmalabar1740.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/persegusaratmalabar1740.xml\"}",
   "georss_box_s": "-2.0 54.0 31.0 80.0",
   "layer_id_s": "sde:columbia.persegusaratmalabar1740",
   "layer_geom_type_s": "Raster",

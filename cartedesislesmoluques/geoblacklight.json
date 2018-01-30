@@ -5,7 +5,7 @@
   "dc_description_s": "This is a scanned version of the 1780 paper map entitled: Carte Des Isles Moluques. The map was scanned at 300 dots per inch and is in the TIFF format. This map was originally published in the 1780 Atlas Histoire universelle, depuis le commencement du monde",
   "dc_rights_s": "Public",
   "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cartedesislesmoluques.zip \",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cartedesislesmoluques.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cartedesislesmoluques.xml\"}",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cartedesislesmoluques.zip \",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cartedesislesmoluques.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cartedesislesmoluques.xml\"}",
   "georss_box_s": "-15.0 118.0 5.0 135.0",
   "layer_id_s": "sde:columbia.cartedesislesmoluques",
   "layer_geom_type_s": "Raster",
