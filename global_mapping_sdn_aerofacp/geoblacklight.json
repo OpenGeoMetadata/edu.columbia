@@ -1,40 +1,41 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.global_mapping_sdn_aerofacp",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.global_mapping_sdn_aerofacp",
-  "dc_title_s": "Sudan Airports, 2007",
-  "dc_description_s": "Sudan Airports is a point theme representing airports and airfields in Sudan.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/sdn_aerofacp.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/global_mapping_sdn_aerofacp.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/global_mapping_sdn_aerofacp.xml\"}",
-  "georss_box_s": "4.707379 22.449684 19.693903 37.704227",
-  "layer_id_s": "sde:columbia.global_mapping_sdn_aerofacp",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2009-09-01T00:00:00Z",
-  "layer_slug_s": "sde-columbia-global_mapping_sdn_aerofacp",
-  "solr_geom": "ENVELOPE(22.449684, 37.704227, 19.693903, 4.707379)",
-  "solr_year_i": "2007",
   "dc_creator_sm": [
-    "International Steering Committee for Global Mapping (ISCGM)",
     "Sudan National Survey Corporation"
   ],
+  "dc_description_s": "Sudan Airports is a point theme map representing airports and airfields in Sudan. This layer is a component of the Global Map, a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide. The Global Map data had been managed by the Geospatial Information Authority of Japan, but that organization was terminated in August, 2016. The data has been transferred to the Geospatial Information Section in the United Nations. For the most recent documentation, refer to the Global Map Specifications at https://github.com/globalmaps/specifications/.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
-  "dc_publisher_s": [
+  "dc_identifier_s": "urn:columbia.edu:Columbia.global_mapping_sdn_aerofacp",
+  "dc_language_s": "English",
+  "dc_publisher_s": "International Steering Committee for Global Mapping",
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dc_title_s": "Sudan Airports, 2007",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Global Map"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/url\":\"https://clio.columbia.edu/?q=urn:columbia.edu:Columbia.global_mapping_sdn_aerofacp\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/sdn_aerofacp.zip\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://lccn.loc.gov/sh85035852\":\"https://github.com/globalmaps/specifications/blob/master/gmspec-2.2.pdf\"}",
+  "dct_source_sm": [
 
   ],
-  "dc_subject_sm": [
-    "transportation"
-  ],
-  "dc_type_s": "Dataset",
   "dct_spatial_sm": [
     "Sudan"
   ],
   "dct_temporal_sm": [
     "2007"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.global_mapping_sdn_aerofacp",
+  "layer_modified_dt": "2018-04-23T0016Z",
+  "layer_slug_s": "sde-columbia-global_mapping_sdn_aerofacp",
+  "nyu_addl_format_sm": [
+    "Shapefile"
   ],
-  "georss_polygon_s": "19.693903 22.449684 19.693903 37.704227 4.707379 37.704227 4.707379 22.449684 19.693903 22.449684"
+  "solr_geom": "ENVELOPE(22.449684, 37.704227, 19.693903, 4.707379)",
+  "solr_year_i": 2007
 }
