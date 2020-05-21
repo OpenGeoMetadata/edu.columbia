@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "United States. Agency for International Development",
+    "Famine Early Warning System Network"
+  ],
+  "dc_description_s": "This ARC/INFO polygon coverage contains the fsecond Level\n    administrative boundaries at a 1:1000000 scale.\n     \n    The coverage is part of the Famine Early Warning System (FEWS) / Associates\n    in Rural Development (ARD) African series.\n     \n    Zimbabwe is associated with the South region in Africa.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.fewsn_1996_zimbabweadmn2",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "EDC/International Program"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Zimbabwe Level 2 Administrative Boundaries, 1996",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "FEWS 3"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/fewsn_1996_zimbabweadmn2.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/fewsn_1996_zimbabweadmn2.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Africa",
+    "Zimbabwe"
+  ],
+  "dct_temporal_sm": [
+    "1996"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.fewsn_1996_zimbabweadmn2",
+  "layer_modified_dt": "2007-05-23T00:00:00Z",
+  "layer_slug_s": "sde-columbia-fewsn_1996_zimbabweadmn2",
+  "solr_geom": "ENVELOPE(25.237028, 33.056305, -15.608834, -22.417738)",
+  "solr_year_i": "1996"
+}

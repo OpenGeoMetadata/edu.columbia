@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Research Data Services (RDS), Columbia University Libraries"
+  ],
+  "dc_description_s": "This is a scanned version of the  paper map entitled: Map of the borough of Manhattan, originally published in The New York Post in 1897.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cul_scannedpublic_1897_manhattan",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Evening Post"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover",
+    "Transportation"
+  ],
+  "dc_title_s": "Map of the borough of Manhattan, 1897",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cul_scannedpublic_1897_manhattan.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cul_scannedpublic_1897_manhattan.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Manhattan (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "1897"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.cul_scannedpublic_1897_manhattan",
+  "layer_modified_dt": "2010-02-04T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cul_scannedpublic_1897_manhattan",
+  "solr_geom": "ENVELOPE(-74.0730188500783, -73.8527174030695, 40.9322211348168, 40.6458784256607)",
+  "solr_year_i": "1897"
+}

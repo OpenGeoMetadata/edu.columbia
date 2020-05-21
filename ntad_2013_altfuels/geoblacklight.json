@@ -1,42 +1,43 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.ntad_2013_altfuels",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_altfuels",
-  "dc_title_s": "United States Alternative Fuels Stations, 2013",
-  "dc_description_s": "United States Alternative Fuels Stations, 2013 is a point theme representing alternative fuels stations.  Through a nationwide network of local coalitions, Clean Citiesprovides project assistance to help stakeholders in the public and private sectors deploy alternative and renewable fuels, idle-reduction measures, fuel economy improvements, and emerging transportation technologies.Department of Energy collects this data as part of the Projects undertaken by Clean Cities coalitions and stakeholders to ensure customers access to clean alternative energy. This data can be found at the Department of Energy Alternative Fuels Data Center Web Feature Service: http://www.afdc.energy.gov/locator/stations/Clean Cities is the deployment arm of the U.S. Department of Energy's (DOE) Vehicle Technologies Office.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_altfuels\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2013_altfuels.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2013_altfuels.xml\"}",
-  "georss_box_s": "19.649565 -159.475426 64.812234 -68.010502",
-  "layer_id_s": "sde:columbia.ntad_2013_altfuels",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2014-09-25T00:00:00Z",
-  "layer_slug_s": "sde-columbia-ntad_2013_altfuels",
-  "solr_geom": "ENVELOPE(-159.475426, -68.010502, 64.812234, 19.649565)",
-  "solr_year_i": "2013",
   "dc_creator_sm": [
     "National Renewable Energy Laboratory (U.S.)"
   ],
+  "dc_description_s": "United States Alternative Fuels Stations, 2013 is a point theme representing alternative fuels stations.  Through a nationwide network of local coalitions, Clean Citiesprovides project assistance to help stakeholders in the public and private sectors deploy alternative and renewable fuels, idle-reduction measures, fuel economy improvements, and emerging transportation technologies.Department of Energy collects this data as part of the Projects undertaken by Clean Cities coalitions and stakeholders to ensure customers access to clean alternative energy. This data can be found at the Department of Energy Alternative Fuels Data Center Web Feature Service: http://www.afdc.energy.gov/locator/stations/Clean Cities is the deployment arm of the U.S. Department of Energy's (DOE) Vehicle Technologies Office.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_altfuels",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "Research and Innovative Technology Administration/Bureau of Transportation Statistics"
   ],
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "economy",
-    "environment",
-    "transportation",
-    "utilitiesCommunication"
+    "Economy",
+    "Environment",
+    "Transportation",
+    "UtilitiesCommunication"
   ],
+  "dc_title_s": "United States Alternative Fuels Stations, 2013",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_altfuels\\u0026outputFormat=SHAPE-ZIP\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/ntad_2013_altfuels.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
   "dct_temporal_sm": [
     "2013"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
-  ],
-  "georss_polygon_s": "64.812234 -159.475426 64.812234 -68.010502 19.649565 -68.010502 19.649565 -159.475426 64.812234 -159.475426"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.ntad_2013_altfuels",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_altfuels",
+  "solr_geom": "ENVELOPE(-159.475426, -68.010502, 64.812234, 19.649565)",
+  "solr_year_i": "2013"
 }

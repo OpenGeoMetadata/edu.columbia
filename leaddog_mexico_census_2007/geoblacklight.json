@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC"
+  ],
+  "dc_description_s": "Mexico County Boundaries with 2000 Census Data is a polygon theme representing county (Municipo) boundaries in Mexico.  Attribute information includes 177 demographic variables from the 2000 census.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_mexico_census_2007",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society"
+  ],
+  "dc_title_s": "Mexico County Boundaries with 2000 Census Data",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/leaddog_mexico_census_2007.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/leaddog_mexico_census_2007.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2000"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.leaddog_mexico_census_2007",
+  "layer_modified_dt": "2007-12-20T00:00:00Z",
+  "layer_slug_s": "sde-columbia-leaddog_mexico_census_2007",
+  "solr_geom": "ENVELOPE(-117.124964, -86.710475, 32.718673, 14.531865)",
+  "solr_year_i": "2000"
+}

@@ -1,30 +1,29 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.cdc_histtibet_prov82",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_histtibet_prov82",
-  "dc_title_s": "Tibet Province Boundary, 1982",
-  "dc_description_s": "Tibet Province Boundary, 1982 is a polygon theme representing Tibet province in china in the year 1982.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_histtibet_prov82.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_histtibet_prov82.xml\"}",
-  "georss_box_s": "26.856701 78.397003 36.488098 99.107101",
-  "layer_id_s": "sde:columbia.cdc_histtibet_prov82",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2009-03-31T00:00:00Z",
-  "layer_slug_s": "sde-columbia-cdc_histtibet_prov82",
-  "solr_geom": "ENVELOPE(78.397003, 99.107101, 36.488098, 26.856701)",
-  "solr_year_i": "1982",
   "dc_creator_sm": [
     "University of Michigan. China Data Center."
   ],
+  "dc_description_s": "REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Tibet Province Boundary, 1982 is a polygon theme representing Tibet province in china in the year 1982.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_histtibet_prov82",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "All China Marketing Research Co"
   ],
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
-    "boundaries"
+    "Boundaries"
   ],
+  "dc_title_s": "Tibet Province Boundary, 1982",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Historical Tibet County Population Census Data with GIS Maps"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cdc_1982_tibet_prov82.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "China",
     "Tibet (China)",
@@ -33,9 +32,11 @@
   "dct_temporal_sm": [
     "1982"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-    "Historical Tibet County Population Census Data with GIS Maps"
-  ],
-  "georss_polygon_s": "36.488098 78.397003 36.488098 99.107101 26.856701 99.107101 26.856701 78.397003 36.488098 78.397003"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.cdc_histtibet_prov82",
+  "layer_modified_dt": "2009-03-31T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_histtibet_prov82",
+  "solr_geom": "ENVELOPE(78.397003, 99.107101, 36.488098, 26.856701)",
+  "solr_year_i": "1982"
 }

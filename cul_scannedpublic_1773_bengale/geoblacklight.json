@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Research Data Services (RDS), Columbia University Libraries",
+    "Schley, Jacob van der"
+  ],
+  "dc_description_s": "This is a scanned version of the 1773 paper map entitled: Nouvelle Carte Du Royaume De Bengale = Nieuwe Kaart Van Het Koninkryk Bengale.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cul_scannedpublic_1773_bengale",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "Nouvelle Carte Du Royaume De Bengale = Nieuwe Kaart Van Het Koninkryk Bengale, 1773",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cul_scannedpublic_1773_bengale.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cul_scannedpublic_1773_bengale.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "India"
+  ],
+  "dct_temporal_sm": [
+    "1773"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.cul_scannedpublic_1773_bengale",
+  "layer_modified_dt": "2010-06-22T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cul_scannedpublic_1773_bengale",
+  "solr_geom": "ENVELOPE(82.9, 95.2, 29.2, 18.5)",
+  "solr_year_i": "1773"
+}

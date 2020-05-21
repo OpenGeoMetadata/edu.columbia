@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Sanborn Map Company"
+  ],
+  "dc_description_s": "Sanborn CitySets Jersey City Ground Surface is a vector model of ground elevations in parts of Jersey City, New jersey.  This layer is provided in the ESRI TIN format.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.sanborn_jc_ground_2002",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Elevation"
+  ],
+  "dc_title_s": "Jersey City Ground Surface, 2002",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/sanborn_jc_ground_2002.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/sanborn_jc_ground_2002.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New Jersey",
+    "Jersey City (N.J.)"
+  ],
+  "dct_temporal_sm": [
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.sanborn_jc_ground_2002",
+  "layer_modified_dt": "2007-08-03T00:00:00Z",
+  "layer_slug_s": "sde-columbia-sanborn_jc_ground_2002",
+  "solr_geom": "ENVELOPE(-74.067423, -74.02575, 40.738928, 40.706147)",
+  "solr_year_i": "2002"
+}

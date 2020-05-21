@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Research Data Services (RDS), Columbia University Libraries",
+    "Schley, Jacob van der"
+  ],
+  "dc_description_s": "This is a scanned version of the 1756 paper map entitled: Ville De Cochin.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cul_scannedpublic_1756_cochin",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Den Haag"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "Ville De Cochin, 1756",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cul_scannedpublic_1756_cochin.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cul_scannedpublic_1756_cochin.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Cochin (India)"
+  ],
+  "dct_temporal_sm": [
+    "1756"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.cul_scannedpublic_1756_cochin",
+  "layer_modified_dt": "2010-06-23T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cul_scannedpublic_1756_cochin",
+  "solr_geom": "ENVELOPE(76.21965, 76.357497, 9.99326, 9.911923)",
+  "solr_year_i": "1756"
+}

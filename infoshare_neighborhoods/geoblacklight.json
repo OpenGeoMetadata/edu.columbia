@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Community Studies of New York, Inc.,"
+  ],
+  "dc_description_s": "New York City Neighborhoods is a polygon theme representing neighborhood areas in New York City.  The neighborhoods are as used and defined by Community Studies of New York in the Infoshare Online database.  The neighborhood boundaries were originally defined by a City informal taskforce, the boundaries are not official, but are meant to define the neighborhoods in which residents believe they live.  Attribute data includes the name and the approximate perimeter and area of the neighborhood.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.infoshare_neighborhoods",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dc_title_s": "New York City Neighborhoods, 2007",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/infoshare_neighborhoods.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/infoshare_neighborhoods.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Bronx (New York, N.Y.)",
+    "Queens (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)",
+    "Staten Island (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "2007"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.infoshare_neighborhoods",
+  "layer_modified_dt": "2007-04-24T00:00:00Z",
+  "layer_slug_s": "sde-columbia-infoshare_neighborhoods",
+  "solr_geom": "ENVELOPE(-74.258865, -73.699729, 40.915161, 40.496856)",
+  "solr_year_i": "2007"
+}

@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "Research Data Services (RDS), Columbia University Libraries",
+    "Central Intelligence Agency"
+  ],
+  "dc_description_s": "This is a scanned version of the 1994 paper map entitled: Eurasia published by the Central Intelligence Agency.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cul_scannedpublic_1994_eurasia",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Central Intelligence Agency"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries",
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "Eurasia, 1994",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cul_scannedpublic_1994_eurasia.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cul_scannedpublic_1994_eurasia.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Eurasia"
+  ],
+  "dct_temporal_sm": [
+    "1994"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.cul_scannedpublic_1994_eurasia",
+  "layer_modified_dt": "2008-03-28T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cul_scannedpublic_1994_eurasia",
+  "solr_geom": "ENVELOPE(-111.262, 180.0, 85.0, 17.966)",
+  "solr_year_i": "1994"
+}

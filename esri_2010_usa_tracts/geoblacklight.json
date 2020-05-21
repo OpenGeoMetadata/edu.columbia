@@ -1,32 +1,31 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.esri_2010_usa_tracts",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_usa_tracts",
-  "dc_title_s": "United States Census Tracts, 2010",
-  "dc_description_s": "United States Census Tracts is a polygon theme representing the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico. Attribute information includes a variety of variables from the 2000 U.S. Census. This dataset is a part of the 2010 ESRI Data & Maps collection.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2010_us_tracts.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2010_usa_tracts.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2010_usa_tracts.xml\"}",
-  "georss_box_s": "17.881242 -179.14734 71.390482 179.778465",
-  "layer_id_s": "sde:columbia.esri_2010_usa_tracts",
-  "layer_geom_type_s": "Polygon",
-  "layer_modified_dt": "2011-07-29T00:00:00Z",
-  "layer_slug_s": "sde-columbia-esri_2010_usa_tracts",
-  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
-  "solr_year_i": "2010",
   "dc_creator_sm": [
     "Tele Atlas North America, Inc.",
     "Economic and Social Research Institute (Reston, Va.)"
   ],
+  "dc_description_s": "United States Census Tracts is a polygon theme representing the U.S. Census tracts of the United States in the 50 states, the District of Columbia, and Puerto Rico. Attribute information includes a variety of variables from the 2000 U.S. Census. This dataset is a part of the 2010 ESRI Data & Maps collection.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2010_usa_tracts",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "ESRI"
   ],
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
-    "society",
-    "boundaries"
+    "Boundaries",
+    "Society"
   ],
+  "dc_title_s": "United States Census Tracts, 2010",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "ESRI Data & Maps"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2010_us_tracts.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/esri_2010_us_tracts.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "United States",
     "Puerto Rico"
@@ -34,9 +33,11 @@
   "dct_temporal_sm": [
     "2010"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-    "ESRI Data & Maps"
-  ],
-  "georss_polygon_s": "71.390482 -179.14734 71.390482 179.778465 17.881242 179.778465 17.881242 -179.14734 71.390482 -179.14734"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.esri_2010_usa_tracts",
+  "layer_modified_dt": "2011-07-29T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri_2010_usa_tracts",
+  "solr_geom": "ENVELOPE(-179.14734, 179.778465, 71.390482, 17.881242)",
+  "solr_year_i": "2010"
 }

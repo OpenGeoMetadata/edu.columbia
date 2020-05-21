@@ -1,32 +1,31 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.esri_2012_world_gppl",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_world_gppl",
-  "dc_title_s": "World Populated Places, 2012",
-  "dc_description_s": "World Populated Places is apoint theme representing the locations of the populated places of the world.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ESRI_2012_World_gppl.zip\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/esri_2012_world_gppl.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/esri_2012_world_gppl.xml\"}",
-  "georss_box_s": "-54.809273 -175.204102 69.489538 179.198762",
-  "layer_id_s": "sde:columbia.esri_2012_world_gppl",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2013-02-05T00:00:00Z",
-  "layer_slug_s": "sde-columbia-esri_2012_world_gppl",
-  "solr_geom": "ENVELOPE(-175.204102, 179.198762, 69.489538, -54.809273)",
-  "solr_year_i": "2010",
   "dc_creator_sm": [
     "DeLorme Publishing Company, Inc.",
     "Environmental Systems Research Institute (Redlands, Calif.)"
   ],
+  "dc_description_s": "World Populated Places is apoint theme representing the locations of the populated places of the world.",
   "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.esri_2012_world_gppl",
   "dc_language_s": "English",
   "dc_publisher_s": [
     "Esri"
   ],
+  "dc_rights_s": "Restricted",
   "dc_subject_sm": [
-    "location",
-    "society"
+    "Location",
+    "Society"
   ],
+  "dc_title_s": "World Populated Places, 2012",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Data & Maps for ArcGIS®"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/esri_2012_world_gppl.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/esri_2012_world_gppl.sdc.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "World"
   ],
@@ -34,9 +33,11 @@
     "2010",
     "2010"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-    "Data & Maps for ArcGIS®"
-  ],
-  "georss_polygon_s": "69.489538 -175.204102 69.489538 179.198762 -54.809273 179.198762 -54.809273 -175.204102 69.489538 -175.204102"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.esri_2012_world_gppl",
+  "layer_modified_dt": "2013-02-05T00:00:00Z",
+  "layer_slug_s": "sde-columbia-esri_2012_world_gppl",
+  "solr_geom": "ENVELOPE(-175.204102, 179.198762, 69.489538, -54.809273)",
+  "solr_year_i": "2010"
 }

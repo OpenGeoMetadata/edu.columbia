@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "United States. Bureau of Transportation Statistics",
+    "United States. Federal Highway Administration."
+  ],
+  "dc_description_s": "Non-attainment and maintenance areas for the United States and its territories. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_pm25_24hr_2006naaqs",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dc_title_s": "United States Non-Attainment Areas: Particulate Matter 2.5 24 Hour, 2013",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_pm25_24hr_2006naaqs\\u0026outputFormat=SHAPE-ZIP\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/ntad_2013_PM25_24hr_2006NAAQS.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.ntad_2013_pm25_24hr_2006naaqs",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_pm25_24hr_2006naaqs",
+  "solr_geom": "ENVELOPE(-148.016946, -71.85664, 64.978943, 31.332719)",
+  "solr_year_i": "2011"
+}

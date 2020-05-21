@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_description_s": "London Orthoimagery is a set of digital orthophotos representing London, England. The dataset is comprised of 39 tiles; the photos were taken in 2005, 2006 and 2007 and have a 60 centimeter resolution.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_london_imagery_2010",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover."
+  ],
+  "dc_title_s": "London Orthoimagery, 2007",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/landinfo_london_imagery_2010.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "London (England)",
+    "England"
+  ],
+  "dct_temporal_sm": [
+    "2007",
+    "2005"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.landinfo_london_imagery_2010",
+  "layer_modified_dt": "2008-01-15T00:00:00Z",
+  "layer_slug_s": "sde-columbia-landinfo_london_imagery_2010",
+  "solr_geom": "ENVELOPE(-0.522891, 0.285482, 51.735016, 51.268458)",
+  "solr_year_i": "2007"
+}

@@ -1,32 +1,31 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.ntad_2013_runway",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_runway",
-  "dc_title_s": "United States Airport Runways, 2013",
-  "dc_description_s": "The Airport Runways database is a geographic dataset of runways in the United States and US territories containing information on the physical characteristics of the runways. The 6716 runways in the dataset are runways associated with the 19721 airports in the companion airport data set. This geospatial data is derived from the FAA's National Airspace System Resource Aeronautical Data Product (Effective 17 March 2013).",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_runway\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2013_runway.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2013_runway.xml\"}",
-  "georss_box_s": "-14.340505 -177.392583 71.284878 174.135094",
-  "layer_id_s": "sde:columbia.ntad_2013_runway",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2014-09-25T00:00:00Z",
-  "layer_slug_s": "sde-columbia-ntad_2013_runway",
-  "solr_geom": "ENVELOPE(-177.392583, 174.135094, 71.284878, -14.340505)",
-  "solr_year_i": "2011",
   "dc_creator_sm": [
     "United States. Bureau of Transportation Statistics",
     "United States. Federal Aviation Administration."
   ],
+  "dc_description_s": "The Airport Runways database is a geographic dataset of runways in the United States and US territories containing information on the physical characteristics of the runways. The 6716 runways in the dataset are runways associated with the 19721 airports in the companion airport data set. This geospatial data is derived from the FAA's National Airspace System Resource Aeronautical Data Product (Effective 17 March 2013).",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_runway",
+  "dc_language_s": "English",
   "dc_publisher_s": [
 
   ],
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "transportation",
-    "economy"
+    "Economy",
+    "Transportation"
   ],
+  "dc_title_s": "United States Airport Runways, 2013",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "National Transportation Atlas Databases (NTAD) 2013"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_runway\\u0026outputFormat=SHAPE-ZIP\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/ntad_2013_runway.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
@@ -34,9 +33,11 @@
     "2011",
     "2008"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-    "National Transportation Atlas Databases (NTAD) 2013"
-  ],
-  "georss_polygon_s": "71.284878 -177.392583 71.284878 174.135094 -14.340505 174.135094 -14.340505 -177.392583 71.284878 -177.392583"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sde:columbia.ntad_2013_runway",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_runway",
+  "solr_geom": "ENVELOPE(-177.392583, 174.135094, 71.284878, -14.340505)",
+  "solr_year_i": "2011"
 }

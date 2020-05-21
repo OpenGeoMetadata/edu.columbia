@@ -1,0 +1,45 @@
+{
+  "dc_creator_sm": [
+    "Department of Information Technology and Telecommunication"
+  ],
+  "dc_description_s": "New York City Building footprints is a polygon theme representing the perimeter extent of buildings in New York City. There is no other  attribute information beyond the geometry.  This layer is projected to be used as part of the NYCity basemap.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.doitt_nyc_2005_buildings",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Department of Information Technology and Telecommunication"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+
+  ],
+  "dc_title_s": "New York City Building Footprints, 2005",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "Building Footprint"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/doitt_nyc_2005_buildings.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/doitt_nyc_2005_buildings.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Bronx (New York, N.Y.)",
+    "Queens (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)",
+    "Staten Island (New York, N.Y.)"
+  ],
+  "dct_temporal_sm": [
+    "2005"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.doitt_nyc_2005_buildings",
+  "layer_modified_dt": "2007-04-24T00:00:00Z",
+  "layer_slug_s": "sde-columbia-doitt_nyc_2005_buildings",
+  "solr_geom": "ENVELOPE(-74.257465, -73.69945, 40.915808, 40.495805)",
+  "solr_year_i": "2005"
+}

@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "United States. Bureau of Transportation Statistics",
+    "United States. Department of Transportation. Research and Innovative Technology Administration",
+    "United States. Environmental Protection Agency."
+  ],
+  "dc_description_s": "Non-attainment and maintenance areas for the United States and its territories. The standard for the Ozone 8-hour NAA is 0.075 ppm. For more detailed information on this dataset, see the Overview Description in the Entity Attribute section of this document.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_ozone_8hr_2008naaqs",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Environment"
+  ],
+  "dc_title_s": "United States Non-Attainment Areas: Ozone 8 hour, 2013",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_ozone_8hr_2008naaqs\\u0026outputFormat=SHAPE-ZIP\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/ntad_2013_Ozone_8hr_2008NAAQS.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "2011",
+    "2007"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.ntad_2013_ozone_8hr_2008naaqs",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_ozone_8hr_2008naaqs",
+  "solr_geom": "ENVELOPE(-123.107878, -70.446252, 43.892372, 28.825049)",
+  "solr_year_i": "2011"
+}

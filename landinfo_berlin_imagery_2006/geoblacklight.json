@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "LAND INFO Worldwide Mapping, LLC"
+  ],
+  "dc_description_s": "Berlin Orthoimagery is a set of digital orthophotos representing Berlin, Germany. The dataset is comprised of nine tiles; the photos were taken in 2005 and 2006 and have a 60 centimeter resolution.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.landinfo_berlin_imagery_2006",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "Beijing Orthoimagery, 2006",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/landinfo_berlin_imagery_2006.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Berlin (Germany)"
+  ],
+  "dct_temporal_sm": [
+    "2006",
+    "2005"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.landinfo_berlin_imagery_2006",
+  "layer_modified_dt": "2007-12-13T00:00:00Z",
+  "layer_slug_s": "sde-columbia-landinfo_berlin_imagery_2006",
+  "solr_geom": "ENVELOPE(13.131808, 13.656878, 52.649852, 52.359314)",
+  "solr_year_i": "2006"
+}

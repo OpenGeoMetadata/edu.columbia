@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "East View Cartographic, Incorporated",
+    "East View Cartographic, Incorporated"
+  ],
+  "dc_description_s": "\nUruguay Household Items Internet Connection Census Data, 2011 is a polygon theme representing Manzanas (6th level administrative units) in Uruguay as of 2011. This map is georeferenced to the surface of the earth and fit to World Geodetic System (1984) coordinates. Attribute data include summary results of the 2011 Uruguayan census questions regarding whether the household has Internet connection. The documentation of these variables can be found in the \"H12_Internet\" section from the accompanying code book. This dataset is part of Uruguay 2011 Census collection.\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ev_uruguay_h12_2011_internet_2011",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "East View Cartographic, Incorporated"
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Boundaries",
+    "Society"
+  ],
+  "dc_title_s": "Uruguay Household Items Internet Connection Census Data, 2011",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/ev_uruguay_h12_2011_internet_2011.zip\\n\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/ev_uruguay_h12_2011_internet_2011.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Oriental Republic of Uruguay",
+    "Uruguay"
+  ],
+  "dct_temporal_sm": [
+    "2011"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.ev_uruguay_h12_2011_internet_2011",
+  "layer_modified_dt": "2019-09-01T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ev_uruguay_h12_2011_internet_2011",
+  "solr_geom": "ENVELOPE(-58.439349, -53.181051, -30.085502, -34.974054)",
+  "solr_year_i": "2011"
+}

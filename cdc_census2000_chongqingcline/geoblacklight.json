@@ -1,29 +1,30 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_chongqingcline",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_chongqingcline",
-  "dc_title_s": "Chongqing Administrative Boundaries, Coast Lines and Islands, 2000",
-  "dc_description_s": "Chongqing Administrative Boundaries, Coast Lines and Islands, 2000 is a polyline theme representing administrative boundaries (country, provinces), coastlines, and islands in Chongqing for the year 2000. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000_chongqingcline.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000_chongqingcline.xml\"}",
-  "georss_box_s": "28.164127 105.287216 32.212044 110.19043",
-  "layer_id_s": "sde:columbia.cdc_census2000_chongqingcline",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2009-02-11T00:00:00Z",
-  "layer_slug_s": "sde-columbia-cdc_census2000_chongqingcline",
-  "solr_geom": "ENVELOPE(105.287216, 110.19043, 32.212044, 28.164127)",
-  "solr_year_i": "2000",
   "dc_creator_sm": [
     "University of Michigan. China Data Center.",
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
   ],
+  "dc_description_s": "REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Chongqing Administrative Boundaries, Coast Lines and Islands, 2000 is a polyline theme representing administrative boundaries (country, provinces), coastlines, and islands in Chongqing for the year 2000. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_chongqingcline",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "All China Marketing Research Co."
   ],
-  "dc_subject_sm": null,
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Chongqing Administrative Boundaries, Coast Lines and Islands, 2000",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cdc_2000_chongqing_cline.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "China",
     "Chongqing (China)"
@@ -31,9 +32,11 @@
   "dct_temporal_sm": [
     "2000"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
-  ],
-  "georss_polygon_s": "32.212044 105.287216 32.212044 110.19043 28.164127 110.19043 28.164127 105.287216 32.212044 105.287216"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sde:columbia.cdc_census2000_chongqingcline",
+  "layer_modified_dt": "2009-02-11T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_chongqingcline",
+  "solr_geom": "ENVELOPE(105.287216, 110.19043, 32.212044, 28.164127)",
+  "solr_year_i": "2000"
 }

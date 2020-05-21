@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "International Steering Committee for Global Mapping (ISCGM)",
+    "Geographical Survey Institute",
+    "National Geographical Institute"
+  ],
+  "dc_description_s": "Panama Vegetation is a raster theme representing percentages of tree cover throughout Panama at a resolution of 30 arc seconds.  This layer is a component of the Global Map a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.iscgm_panama_2002_veg_rast",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "National Geographical Institute"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Biota"
+  ],
+  "dc_title_s": "Panama Vegetation, 2002",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/iscgm_panama_2002_veg_rast.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/iscgm_panama_2002_veg_rast.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Panama"
+  ],
+  "dct_temporal_sm": [
+    "2002",
+    "0328",
+    "2002"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.iscgm_panama_2002_veg_rast",
+  "layer_modified_dt": "2009-03-16T00:00:00Z",
+  "layer_slug_s": "sde-columbia-iscgm_panama_2002_veg_rast",
+  "solr_geom": "ENVELOPE(-85.5, -74.5, 11.460603, 3.535603)",
+  "solr_year_i": "2002"
+}

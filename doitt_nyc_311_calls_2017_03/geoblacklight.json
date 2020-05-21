@@ -1,0 +1,42 @@
+{
+  "dc_creator_sm": [
+    "New York (N.Y.). Department of Information Technology and Telecommunications.",
+    "New York (N.Y.). Department of Information Technology and Telecommunications."
+  ],
+  "dc_description_s": "\nNew York City 311 Service Requests, March 2017 is a point theme representing the location of incidents reported to NYC311 in March 2017. Attributes include each service request's open and closed date, the reported location, and the type and description of the service request. This dataset was derived from NYC OpenData (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) in July 2019. Columbia Libraries staff extracted each month's records and converted them to shapefile format by state plane x/y coordinates. Some records lack geolocation information, and they have coordinates 0,0. Columbia Libraries staff has also manipulated the column names to fit them with shapefile format, and a codebook has been included in the download package.\n",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.doitt_nyc_311_calls_2017_03",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "New York (N.Y.). Department of Information Technology and Telecommunications."
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Society"
+  ],
+  "dc_title_s": "New York City 311 Service Requests, March 2017",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/doitt_nyc_311_calls_2017_03.zip\\n\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/doitt_nyc_311_calls_2017_03.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York City",
+    "NYC"
+  ],
+  "dct_temporal_sm": [
+    "2017"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.doitt_nyc_311_calls_2017_03",
+  "layer_modified_dt": "2019-09-01T00:00:00Z",
+  "layer_slug_s": "sde-columbia-doitt_nyc_311_calls_2017_03",
+  "solr_geom": "ENVELOPE(-74.257061, -73.699273, 40.915087, 40.498294)",
+  "solr_year_i": "2017"
+}

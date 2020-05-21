@@ -1,0 +1,40 @@
+{
+  "dc_creator_sm": [
+    "International Steering Committee for Global Mapping (ISCGM)"
+  ],
+  "dc_description_s": "Mexico Roads is a line theme representing  roadways in Mexico.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.iscgm_mexico_2003_roadl",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dc_title_s": "Mexico Roads, 2003",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/iscgm_mexico_2003_roadl.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/iscgm_mexico_2003_roadl.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Mexico"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sde:columbia.iscgm_mexico_2003_roadl",
+  "layer_modified_dt": "2009-09-03T00:00:00Z",
+  "layer_slug_s": "sde-columbia-iscgm_mexico_2003_roadl",
+  "solr_geom": "ENVELOPE(-117.12159, -86.713654, 32.71505, 14.558677)",
+  "solr_year_i": "2003"
+}

@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "Survey of Bangladesh",
+    "International Steering Committee for Global Mapping (ISCGM)"
+  ],
+  "dc_description_s": "Bangladesh Political Boundaries is a point theme representing  Administrative areas in Bangladesh.  This layer is a component of the Global Map,  a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organisations worldwide.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.iscgm_bangladesh_1992_polbndp",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Survey of Bangladesh"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Boundaries"
+  ],
+  "dc_title_s": "Bangladesh Political Boundaries (points), 1992",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/iscgm_bangladesh_1992_polbndp.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/iscgm_bangladesh_1992_polbndp.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Bangladesh"
+  ],
+  "dct_temporal_sm": [
+    "1992"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.iscgm_bangladesh_1992_polbndp",
+  "layer_modified_dt": "2008-08-07T00:00:00Z",
+  "layer_slug_s": "sde-columbia-iscgm_bangladesh_1992_polbndp",
+  "solr_geom": "ENVELOPE(88.140709, 92.47625, 26.527954, 20.648306)",
+  "solr_year_i": "1992"
+}

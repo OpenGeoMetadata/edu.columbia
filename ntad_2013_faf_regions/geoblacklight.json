@@ -1,41 +1,42 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.ntad_2013_faf_regions",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_faf_regions",
-  "dc_title_s": "Unites States Freight Analysis Framework Regions, 2013",
-  "dc_description_s": "FAF domestic region level datasets and products provide information for states, state portions of large metropolitan areas, and remainders of states. Metropolitan areas consist of Metropolitan Statistical Areas or Consolidated Statistical Areas as defined by the Office of Management and Budget. When a metropolitan area is entirely within a state or when a state's portion of a multi-state metropolitan area is large enough to support the sampling procedures in the Commodity Flow Survey, the area becomes a separate FAF region. Small single-state metropolitan areas and small portions of a multi-state metropolitan area are part of the State or Remainder of State. FAF has two metropolitan areas that are each divided into three FAF regions, four that are each divided into two FAF regions, and several that have small pieces combined with States or Remainders of States.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_faf_regions\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/ntad_2013_faf_regions.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/ntad_2013_faf_regions.xml\"}",
-  "georss_box_s": "18.910842 -179.14734 71.389613 179.77848",
-  "layer_id_s": "sde:columbia.ntad_2013_faf_regions",
-  "layer_geom_type_s": "UNDETERMINED",
-  "layer_modified_dt": "2014-09-25T00:00:00Z",
-  "layer_slug_s": "sde-columbia-ntad_2013_faf_regions",
-  "solr_geom": "ENVELOPE(-179.14734, 179.77848, 71.389613, 18.910842)",
-  "solr_year_i": "2013",
   "dc_creator_sm": [
     "United States. Bureau of Transportation Statistics",
     "United States. Federal Highway Administration."
   ],
+  "dc_description_s": "FAF domestic region level datasets and products provide information for states, state portions of large metropolitan areas, and remainders of states. Metropolitan areas consist of Metropolitan Statistical Areas or Consolidated Statistical Areas as defined by the Office of Management and Budget. When a metropolitan area is entirely within a state or when a state's portion of a multi-state metropolitan area is large enough to support the sampling procedures in the Commodity Flow Survey, the area becomes a separate FAF region. Small single-state metropolitan areas and small portions of a multi-state metropolitan area are part of the State or Remainder of State. FAF has two metropolitan areas that are each divided into three FAF regions, four that are each divided into two FAF regions, and several that have small pieces combined with States or Remainders of States.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.ntad_2013_faf_regions",
+  "dc_language_s": "English",
   "dc_publisher_s": [
 
   ],
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "economy",
-    "transportation"
+    "Economy",
+    "Transportation"
   ],
+  "dc_title_s": "Unites States Freight Analysis Framework Regions, 2013",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.ntad_2013_faf_regions\\u0026outputFormat=SHAPE-ZIP\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/ntad_2013_faf_regions.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "United States"
   ],
   "dct_temporal_sm": [
     "2013"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
-  ],
-  "georss_polygon_s": "71.389613 -179.14734 71.389613 179.77848 18.910842 179.77848 18.910842 -179.14734 71.389613 -179.14734"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Polygon",
+  "layer_id_s": "sde:columbia.ntad_2013_faf_regions",
+  "layer_modified_dt": "2014-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-ntad_2013_faf_regions",
+  "solr_geom": "ENVELOPE(-179.14734, 179.77848, 71.389613, 18.910842)",
+  "solr_year_i": "2013"
 }

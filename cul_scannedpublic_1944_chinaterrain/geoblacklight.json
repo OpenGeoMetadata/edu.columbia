@@ -1,0 +1,43 @@
+{
+  "dc_creator_sm": [
+    "Research Data Services (RDS), Columbia University Libraries",
+    "United States. Office of Strategic Services. Research and Analysis Branch."
+  ],
+  "dc_description_s": "This is a scanned version of the 1944 paper map entitled: China, Terrain and Transportation.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cul_scannedpublic_1944_chinaterrain",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "United States. Office of Strategic Services. Research and Analysis Branch."
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "Elevation",
+    "ImageryBaseMapsEarthCover",
+    "Transportation"
+  ],
+  "dc_title_s": "China, Terrain and Transportation, 1944",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cul_scannedpublic_1944_chinaterrain.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cul_scannedpublic_1944_chinaterrain.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "China"
+  ],
+  "dct_temporal_sm": [
+    "1944"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.cul_scannedpublic_1944_chinaterrain",
+  "layer_modified_dt": "2008-04-02T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cul_scannedpublic_1944_chinaterrain",
+  "solr_geom": "ENVELOPE(82.707, 144.19, 49.529, 15.153)",
+  "solr_year_i": "1944"
+}

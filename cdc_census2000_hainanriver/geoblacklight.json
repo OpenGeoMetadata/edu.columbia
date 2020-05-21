@@ -1,29 +1,30 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_hainanriver",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_hainanriver",
-  "dc_title_s": "Hainan Rivers, 2000",
-  "dc_description_s": "Hainan Rivers, 2000 is a polyline theme representing rivers in Hainan Provice in China in 2000.  This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000_hainanriver.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000_hainanriver.xml\"}",
-  "georss_box_s": "18.222338 108.623886 19.251131 109.588593",
-  "layer_id_s": "sde:columbia.cdc_census2000_hainanriver",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2011-08-24T00:00:00Z",
-  "layer_slug_s": "sde-columbia-cdc_census2000_hainanriver",
-  "solr_geom": "ENVELOPE(108.623886, 109.588593, 19.251131, 18.222338)",
-  "solr_year_i": "2000",
   "dc_creator_sm": [
     "University of Michigan. China Data Center.",
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
   ],
+  "dc_description_s": "REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Hainan Rivers, 2000 is a polyline theme representing rivers in Hainan Provice in China in 2000.  This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_hainanriver",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "All China Marketing Research Co."
   ],
-  "dc_subject_sm": null,
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "InlandWaters"
+  ],
+  "dc_title_s": "Hainan Rivers, 2000",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cdc_2000_hainan_river.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "China",
     "Hainan Sheng (china)"
@@ -31,9 +32,11 @@
   "dct_temporal_sm": [
     "2000"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
-  ],
-  "georss_polygon_s": "19.251131 108.623886 19.251131 109.588593 18.222338 109.588593 18.222338 108.623886 19.251131 108.623886"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sde:columbia.cdc_census2000_hainanriver",
+  "layer_modified_dt": "2011-08-24T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_hainanriver",
+  "solr_geom": "ENVELOPE(108.623886, 109.588593, 19.251131, 18.222338)",
+  "solr_year_i": "2000"
 }

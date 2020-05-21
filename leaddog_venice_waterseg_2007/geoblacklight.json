@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "LeadDog Consulting, LLC",
+    "NAVTEQ (Firm)"
+  ],
+  "dc_description_s": "Venice Waterway Segments is a line them representing rivers, channels and canals in Venice, Italy.",
+  "dc_format_s": "Shapefile",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.leaddog_venice_waterseg_2007",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "InlandWaters"
+  ],
+  "dc_title_s": "Venice Waterway Segments, 2008",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://www1.columbia.edu/sec/acis/eds/dgate/studies/C1301/data/leaddog_venice_waterseg_2007.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/leaddog_venice_waterseg_2007.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Venice (Italy)"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sde:columbia.leaddog_venice_waterseg_2007",
+  "layer_modified_dt": "2009-05-29T00:00:00Z",
+  "layer_slug_s": "sde-columbia-leaddog_venice_waterseg_2007",
+  "solr_geom": "ENVELOPE(10.69774, 13.02966, 46.59993, 44.79629)",
+  "solr_year_i": "2008"
+}

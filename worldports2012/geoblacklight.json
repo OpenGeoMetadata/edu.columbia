@@ -1,42 +1,43 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.worldports2012",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.worldports2012",
-  "dc_title_s": "World Port Index, 2012",
-  "dc_description_s": "World Port Index, 2012 is a point theme representing port facilities worldwide. This dataset was derived from the 22nd Edition of the World Port Index prepared and published by the United States National Imagery and Mapping Agency.",
-  "dc_rights_s": "Public",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.worldports2012\\u0026outputFormat=SHAPE-ZIP\",\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/worldports2012.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/worldports2012.xml\"}",
-  "georss_box_s": "-77.85 -178.133331 78.916667 179.366669",
-  "layer_id_s": "sde:columbia.worldports2012",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2014-10-07T00:00:00Z",
-  "layer_slug_s": "sde-columbia-worldports2012",
-  "solr_geom": "ENVELOPE(-178.133331, 179.366669, 78.916667, -77.85)",
-  "solr_year_i": "2012",
   "dc_creator_sm": [
-    "Digital Social Science Center (DSSC), Columbia University Libraries",
+    "Research Data Services (RDS), Columbia University Libraries",
     "United States. National Imagery and Mapping Agency"
   ],
+  "dc_description_s": "World Port Index, 2012 is a point theme representing port facilities worldwide. This dataset was derived from the 22nd Edition of the World Port Index prepared and published by the United States National Imagery and Mapping Agency.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.worldports2012",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "National Imagery and Mapping Agency"
   ],
+  "dc_rights_s": "Public",
   "dc_subject_sm": [
-    "transportation",
-    "structure",
-    "oceans"
+    "Oceans",
+    "Structure",
+    "Transportation"
   ],
+  "dc_title_s": "World Port Index, 2012",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+    "World Port Index"
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"https://geoserver.cul.columbia.edu/geoserver/wms/sde\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"https://geoserver.cul.columbia.edu/geoserver/sde/ows\",\"http://schema.org/downloadUrl\":\"http://culspatial-dev.cul.columbia.edu/geoserver/ows?service=WFS\\u0026version=1.0.0\\u0026request=GetFeature\\u0026typeName=Columbia.worldports2012\\u0026outputFormat=SHAPE-ZIP\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/WorldPortIndex2012.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "World"
   ],
   "dct_temporal_sm": [
     "2012"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-    "World Port Index"
-  ],
-  "georss_polygon_s": "78.916667 -178.133331 78.916667 179.366669 -77.85 179.366669 -77.85 -178.133331 78.916667 -178.133331"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.worldports2012",
+  "layer_modified_dt": "2014-10-07T00:00:00Z",
+  "layer_slug_s": "sde-columbia-worldports2012",
+  "solr_geom": "ENVELOPE(-178.133331, 179.366669, 78.916667, -77.85)",
+  "solr_year_i": "2012"
 }

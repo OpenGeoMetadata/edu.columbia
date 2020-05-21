@@ -1,0 +1,44 @@
+{
+  "dc_creator_sm": [
+    "Research Data Services (RDS), Columbia University Libraries",
+    "National Wetlands Inventory (U.S.)",
+    "Dahl, Thomas E.",
+    "U.S. Fish and Wildlife Service.",
+    "Geological Survey (U.S.)"
+  ],
+  "dc_description_s": "This is a scanned version of the 1991 paper map entitled: Wetland resources of the United States published by the United States Fish and Wildlife Service.  The map was scanned at 300 dots per inch and is in the TIFF format.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cul_scannedpublic_1991_uswetlands",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "The Service"
+  ],
+  "dc_rights_s": "Public",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "Wetland resources of the United States, 1991",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/cul_scannedpublic_1991_uswetlands.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cul_scannedpublic_1991_uswetlands.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "United States"
+  ],
+  "dct_temporal_sm": [
+    "1991"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.cul_scannedpublic_1991_uswetlands",
+  "layer_modified_dt": "2008-03-17T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cul_scannedpublic_1991_uswetlands",
+  "solr_geom": "ENVELOPE(-130.7014, -61.1978, 52.4194, 19.6211)",
+  "solr_year_i": "1991"
+}

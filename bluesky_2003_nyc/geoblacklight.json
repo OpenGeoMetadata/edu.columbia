@@ -1,0 +1,51 @@
+{
+  "dc_creator_sm": [
+    "BlueSky International Limited"
+  ],
+  "dc_description_s": "REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Blue Sky New York City Orthomagery is a set of orthophotos representing the entirety of New York City.  The photos were taken in 2003 and have a 25 centimeter resolution.  Tiles are provided in both jpeg and ecw formats.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.bluesky_2003_nyc",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+    "Bluesky International Limited"
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "New York City Blue Sky Orthoimagery, 2003",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/bluesky_2003_nyc.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "New York (N.Y.)",
+    "Brooklyn (New York, N.Y.)",
+    "Bronx (New York, N.Y.)",
+    "Queens (New York, N.Y.)",
+    "Manhattan (New York, N.Y.)",
+    "Staten Island (New York, N.Y.)",
+    "Kings County (N.Y.)",
+    "Richmond County (N.Y.)",
+    "Bronx County (N.Y.)",
+    "Queens County (N.Y.)",
+    "New York County (N.Y.)",
+    "NYC"
+  ],
+  "dct_temporal_sm": [
+    "2003"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.bluesky_2003_nyc",
+  "layer_modified_dt": "2007-08-24T00:00:00Z",
+  "layer_slug_s": "sde-columbia-bluesky_2003_nyc",
+  "solr_geom": "ENVELOPE(-74.050687, -73.694148, 40.921535, 40.489757)",
+  "solr_year_i": "2003"
+}

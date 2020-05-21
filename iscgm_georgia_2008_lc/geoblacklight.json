@@ -1,0 +1,41 @@
+{
+  "dc_creator_sm": [
+    "International Steering Committee for Global Mapping (ISCGM)",
+    "Geographical Survey Institute"
+  ],
+  "dc_description_s": "Georgia Landcover is a raster theme representing land cover classifications throughout Georgia at a resolution of 30 arc seconds.  This layer is a component of the Global Map a 1:1,000,000 scale framework dataset of the world. It consists of vector and raster layers of transport, administrative boundaries, drainage, elevation, vegetation, land use and land cover data. The data were prepared from information provided by national mapping and other organizations worldwide.",
+  "dc_format_s": "GeoTIFF",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.iscgm_georgia_2008_lc",
+  "dc_language_s": "English",
+  "dc_publisher_s": [
+
+  ],
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "ImageryBaseMapsEarthCover"
+  ],
+  "dc_title_s": "Georgia Landcover, 2008",
+  "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"http://www.columbia.edu/acis/eds/gis/images/iscgm_georgia_2008_lc.zip\",\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/iscgm_georgia_2008_lc.xml\"}",
+  "dct_source_sm": [
+
+  ],
+  "dct_spatial_sm": [
+    "Georgia"
+  ],
+  "dct_temporal_sm": [
+    "2008"
+  ],
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Raster",
+  "layer_id_s": "sde:columbia.iscgm_georgia_2008_lc",
+  "layer_modified_dt": "2009-09-25T00:00:00Z",
+  "layer_slug_s": "sde-columbia-iscgm_georgia_2008_lc",
+  "solr_geom": "ENVELOPE(35.999999, 48.0, 45.000001, 40.000001)",
+  "solr_year_i": "2008"
+}

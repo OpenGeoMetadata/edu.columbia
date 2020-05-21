@@ -1,29 +1,30 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_jiangxirail",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_jiangxirail",
-  "dc_title_s": "Jiangxi Railways, 2000",
-  "dc_description_s": "Jiangxi Railways, 2000  is a polyline theme representing railroads and railways in Jiangxi Province in China in 2000. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000_jiangxirail.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000_jiangxirail.xml\"}",
-  "georss_box_s": "24.673811 113.608282 29.748185 118.414769",
-  "layer_id_s": "sde:columbia.cdc_census2000_jiangxirail",
-  "layer_geom_type_s": "Line",
-  "layer_modified_dt": "2011-08-23T00:00:00Z",
-  "layer_slug_s": "sde-columbia-cdc_census2000_jiangxirail",
-  "solr_geom": "ENVELOPE(113.608282, 118.414769, 29.748185, 24.673811)",
-  "solr_year_i": "2000",
   "dc_creator_sm": [
     "University of Michigan. China Data Center.",
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
   ],
+  "dc_description_s": "REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Jiangxi Railways, 2000  is a polyline theme representing railroads and railways in Jiangxi Province in China in 2000. This data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_jiangxirail",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "All China Marketing Research Co."
   ],
-  "dc_subject_sm": null,
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Transportation"
+  ],
+  "dc_title_s": "Jiangxi Railways, 2000",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cdc_2000_jiangxi_rail.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "China",
     "Jiangxi SHeng (China)"
@@ -31,9 +32,11 @@
   "dct_temporal_sm": [
     "2000"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
-  ],
-  "georss_polygon_s": "29.748185 113.608282 29.748185 118.414769 24.673811 118.414769 24.673811 113.608282 29.748185 113.608282"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Line",
+  "layer_id_s": "sde:columbia.cdc_census2000_jiangxirail",
+  "layer_modified_dt": "2011-08-23T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_jiangxirail",
+  "solr_geom": "ENVELOPE(113.608282, 118.414769, 29.748185, 24.673811)",
+  "solr_year_i": "2000"
 }

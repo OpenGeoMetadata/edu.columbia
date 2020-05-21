@@ -1,29 +1,46 @@
 {
-  "uuid": "urn:columbia.edu:Columbia.cdc_census2000_beijingtownshipl1",
-  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_beijingtownshipl1",
-  "dc_title_s": "Beijing Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L1-L6)",
-  "dc_description_s": "Beijing Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L1-L6)  is a point theme representing townships in Beijing Province in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  \n\nThis layer is one (Part A) of two layers covering the entire Long Form data; this layer covers Long Form tables L1-1 to L6-9: L1-1: Family households, population and sex ratio by region; L1-2: Employed population by sex and industries; L1-3: Employed population by sex and occupation; L1-4: Non-working population by sex and type; L1-5 : Employment and Unemployment by Sex; L1-6: Population aged 15 and over by sex and marital status; L1-7: Births by sex and birth order; L1-8: Number of Women (15-50) with Living Births; L1-9 Number of Women (15-50) with Surviving Births.  L4-1: Employed population by sex and two digits classification of industry and by region.  L4-2: Employed population by sex and two digits classification of occupation; L6-1: Age-specific fertility rate and total fertility rate of women aged 15-50 by region; L6-9: Number of children ever born and surviving to women aged 15-50 by region.\n\nThis data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
-  "dc_rights_s": "Restricted",
-  "dct_provenance_s": "Columbia",
-  "dct_references_s": "{\"http://www.w3.org/1999/xhtml\":\"https://geodata.library.columbia.edu/metadata/fgdc/html/cdc_census2000_beijingtownshipl1.html\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geodata.library.columbia.edu/metadata/fgdc/current/cdc_census2000_beijingtownshipl1.xml\"}",
-  "georss_box_s": "39.520973 115.533577 40.89922 117.320374",
-  "layer_id_s": "sde:columbia.cdc_census2000_beijingtownshipl1",
-  "layer_geom_type_s": "Point",
-  "layer_modified_dt": "2009-02-11T00:00:00Z",
-  "layer_slug_s": "sde-columbia-cdc_census2000_beijingtownshipl1",
-  "solr_geom": "ENVELOPE(115.533577, 117.320374, 40.89922, 39.520973)",
-  "solr_year_i": "2000",
   "dc_creator_sm": [
     "University of Michigan. China Data Center.",
     "Beijing Hua tong ren shi chang xin xi you xian ze ren gong si"
   ],
+  "dc_description_s": "REMOTE DOWNLOAD NOT AVAILABLE - please contact data@library.columbia.edu for access. Beijing Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L1-L6)  is a point theme representing townships in Beijing Province in China.  Attribute information includes a variety of variables from the long form data from the 2000 Chinese census.  \n\nThis layer is one (Part A) of two layers covering the entire Long Form data; this layer covers Long Form tables L1-1 to L6-9: L1-1: Family households, population and sex ratio by region; L1-2: Employed population by sex and industries; L1-3: Employed population by sex and occupation; L1-4: Non-working population by sex and type; L1-5 : Employment and Unemployment by Sex; L1-6: Population aged 15 and over by sex and marital status; L1-7: Births by sex and birth order; L1-8: Number of Women (15-50) with Living Births; L1-9 Number of Women (15-50) with Surviving Births.  L4-1: Employed population by sex and two digits classification of industry and by region.  L4-2: Employed population by sex and two digits classification of occupation; L6-1: Age-specific fertility rate and total fertility rate of women aged 15-50 by region; L6-9: Number of children ever born and surviving to women aged 15-50 by region.\n\nThis data layer is part of the China 2000 Township Census data set produced by the All China Marketing Research Co. and distributed by the University of Michigan, China Data Center.",
   "dc_format_s": "Shapefile",
-  "dc_language_s": "",
+  "dc_identifier_s": "urn:columbia.edu:Columbia.cdc_census2000_beijingtownshipl1",
+  "dc_language_s": "English",
   "dc_publisher_s": [
     "All China Marketing Research Co."
   ],
-  "dc_subject_sm": null,
+  "dc_rights_s": "Restricted",
+  "dc_subject_sm": [
+    "Administrative and political divisions",
+    "Childbirth Statistics",
+    "Childbirth Statistics",
+    "Counties",
+    "Demography",
+    "Economy",
+    "Employment",
+    "Family",
+    "Fertility",
+    "Households",
+    "Industrial statistics",
+    "Marital status Statistics",
+    "Occupations",
+    "Population Statistics",
+    "Society",
+    "Unemployment, Sex Statistics",
+    "Vital statistics"
+  ],
+  "dc_title_s": "Beijing Township Locations With 2000 Population Census Data From 9.95% Long Form Data (table L1-L6)",
   "dc_type_s": "Dataset",
+  "dct_isPartOf_sm": [
+
+  ],
+  "dct_issued_s": "",
+  "dct_provenance_s": "Columbia",
+  "dct_references_s": "{\"http://www.opengis.net/cat/csw/csdgm\":\"https://geodata.cul.columbia.edu/metadata/fgdc/current/cdc_2000_beijing_townshipl1.xml\"}",
+  "dct_source_sm": [
+
+  ],
   "dct_spatial_sm": [
     "China",
     "Beijing"
@@ -31,9 +48,11 @@
   "dct_temporal_sm": [
     "2000"
   ],
-  "dct_issued_s": "",
-  "dct_isPartOf_sm": [
-
-  ],
-  "georss_polygon_s": "40.89922 115.533577 40.89922 117.320374 39.520973 117.320374 39.520973 115.533577 40.89922 115.533577"
+  "geoblacklight_version": "1.0",
+  "layer_geom_type_s": "Point",
+  "layer_id_s": "sde:columbia.cdc_census2000_beijingtownshipl1",
+  "layer_modified_dt": "2009-02-11T00:00:00Z",
+  "layer_slug_s": "sde-columbia-cdc_census2000_beijingtownshipl1",
+  "solr_geom": "ENVELOPE(115.533577, 117.320374, 40.89922, 39.520973)",
+  "solr_year_i": "2000"
 }
